@@ -11,14 +11,13 @@ Collection of articles and tidbits that I have found useful or interesting. Arti
 
 ---
 
-# Standards
 
 ## Workflow
 
 * [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 * 
 
-## IETF
+## Standards
 
 * [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
 * 
@@ -39,15 +38,19 @@ Collection of articles and tidbits that I have found useful or interesting. Arti
 * [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
 * [Spending $5k to Learn How Databases Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 * [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
-* 
+* Generate All the Things
+* [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 
-# Linux
+## OpEds
+* [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/)
+
+## Linux
 
 * [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/)
 * [JACK Audio Connection Kit](https://jackaudio.org/)
 * 
 
-## Office
+## Microsoft
 
 * [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/)
 * 
