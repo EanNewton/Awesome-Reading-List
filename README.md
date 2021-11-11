@@ -6,7 +6,7 @@ Collection of articles and tidbits that I have found useful or interesting. Arti
 ---
 
 <!-- TocDown Begin -->
-
+[[TOC]]
 <!-- TocDown End -->
 
 ---
@@ -26,7 +26,7 @@ Collection of articles and tidbits that I have found useful or interesting. Arti
 
 * [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 * [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
-* 
+* [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/)
 
 ## Software Development
 
@@ -48,7 +48,7 @@ Collection of articles and tidbits that I have found useful or interesting. Arti
 
 * [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/)
 * [JACK Audio Connection Kit](https://jackaudio.org/)
-* 
+* [How X Window Managers Work, and How to Write One (Part 1)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
 
 ## Microsoft
 
