@@ -23,7 +23,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Standards
 
 * [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
-* 
+* [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
 
 ## Reverse Engineering & Hardware Hacking
 
@@ -40,6 +40,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
 * [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
 * [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
+* [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 * [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html)
@@ -48,14 +49,20 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 * [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
-## Network 
+## Network & Web
 
+* [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
 * [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 * [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
 * [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
 * [Is It DNS?](https://isitdns.com/)
 * [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/)
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
+* [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
+
+## Vintage & Historical
+
+* [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
 
 ## Linux
 
