@@ -9,7 +9,6 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Table of Contents 
 
 - [Awesome-Reading-List](#awesome-reading-list)
-  * [Workflow](#workflow)
   * [Standards](#standards)
   * [Reverse Engineering & Hardware Hacking](#reverse-engineering---hardware-hacking)
   * [Software Development](#software-development)
@@ -20,10 +19,6 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ---
 
 
-## Workflow
-
-* [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
-* 
 
 ## Standards
 
@@ -69,5 +64,6 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Microsoft
 
 * [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/)
+* [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 * 
 
