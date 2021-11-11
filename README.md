@@ -61,9 +61,17 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [JACK Audio Connection Kit](https://jackaudio.org/)
 * [How X Window Managers Work, and How to Write One (Part 1)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
 
+## Linux Class
+
+* [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information)
+* [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/)
+* [Special Characters](https://www.howtogeek.com/439199/15-special-characters-you-need-to-know-for-bash/)
+* [X11: Disable Cursor](http://noah.org/wiki/cursor_disable_in_X11)
+
 ## Microsoft
 
 * [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/)
 * [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
-* 
+* [Windows 8: Show/Hide Administrative Tools](https://web.archive.org/web/20150905204425/http://www.eightforums.com/tutorials/4861-administrative-tools-hide-show-windows-8-a.html)
+* [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
 
