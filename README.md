@@ -63,6 +63,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Vintage & Historical
 
 * [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
+* [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
 
 ## Linux
 
