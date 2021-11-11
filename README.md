@@ -13,7 +13,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
   * [Standards](#standards)
   * [Reverse Engineering & Hardware Hacking](#reverse-engineering---hardware-hacking)
   * [Software Development](#software-development)
-  * [OpEds](#opeds)
+  * [Network](#network)
   * [Linux](#linux)
   * [Microsoft](#microsoft)
 
