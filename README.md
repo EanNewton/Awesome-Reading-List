@@ -1,13 +1,21 @@
 # Awesome-Reading-List
-Last updated: November 2021
 
-Collection of articles and tidbits that I have found useful or interesting. Articles are loosely categorized but should not be considered to be defined by their category as they often overlap.
+A collection of articles and awesome things to read on a lunch break. 
+
+Picked from things I have found useful or interesting at my discretion. Articles are loosely categorized but should not be considered to be defined by their category as they often overlap.
 
 ---
 
-<!-- TocDown Begin -->
-[[TOC]]
-<!-- TocDown End -->
+## Table of Contents 
+
+- [Awesome-Reading-List](#awesome-reading-list)
+  * [Workflow](#workflow)
+  * [Standards](#standards)
+  * [Reverse Engineering & Hardware Hacking](#reverse-engineering---hardware-hacking)
+  * [Software Development](#software-development)
+  * [OpEds](#opeds)
+  * [Linux](#linux)
+  * [Microsoft](#microsoft)
 
 ---
 
@@ -26,23 +34,31 @@ Collection of articles and tidbits that I have found useful or interesting. Arti
 
 * [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 * [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
-* [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/)
+* [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
+* [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
 
 ## Software Development
 
-* [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
-* [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
-* [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
-* [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
-* [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
-* [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
-* [Spending $5k to Learn How Databases Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 * [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
-* Generate All the Things
+* [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
+* [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)
+* [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
+* [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+* [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+* [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html)
+* [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
+* [Spending $5k to Learn How Databases Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
+* [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
-## OpEds
+## Network 
+
+* [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
+* [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
+* [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
+* [Is It DNS?](https://isitdns.com/)
 * [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/)
+* [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 
 ## Linux
 
