@@ -43,10 +43,13 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 * [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+* [Filesystem Links: Everything You Ever Watned to Know](https://controlaltbackspace.org/filesystem/filesystem-links-everything-you-ever-wanted-to-know/)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html)
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [Spending $5k to Learn How Databases Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
+* [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
+* [Tuple Spaces (or, Good Ideas Don't Always Win](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
 * [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
 ## Network & Web
@@ -77,6 +80,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/)
 * [Special Characters](https://www.howtogeek.com/439199/15-special-characters-you-need-to-know-for-bash/)
 * [X11: Disable Cursor](http://noah.org/wiki/cursor_disable_in_X11)
+* [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710)
 
 ## Microsoft
 
