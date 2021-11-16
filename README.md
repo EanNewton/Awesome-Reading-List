@@ -36,10 +36,11 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Linux Class
 
 * [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information)
+* [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710)
 * [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/)
 * [Special Characters](https://www.howtogeek.com/439199/15-special-characters-you-need-to-know-for-bash/)
+* [Useful Sed](https://github.com/adrianscheff/useful-sed)
 * [X11: Disable Cursor](http://noah.org/wiki/cursor_disable_in_X11)
-* [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710)
 
 ## Microsoft
 
@@ -71,17 +72,32 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Software Development
 
 * [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
+* [Algorithms](https://cp-algorithms.com/index.html) - Provides descriptions of many algorithms and data structures especially popular in field of competitive programming.
 * [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
 * [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
-* [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+* [Fast Checksum Computation](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
 * [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
+* [FizzBuzz at 55GB/s](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html) - Generating good data for testing.
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
-* [Spending $5k to Learn How Databases Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
+
+## Python
+
+* [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
+* [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/)
+* [Garbage Collection in Python: Things You Need to Know](https://rushter.com/blog/python-garbage-collector/)
+* [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
+* [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
+* [Optimatization Tricks of Tuples vs Lists](https://rushter.com/blog/python-lists-and-tuples/)
+
+## Databases
+
+* [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
+* [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
 
 ## Standards
 
@@ -98,4 +114,6 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Vintage & Historical
 
 * [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
+* [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
+* [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
