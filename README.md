@@ -29,12 +29,18 @@ Picked from things I have found useful or interesting at my discretion. Articles
 
 ## Linux
 
-* [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/)
-* [JACK Audio Connection Kit](https://jackaudio.org/)
+* [casync - A Tool for Distributing File System Images](http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html)
+* [debootstrap](https://wiki.debian.org/Debootstrap)
+* [dm-verity](https://www.kernel.org/doc/html/latest/admin-guide/device-mapper/verity.html) - Device-Mapper’s “verity” target provides transparent integrity checking of block devices using a cryptographic digest provided by the kernel crypto API. 
 * [How X Window Managers Work, and How to Write One (Part 1)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
+* [JACK Audio Connection Kit](https://jackaudio.org/)
+* [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html)
+* [mkosi - GitHub Repo](https://github.com/systemd/mkosi)
+* [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/)
 
 ## Linux Class
 
+* [chroot](https://wiki.debian.org/chroot) - on Unix-like operating systems is an operation that changes the apparent root directory for the current running process and its children. 
 * [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information)
 * [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710)
 * [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/)
@@ -93,6 +99,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
 * [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
 * [Optimatization Tricks of Tuples vs Lists](https://rushter.com/blog/python-lists-and-tuples/)
+* [PEP 20: The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
 ## Databases
 
@@ -101,6 +108,8 @@ Picked from things I have found useful or interesting at my discretion. Articles
 
 ## Standards
 
+* [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
+* [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
 * [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
 * [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
 
