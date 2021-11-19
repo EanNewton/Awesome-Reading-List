@@ -9,13 +9,18 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Table of Contents 
 
 - [Awesome-Reading-List](#awesome-reading-list)
+  * [Table of Contents](#table-of-contents)
+  * [Documentation](#documentation)
   * [Encryption](#encryption)
+  * [Git / GitHub / GitLab](#git---github---gitlab)
   * [Linux](#linux)
   * [Linux Class](#linux-class)
   * [Microsoft](#microsoft)
   * [Network & Web](#network---web)
   * [Reverse Engineering & Hardware Hacking](#reverse-engineering---hardware-hacking)
   * [Software Development](#software-development)
+  * [Python](#python)
+  * [Databases](#databases)
   * [Standards](#standards)
   * [System Development](#system-development)
   * [Vintage & Historical](#vintage---historical)
