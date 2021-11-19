@@ -22,10 +22,26 @@ Picked from things I have found useful or interesting at my discretion. Articles
 
 ---
 
+## Documentation
+
+* [heyawhite/tech-writing-tools](https://github.com/heyawhite/tech-writing-tools)
+* [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+* [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
+* [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs)
+* [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools)
+* [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
+* [How to Release a New Open Source Project](https://opensource.zalando.com/docs/releasing/index/)
+
 ## Encryption
 
 * [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/)
 * [Snake Cipher](https://prgomez.com/snake-cipher/)
+
+## Git / GitHub / GitLab
+
+* [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+* [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
+* [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
 
 ## Linux
 
