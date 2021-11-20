@@ -121,7 +121,8 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
 * [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
 * [Optimatization Tricks of Tuples vs Lists](https://rushter.com/blog/python-lists-and-tuples/)
-* [PEP 20: The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+* [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
+* [PEP 20](https://www.python.org/dev/peps/pep-0020/) - The Zen of Python
 
 ## Databases
 
@@ -131,7 +132,6 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## Standards
 
 * [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
-* [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
 * [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
 * [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
 
