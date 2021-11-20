@@ -108,6 +108,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [FizzBuzz at 55GB/s](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html) - Generating good data for testing.
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
+* [Practical Reed-Solomon for Programmers](https://berthub.eu/articles/posts/reed-solomon-for-programmers/) - A practical primer on R-S error correction.
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
