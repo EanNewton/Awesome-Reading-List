@@ -1,15 +1,19 @@
+
+
 # Awesome-Reading-List
 
-A collection of articles and awesome things to read on a lunch break. 
+A collection of articles and awesome things to read on a lunch break.
 
 Picked from things I have found useful or interesting at my discretion. Articles are loosely categorized but should not be considered to be defined by their category as they often overlap.
 
 ---
 
-## Table of Contents 
+## Table of Contents
 
 - [Awesome-Reading-List](#awesome-reading-list)
   * [Table of Contents](#table-of-contents)
+- [BUY ME A COFFEE](#buy-me-a-coffee)
+  * [Databases](#databases)
   * [Documentation](#documentation)
   * [Encryption](#encryption)
   * [Git / GitHub / GitLab](#git---github---gitlab)
@@ -17,25 +21,47 @@ Picked from things I have found useful or interesting at my discretion. Articles
   * [Linux Class](#linux-class)
   * [Microsoft](#microsoft)
   * [Network & Web](#network---web)
+  * [Python](#python)
   * [Reverse Engineering & Hardware Hacking](#reverse-engineering---hardware-hacking)
   * [Software Development](#software-development)
-  * [Python](#python)
-  * [Databases](#databases)
   * [Standards](#standards)
   * [System Development](#system-development)
   * [Vintage & Historical](#vintage---historical)
 
 ---
 
+# BUY ME A COFFEE
+
+---
+
+I love teaching others and seeing the community grow. Time is limited but donations will allow me to to help the community more. How useful was this to you? If it was I would be humbly grateful for your donation.🙏
+
+[paypal.me/keebweeb](https://paypal.me/keebweeb) - to help me help you better.
+
+Thank you! May you be rich as Crassus and happy as Buddha! :)
+
+---
+
+## Databases
+
+* [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
+* [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
+
 ## Documentation
 
+* [Content Workflow Using GitHub and Markdown](https://www.portent.com/blog/content/content-with-github-markdown.htm)
+* [Hemingway App](https://hemingwayapp.com/)
 * [heyawhite/tech-writing-tools](https://github.com/heyawhite/tech-writing-tools)
+* [How to Release a New Open Source Project](https://opensource.zalando.com/docs/releasing/index/)
 * [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+* [Markdown Tutorial](https://www.markdowntutorial.com/) - Learn Markdown
+* [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
 * [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
 * [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs)
-* [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools)
+* [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm)
 * [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
-* [How to Release a New Open Source Project](https://opensource.zalando.com/docs/releasing/index/)
+* [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools)
 
 ## Encryption
 
@@ -52,7 +78,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 
 * [casync - A Tool for Distributing File System Images](http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html)
 * [debootstrap](https://wiki.debian.org/Debootstrap)
-* [dm-verity](https://www.kernel.org/doc/html/latest/admin-guide/device-mapper/verity.html) - Device-Mapper’s “verity” target provides transparent integrity checking of block devices using a cryptographic digest provided by the kernel crypto API. 
+* [dm-verity](https://www.kernel.org/doc/html/latest/admin-guide/device-mapper/verity.html) - Device-Mapper’s “verity” target provides transparent integrity checking of block devices using a cryptographic digest provided by the kernel crypto API.
 * [How X Window Managers Work, and How to Write One (Part 1)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
 * [JACK Audio Connection Kit](https://jackaudio.org/)
 * [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html)
@@ -61,12 +87,16 @@ Picked from things I have found useful or interesting at my discretion. Articles
 
 ## Linux Class
 
-* [chroot](https://wiki.debian.org/chroot) - on Unix-like operating systems is an operation that changes the apparent root directory for the current running process and its children. 
+* [chroot](https://wiki.debian.org/chroot) - on Unix-like operating systems is an operation that changes the apparent root directory for the current running process and its children.
 * [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information)
 * [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710)
 * [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/)
+* [Quick Grep](https://github.com/adrianscheff/quick-grep)
+* [Simple awk](https://github.com/adrianscheff/simple-awk)
 * [Special Characters](https://www.howtogeek.com/439199/15-special-characters-you-need-to-know-for-bash/)
+* [Text Processing Recipes](https://github.com/adrianscheff/text-processing-recipes-linux)
 * [Useful Sed](https://github.com/adrianscheff/useful-sed)
+* [Wizardly Tips for Vim](https://github.com/adrianscheff/wizardly-tips-vim)
 * [X11: Disable Cursor](http://noah.org/wiki/cursor_disable_in_X11)
 
 ## Microsoft
@@ -87,14 +117,25 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 * [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
 
+## Python
+
+* [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
+* [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/)
+* [Garbage Collection in Python: Things You Need to Know](https://rushter.com/blog/python-garbage-collector/)
+* [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
+* [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
+* [Optimatization Tricks of Tuples vs Lists](https://rushter.com/blog/python-lists-and-tuples/)
+* [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
+* [PEP 20](https://www.python.org/dev/peps/pep-0020/) - The Zen of Python
+
 ## Reverse Engineering & Hardware Hacking
 
-* [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
-* [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
-* [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
 * [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
+* [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
 * [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)
 * [Systems Performance: Enterprise and The Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+* [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
+* [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 
 ## Software Development
 
@@ -113,22 +154,6 @@ Picked from things I have found useful or interesting at my discretion. Articles
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
 
-## Python
-
-* [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
-* [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/)
-* [Garbage Collection in Python: Things You Need to Know](https://rushter.com/blog/python-garbage-collector/)
-* [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
-* [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
-* [Optimatization Tricks of Tuples vs Lists](https://rushter.com/blog/python-lists-and-tuples/)
-* [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
-* [PEP 20](https://www.python.org/dev/peps/pep-0020/) - The Zen of Python
-
-## Databases
-
-* [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
-* [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
-
 ## Standards
 
 * [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
@@ -139,7 +164,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 ## System Development
 
 * [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
-* [Filesystem Links: Everything You Ever Watned to Know](https://controlaltbackspace.org/filesystem/filesystem-links-everything-you-ever-wanted-to-know/)
+* [Filesystem Links: Everything You Ever Wanted to Know](https://controlaltbackspace.org/filesystem/filesystem-links-everything-you-ever-wanted-to-know/)
 * [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
 ## Vintage & Historical
