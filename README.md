@@ -42,6 +42,8 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ---
 
+# Awesome Things to Read
+
 ## Databases
 
 * [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
@@ -144,23 +146,21 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Algorithms](https://cp-algorithms.com/index.html) - Provides descriptions of many algorithms and data structures especially popular in field of competitive programming.
 * [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
 * [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
+* [Complexity is Killing Us](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 * [Fast Checksum Computation](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
+* [Faster Auto-Complete Algorithm with a Pruning Radix Trie](https://seekstorm.com/blog/pruning-radix-trie/)
+* [Faster Spelling Correction Algorithm](https://seekstorm.com/blog/1000x-spelling-correction/)
 * [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 * [FizzBuzz at 55GB/s](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html) - Generating good data for testing.
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
+* [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 * [Practical Reed-Solomon for Programmers](https://berthub.eu/articles/posts/reed-solomon-for-programmers/) - A practical primer on R-S error correction.
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
-
-## Standards
-
-* [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
-* [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
-* [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
-
+* [Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 
 ## System Development
 
@@ -174,3 +174,26 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
 * [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
+
+---
+
+# Reference Material
+
+
+## Algorithm References
+
+* [Aho-Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
+* [Berlekamp-Welch](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm)
+* [Damerau-Levenshtein](url)
+* [Hirschberg](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm)
+* [Reed-Solomon](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction)
+
+## Data Structures References
+
+* [Trie](https://en.wikipedia.org/wiki/Trie)
+
+## Standards
+
+* [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
+* [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
+* [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
