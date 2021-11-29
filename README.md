@@ -115,6 +115,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Network & Web
 
 * [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
+* [Everything You Wanted to Know About UDP Sockets but were Afraid to Ask](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 * [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
 * [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
@@ -160,6 +161,8 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 * [Practical Reed-Solomon for Programmers](https://berthub.eu/articles/posts/reed-solomon-for-programmers/) - A practical primer on R-S error correction.
+* [Some Obscure C Features](https://multun.net/obscure-c-features.html)
+* [Stop Celebrating Incompetence](https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725)
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
