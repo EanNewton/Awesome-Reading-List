@@ -192,6 +192,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Berlekamp-Welch](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm)
 * [Damerau-Levenshtein](url)
 * [Hirschberg](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm)
+* [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 * [Reed-Solomon](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction)
 
 ## Data Structures References
