@@ -73,6 +73,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/)
 * [Snake Cipher](https://prgomez.com/snake-cipher/)
 
+## Fun Stuff 
+
+* [QArt Codes](https://research.swtch.com/qart)
+
 ## Git / GitHub / GitLab
 
 * [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
