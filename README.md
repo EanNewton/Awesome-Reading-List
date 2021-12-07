@@ -73,9 +73,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/)
 * [Snake Cipher](https://prgomez.com/snake-cipher/)
 
-## Fun Stuff 
+## Fun Stuff That Doesn't Quite Fit Elsewhere
 
 * [QArt Codes](https://research.swtch.com/qart)
+* [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
 
 ## Git / GitHub / GitLab
 
