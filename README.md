@@ -2,7 +2,7 @@
 
 # Awesome-Reading-List
 
-A collection of articles and awesome things to read on a lunch break.
+A collection of articles and awesome things to read on a lunch break. Never stop learning.
 
 "First – I’m very tired of posts that complain about how people are “wrong” about how a given piece of technology works without explaining why it’s helpful to be “right”." --Julia Evans
 
@@ -59,6 +59,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
 * [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
+
+## Design and UI
+
+* [Fueling the Creation of New Electronic Curbcuts](http://www.accessiblesociety.org/topics/technology/eleccurbcut.htm) - Unusual things happen when products are designed to be accessible to people with disabilities. It wasn't long after sidewalks were redesigned to accommodate wheelchair users that the benefits of curb cuts began to be realized by everyone. 
+* [Privacy By Design: What Needs to be Done, How to do It, and How to Sell It to your Boss](https://medium.com/greater-than-experience-design/privacy-by-design-7b1165d045e0)
 
 ## Documentation
 
@@ -159,6 +164,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Systems Performance: Enterprise and The Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
 * [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
 * [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
+
+## Rule #0: Be awesome to one another and party on
+
+* [Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/)
+* [On Names](https://emmah.net/names.html)
 
 ## Software Development
 
