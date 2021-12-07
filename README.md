@@ -41,10 +41,13 @@ Picked from things I have found useful or interesting at my discretion. Articles
 # BUY ME A COFFEE
 
 ---
-
 I love teaching others and seeing the community grow. Time is limited but donations will allow me to to help the community more. How useful was this to you? If it was I would be humbly grateful for your donation.🙏
 
-[paypal.me/keebweeb](https://paypal.me/keebweeb) - to help me help you better.
+[paypal.me/keebweeb](https://paypal.me/keebweeb) 
+
+[https://www.buymeacoffee.com/keebweeb](https://www.buymeacoffee.com/keebweeb) 
+
+<img src="https://github.com/EanNewton/Awesome-Keebs/blob/main/images/img.buymeacoffee.com.jpg?raw=true" alt="https://www.buymeacoffee.com/keebweeb" style="zoom: 33%;" />
 
 Thank you! May you be rich as Crassus and happy as Buddha! :)
 
