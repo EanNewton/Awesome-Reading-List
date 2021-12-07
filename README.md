@@ -4,6 +4,8 @@
 
 A collection of articles and awesome things to read on a lunch break.
 
+"First – I’m very tired of posts that complain about how people are “wrong” about how a given piece of technology works without explaining why it’s helpful to be “right”." --Julia Evans
+
 Picked from things I have found useful or interesting at my discretion. Articles are loosely categorized but should not be considered to be defined by their category as they often overlap.
 
 ---
@@ -17,6 +19,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
   - [Databases](#databases)
   - [Documentation](#documentation)
   - [Encryption](#encryption)
+  - [Fun Stuff That Doesn't Quite Fit Elsewhere](#fun-stuff-that-doesnt-quite-fit-elsewhere)
   - [Git / GitHub / GitLab](#git--github--gitlab)
   - [Linux](#linux)
   - [Linux Class](#linux-class)
@@ -31,6 +34,8 @@ Picked from things I have found useful or interesting at my discretion. Articles
   - [Algorithm References](#algorithm-references)
   - [Data Structures References](#data-structures-references)
   - [Standards](#standards)
+  - [RFC](#rfc)
+
 ---
 
 # BUY ME A COFFEE
@@ -94,6 +99,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [JACK Audio Connection Kit](https://jackaudio.org/)
 * [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html)
 * [mkosi - GitHub Repo](https://github.com/systemd/mkosi)
+* [No easter eggs in cURL](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
 * [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/)
 
 ## Linux Class
@@ -102,6 +108,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information)
 * [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710)
 * [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/)
+* [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
 * [Quick Grep](https://github.com/adrianscheff/quick-grep)
 * [Simple awk](https://github.com/adrianscheff/simple-awk)
 * [Special Characters](https://www.howtogeek.com/439199/15-special-characters-you-need-to-know-for-bash/)
@@ -120,6 +127,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Network & Web
 
 * [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
+* [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 * [Everything You Wanted to Know About UDP Sockets but were Afraid to Ask](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 * [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
@@ -209,3 +217,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
 * [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
 * [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
+
+## RFC
+
+* [RFC 2308: Negative Caching of DNS Queries (DNS NCACHE)](https://www.rfc-editor.org/rfc/rfc2308)
