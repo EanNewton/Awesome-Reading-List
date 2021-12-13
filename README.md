@@ -161,6 +161,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
 * [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
 * [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)
+* [Playstation Architecture: A practical analysis](https://www.copetti.org/writings/consoles/playstation/)
 * [Reverse Engineering the M1](https://www.youtube.com/watch?v=espRmO41Bg4)
 * [Systems Performance: Enterprise and The Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
 * [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
