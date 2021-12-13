@@ -190,6 +190,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 * [Practical Reed-Solomon for Programmers](https://berthub.eu/articles/posts/reed-solomon-for-programmers/) - A practical primer on R-S error correction.
+* [Simple Stupid Funnel Algorithm](http://digestingduck.blogspot.com/2010/03/simple-stupid-funnel-algorithm.html)
 * [Some Obscure C Features](https://multun.net/obscure-c-features.html)
 * [Stop Celebrating Incompetence](https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725)
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
