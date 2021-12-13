@@ -206,6 +206,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
 * [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
+* [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
 * [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
 
