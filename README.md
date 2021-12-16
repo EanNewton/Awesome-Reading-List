@@ -190,6 +190,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html) - Generating good data for testing.
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
+* [Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [Practical Reed-Solomon for Programmers](https://berthub.eu/articles/posts/reed-solomon-for-programmers/) - A practical primer on R-S error correction.
 * [Simple Stupid Funnel Algorithm](http://digestingduck.blogspot.com/2010/03/simple-stupid-funnel-algorithm.html)
 * [Some Obscure C Features](https://multun.net/obscure-c-features.html)
