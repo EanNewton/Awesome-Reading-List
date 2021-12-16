@@ -141,6 +141,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
 * [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
 * [Is It DNS?](https://isitdns.com/)
+* [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online.
 * [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/)
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 * [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
