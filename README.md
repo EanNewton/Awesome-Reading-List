@@ -88,6 +88,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
+* [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
 * [QArt Codes](https://research.swtch.com/qart)
 * [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
 
