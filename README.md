@@ -109,6 +109,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html)
 * [mkosi - GitHub Repo](https://github.com/systemd/mkosi)
 * [No easter eggs in cURL](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
+* [The growth of command line options: 1979 - present](https://danluu.com/cli-complexity/)
 * [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/)
 
 ## Linux Class
@@ -215,6 +216,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
 * [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
+* [Why ISO was retired](https://bkhome.org/news/202112/why-iso-was-retired-part-2.html)
 
 ---
 
