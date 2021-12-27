@@ -236,6 +236,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [Trie](https://en.wikipedia.org/wiki/Trie)
 
+## Hardware
+
+* [The Pinouts Book](https://pinouts.org/)
+
 ## Standards
 
 * [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
