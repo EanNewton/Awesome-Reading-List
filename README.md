@@ -183,6 +183,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [An Illustrated guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
 * [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
 * [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
+* [Bootstrapping a small math library](https://www.johndcook.com/blog/2021/01/05/bootstrapping-math-library/)
 * [Complexity is Killing Us](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 * [Fast Checksum Computation](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
@@ -205,14 +206,20 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## System Development
 
+* [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
 * [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [Filesystem Links: Everything You Ever Wanted to Know](https://controlaltbackspace.org/filesystem/filesystem-links-everything-you-ever-wanted-to-know/)
 * [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
+
+## Videos
+
+* ["Uptime 15,364 Days" - The Computers of Voyager](https://www.youtube.com/watch?v=H62hZJVqs2o)
 
 ## Vintage & Historical
 
 * [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
 * [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
+* [A Short History of Objective-C](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 * [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
 * [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
@@ -229,11 +236,13 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Berlekamp-Welch](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm)
 * [Damerau-Levenshtein](url)
 * [Hirschberg](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm)
+* [Lamports Bakery](https://en.wikipedia.org/wiki/Lamport%27s_bakery_algorithm)
 * [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
 * [Reed-Solomon](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction)
 
 ## Data Structures References
 
+* [Lengauer Tarjan Dominator Tree](https://www.boost.org/doc/libs/1_66_0/libs/graph/doc/lengauer_tarjan_dominator.htm)
 * [Trie](https://en.wikipedia.org/wiki/Trie)
 
 ## Hardware
