@@ -161,6 +161,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Reverse Engineering & Hardware Hacking
 
+* [Bypasssing early 2000's copy protection](https://blog.paavo.me/masa-copy-protection/)
 * [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
 * [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
 * [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
