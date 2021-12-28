@@ -47,8 +47,6 @@ I love teaching others and seeing the community grow. Time is limited but donati
 
 [https://www.buymeacoffee.com/keebweeb](https://www.buymeacoffee.com/keebweeb) 
 
-<img src="https://github.com/EanNewton/Awesome-Keebs/blob/main/images/img.buymeacoffee.com.jpg?raw=true" alt="https://www.buymeacoffee.com/keebweeb" style="zoom: 33%;" />
-
 Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ---
@@ -83,12 +81,14 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Encryption
 
+* [DRM is not to prevent copyright violations](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2)
 * [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/)
 * [Snake Cipher](https://prgomez.com/snake-cipher/)
 
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
 * [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
+* [Japan's paper culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
 * [QArt Codes](https://research.swtch.com/qart)
 * [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
 
