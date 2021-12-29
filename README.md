@@ -87,8 +87,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
+* [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 * [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
 * [Japan's paper culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
+* [Network Protocols in Orbit: Building a Space ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/)
 * [QArt Codes](https://research.swtch.com/qart)
 * [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
 
@@ -193,13 +195,17 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time)
 * [FizzBuzz at 55GB/s](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html) - Generating good data for testing.
+* [Large Scale Terrain Generation from Tectonic Uplift and Fluvial Erosion](https://hal.inria.fr/hal-01262376/document)
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 * [Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [Practical Reed-Solomon for Programmers](https://berthub.eu/articles/posts/reed-solomon-for-programmers/) - A practical primer on R-S error correction.
+* [Progressive Growing of GANs](https://github.com/tkarras/progressive_growing_of_gans)
+* [Random points on a sphere](https://www.jasondavies.com/maps/random-points/)
 * [Simple Stupid Funnel Algorithm](http://digestingduck.blogspot.com/2010/03/simple-stupid-funnel-algorithm.html)
 * [Some Obscure C Features](https://multun.net/obscure-c-features.html)
 * [Stop Celebrating Incompetence](https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725)
+* [Terrain Erosion Generation 3 Ways](https://github.com/dandrino/terrain-erosion-3-ways)
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
@@ -215,6 +221,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Videos
 
 * ["Uptime 15,364 Days" - The Computers of Voyager](https://www.youtube.com/watch?v=H62hZJVqs2o)
+* [Stanford - Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ## Vintage & Historical
 
@@ -235,10 +242,13 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [Aho-Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
 * [Berlekamp-Welch](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm)
-* [Damerau-Levenshtein](url)
+* [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance)
+* [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
 * [Hirschberg](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm)
 * [Lamports Bakery](https://en.wikipedia.org/wiki/Lamport%27s_bakery_algorithm)
 * [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
+* [Mitchell's Best Cadidate](https://bl.ocks.org/mbostock/1893974)
+* [Poisson Disk Sampling](https://www.jasondavies.com/poisson-disc/)
 * [Reed-Solomon](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction)
 
 ## Data Structures References
