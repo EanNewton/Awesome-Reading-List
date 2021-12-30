@@ -269,3 +269,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## RFC
 
 * [RFC 2308: Negative Caching of DNS Queries (DNS NCACHE)](https://www.rfc-editor.org/rfc/rfc2308)
+
+---
+
+# TODO
+
+* [Lobste.rs How do you have your keyboard layered?](https://lobste.rs/s/2ps6iq/how_do_you_use_layers_on_your_keyboard)
