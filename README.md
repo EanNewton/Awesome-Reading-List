@@ -154,12 +154,21 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
 * [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/)
+* [Flake8: Style Guide Enforcement Checker](https://flake8.pycqa.org/en/latest/index.html)
 * [Garbage Collection in Python: Things You Need to Know](https://rushter.com/blog/python-garbage-collector/)
 * [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
+* [Keyword-only arguments](https://lukeplant.me.uk/blog/posts/keyword-only-arguments-in-python/) - See also [PEP 3102](https://www.python.org/dev/peps/pep-3102/)
+* [Positional-only arguments](https://www.python.org/dev/peps/pep-0570/#how-to-teach-this)
+* [MyPy: Static Typing for Python](http://mypy-lang.org/)
 * [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
 * [Optimatization Tricks of Tuples vs Lists](https://rushter.com/blog/python-lists-and-tuples/)
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
 * [PEP 20](https://www.python.org/dev/peps/pep-0020/) - The Zen of Python
+* [Python Type Hints: Avoiding the Boolean Trap](https://adamj.eu/tech/2021/07/10/python-type-hints-how-to-avoid-the-boolean-trap/)
+* [Python Type Hints: How to use the overload decorator](https://adamj.eu/tech/2021/05/29/python-type-hints-how-to-use-overload/)
+* [Python Type Hints: How to type a context manager](https://adamj.eu/tech/2021/07/04/python-type-hints-how-to-type-a-context-manager/)
+* [Python Type Hints: Typeguard](https://adamj.eu/tech/2021/06/09/python-type-hints-how-to-narrow-types-with-typeguard/) - See also [PEP 647](https://www.python.org/dev/peps/pep-0647/)
+* [Python Type Hints: Use Cases for types Module](https://adamj.eu/tech/2021/09/08/python-type-hints-use-cases-for-the-types-module/)
 
 ## Reverse Engineering & Hardware Hacking
 
@@ -231,6 +240,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
 * [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
+* [Taking this Serially: RS-232 History](https://computer.rip/2021-01-12%20taking%20this%20serially.html)
 * [Why ISO was retired](https://bkhome.org/news/202112/why-iso-was-retired-part-2.html)
 
 ---
@@ -250,6 +260,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Mitchell's Best Cadidate](https://bl.ocks.org/mbostock/1893974)
 * [Poisson Disk Sampling](https://www.jasondavies.com/poisson-disc/)
 * [Reed-Solomon](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction)
+* [Stochastic Rounding](https://en.wikipedia.org/wiki/Rounding#Stochastic_rounding)
 
 ## Data Structures References
 
@@ -263,6 +274,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Standards
 
 * [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
+* [PEP 484: Type Hints](https://www.python.org/dev/peps/pep-0484/)
 * [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
 * [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
 
