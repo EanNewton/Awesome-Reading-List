@@ -87,6 +87,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
+* [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html)
 * [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 * [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
 * [Japan's paper culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
@@ -178,6 +179,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
 * [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)
 * [Playstation Architecture: A practical analysis](https://www.copetti.org/writings/consoles/playstation/)
+* [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
 * [Reverse Engineering the M1](https://www.youtube.com/watch?v=espRmO41Bg4)
 * [Systems Performance: Enterprise and The Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
 * [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
@@ -225,6 +227,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
 * [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [Filesystem Links: Everything You Ever Wanted to Know](https://controlaltbackspace.org/filesystem/filesystem-links-everything-you-ever-wanted-to-know/)
+* [Modules, Monoliths, and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
 * [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
 ## Videos
@@ -236,6 +239,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
 * [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
+* [Booting the IBM 1401](http://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html)
 * [A Short History of Objective-C](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 * [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
@@ -270,6 +274,19 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Hardware
 
 * [The Pinouts Book](https://pinouts.org/)
+
+## Laws
+
+* [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law) - Adding manpower to a late software project makes it later.
+* [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) - Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
+* [Eagleson's Law](https://ask.metafilter.com/200910/Who-is-Eagleson-and-where-did-Eaglesons-law-originate) - Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.
+* [LGTM Dilemna](https://twitter.com/jschauma/status/1359349133836976129) - If you want to quickly ship a 10 line code change, hide it in a 1500 line pull request.
+* [Pareto's Fallacy](https://en.wikipedia.org/wiki/Pareto_principle) - When you're 80% done, you think you only have 20% left.
+* [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law) - Work expands so as to fill the time available for its completion.
+* [Peter's Principle](https://en.wikipedia.org/wiki/Peter_principle) - In a hierarchy, every employee tends to rise to their level of incompetence. Thus, in time, every post tends to be occupied by an employee who is incompetent to carry out its duties.
+* Schrödinger's Backup - The condition of any backup is unknown until a restore is attempted.
+* [Sturgeon's Law](https://en.wikipedia.org/wiki/Sturgeon%27s_law) - 90% of everything is crap.
+* [Zawinski's Law](https://matt-rickard.com/zawinskis-law/) - Every program attempts to expand until it includes a web server. Those programs which cannot so expand are replaced by ones which can.
 
 ## Standards
 
