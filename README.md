@@ -178,6 +178,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
 * [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
 * [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)
+* [Mechanical Computing Systems Using Only Links and Rotary Joints](https://arxiv.org/pdf/1801.03534.pdf)
 * [Playstation Architecture: A practical analysis](https://www.copetti.org/writings/consoles/playstation/)
 * [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
 * [Reverse Engineering the M1](https://www.youtube.com/watch?v=espRmO41Bg4)
@@ -246,6 +247,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
 * [Taking this Serially: RS-232 History](https://computer.rip/2021-01-12%20taking%20this%20serially.html)
 * [Why ISO was retired](https://bkhome.org/news/202112/why-iso-was-retired-part-2.html)
+* [WinWorld: Vintage Operating System Downloads](https://winworldpc.com/library/operating-systems)
 
 ---
 
@@ -277,16 +279,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Laws
 
-* [Brook's Law](https://en.wikipedia.org/wiki/Brooks%27s_law) - Adding manpower to a late software project makes it later.
-* [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) - Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
-* [Eagleson's Law](https://ask.metafilter.com/200910/Who-is-Eagleson-and-where-did-Eaglesons-law-originate) - Any code of your own that you haven't looked at for six or more months might as well have been written by someone else.
-* [LGTM Dilemna](https://twitter.com/jschauma/status/1359349133836976129) - If you want to quickly ship a 10 line code change, hide it in a 1500 line pull request.
-* [Pareto's Fallacy](https://en.wikipedia.org/wiki/Pareto_principle) - When you're 80% done, you think you only have 20% left.
-* [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law) - Work expands so as to fill the time available for its completion.
-* [Peter's Principle](https://en.wikipedia.org/wiki/Peter_principle) - In a hierarchy, every employee tends to rise to their level of incompetence. Thus, in time, every post tends to be occupied by an employee who is incompetent to carry out its duties.
-* Schrödinger's Backup - The condition of any backup is unknown until a restore is attempted.
-* [Sturgeon's Law](https://en.wikipedia.org/wiki/Sturgeon%27s_law) - 90% of everything is crap.
-* [Zawinski's Law](https://matt-rickard.com/zawinskis-law/) - Every program attempts to expand until it includes a web server. Those programs which cannot so expand are replaced by ones which can.
+* [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 
 ## Standards
 
