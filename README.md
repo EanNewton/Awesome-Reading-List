@@ -101,9 +101,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
 * [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
 
-## Linux
+## Linux / Unix / BSD
 
+* [A Survey of UNIX init schemes](https://arxiv.org/pdf/0706.2748.pdf)
 * [casync - A Tool for Distributing File System Images](http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html)
+* [Create a user called '0day' and get root privs!](https://www.theregister.com/2017/07/05/linux_systemd_grants_root_to_invalid_user_accounts/)
 * [debootstrap](https://wiki.debian.org/Debootstrap)
 * [dm-verity](https://www.kernel.org/doc/html/latest/admin-guide/device-mapper/verity.html) - Device-Mapper’s “verity” target provides transparent integrity checking of block devices using a cryptographic digest provided by the kernel crypto API.
 * [Gentoo is Rice](https://www.shlomifish.org/humour/by-others/funroll-loops/Gentoo-is-Rice.html)
@@ -112,7 +114,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html)
 * [mkosi - GitHub Repo](https://github.com/systemd/mkosi)
 * [No easter eggs in cURL](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
+* [Setting the record straight: containers vs Zones vs Jails vs VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/)
+* [Technical Reasons to choose FreeBSD over Linux](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
 * [The growth of command line options: 1979 - present](https://danluu.com/cli-complexity/)
+* [The important UNIX idea of the Virtual File System](https://utcc.utoronto.ca/~cks/space/blog/unix/VFSImportance)
+* [The real motivation behind systemd](https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html)
 * [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/)
 
 ## Linux Class
@@ -173,6 +179,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Reverse Engineering & Hardware Hacking
 
+* [An Ancient Greek Astronomical Calculation Machine Reveals New Secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
 * [Bypasssing early 2000's copy protection](https://blog.paavo.me/masa-copy-protection/)
 * [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
 * [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
@@ -239,6 +246,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Vintage & Historical
 
 * [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
+* [A History of modern init systems](https://blog.darknedgy.net/technology/2015/09/05/0/)
 * [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
 * [Booting the IBM 1401](http://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html)
 * [A Short History of Objective-C](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
@@ -291,6 +299,14 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## RFC
 
 * [RFC 2308: Negative Caching of DNS Queries (DNS NCACHE)](https://www.rfc-editor.org/rfc/rfc2308)
+
+
+---
+
+# Places to Find Things
+
+* [arXiv](https://arxiv.org/) - Cornell University's archive of free distribution service and an open-access archive for 2,000,301 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
+* [LibGen](https://libgen.is/)
 
 ---
 
