@@ -62,7 +62,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Databases
 
 * [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
+* [Postgres Hashing](https://www.postgresql.org/docs/current/hash-intro.html)
 * [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
+* [Twitter's Snowflake ID](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake)
+* [UUID's and ULID's](https://sudhir.io/uuids-ulids)
+* [UUID to UTF-8 in Ruby](https://gist.github.com/snikch/6969879)
 
 ## Design and UI
 
@@ -91,8 +95,13 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/)
 * [Snake Cipher](https://prgomez.com/snake-cipher/)
 
+## Food and Cooking
+
+* [Healthy Soil is the real key to feeding the world](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/)
+
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
+* [52 Things I learned in 2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1)
 * [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html)
 * [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 * [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
@@ -152,6 +161,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Network & Web
 
 * [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
+* [Breaking out of the Box](https://alistapart.com/article/breaking-out-of-the-box/)
 * [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 * [Everything You Wanted to Know About UDP Sockets but were Afraid to Ask](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
@@ -195,6 +205,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Playstation Architecture: A practical analysis](https://www.copetti.org/writings/consoles/playstation/)
 * [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
 * [Reverse Engineering the M1](https://www.youtube.com/watch?v=espRmO41Bg4)
+* [Scan of the Month: Game Boy Compendium](https://scanofthemonth.com/)
 * [Systems Performance: Enterprise and The Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
 * [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
 * [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
@@ -221,6 +232,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [FizzBuzz at 55GB/s](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html) - Generating good data for testing.
 * [Large Scale Terrain Generation from Tectonic Uplift and Fluvial Erosion](https://hal.inria.fr/hal-01262376/document)
+* [Long Division](https://tavianator.com/2022/long_division.html)
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 * [Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
@@ -235,6 +247,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
 * [Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+
+## Statistics & Math
+
+* [The Flaw of Averages](https://hbr.org/2002/11/the-flaw-of-averages)
 
 ## System Development
 
@@ -255,6 +271,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [A History of modern init systems](https://blog.darknedgy.net/technology/2015/09/05/0/)
 * [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
 * [Booting the IBM 1401](http://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html)
+* [Decades of Computing: Machines built to last](https://www.datagubbe.se/30yearcomp/)
 * [A Short History of Objective-C](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 * [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
@@ -274,16 +291,22 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Berlekamp-Welch](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm)
 * [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance)
 * [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
+* [Euler Method](https://en.wikipedia.org/wiki/Euler_method)
 * [Hirschberg](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm)
+* [Huen's Method](http://calculuslab.deltacollege.edu/ODE/7-C-2/7-C-2-h.html)
 * [Lamports Bakery](https://en.wikipedia.org/wiki/Lamport%27s_bakery_algorithm)
 * [Mersenne Twister](https://en.wikipedia.org/wiki/Mersenne_Twister)
+* [Midpoint Method](https://en.wikipedia.org/wiki/Midpoint_method)
 * [Mitchell's Best Cadidate](https://bl.ocks.org/mbostock/1893974)
 * [Poisson Disk Sampling](https://www.jasondavies.com/poisson-disc/)
+* [Ralston's Second Order Method](http://www.mymathlib.com/diffeq/runge-kutta/runge_kutta_ralston_2.html)
 * [Reed-Solomon](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction)
+* [Runge-Kutta Method](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) - See Also: [Visualizing the Runge-Kutta Method](https://www.haroldserrano.com/blog/visualizing-the-runge-kutta-method)
 * [Stochastic Rounding](https://en.wikipedia.org/wiki/Rounding#Stochastic_rounding)
 
 ## Data Structures References
 
+* [Base32](https://www.crockford.com/base32.html)
 * [Lengauer Tarjan Dominator Tree](https://www.boost.org/doc/libs/1_66_0/libs/graph/doc/lengauer_tarjan_dominator.htm)
 * [Trie](https://en.wikipedia.org/wiki/Trie)
 
@@ -305,6 +328,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## RFC
 
 * [RFC 2308: Negative Caching of DNS Queries (DNS NCACHE)](https://www.rfc-editor.org/rfc/rfc2308)
+* [RFC 4122: A Universally Unique IDentifier (UUID) URN Namespace](https://datatracker.ietf.org/doc/html/rfc4122)
 
 
 ---
