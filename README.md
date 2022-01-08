@@ -104,12 +104,15 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [52 Things I learned in 2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1)
 * [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html)
+* [Antenna Theory](https://www.antenna-theory.com/)
 * [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 * [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
 * [Japan's paper culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
 * [Network Protocols in Orbit: Building a Space ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/)
+* [Notes from the end of a very long life](https://www.nytimes.com/2022/01/06/nyregion/ruth-willig-oldest-new-yorkers.html)
 * [QArt Codes](https://research.swtch.com/qart)
 * [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
+* [Quit your job](https://palladiummag.com/2022/01/06/quit-your-job/)
 
 ## Git / GitHub / GitLab
 
