@@ -113,6 +113,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [QArt Codes](https://research.swtch.com/qart)
 * [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
 * [Quit your job](https://palladiummag.com/2022/01/06/quit-your-job/)
+* [Unusual Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
 
 ## Git / GitHub / GitLab
 
@@ -318,9 +319,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [The Pinouts Book](https://pinouts.org/)
 
-## Laws
+## Lists
 
+* [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference)
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+* [Trailblazers](https://trailblazerlist.xyz/)
 
 ## Standards
 
