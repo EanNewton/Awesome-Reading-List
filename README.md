@@ -10,7 +10,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
 
 ---
 
-## Table of Contents
+# Table of contents
 
 - [BUY ME A COFFEE](#buy-me-a-coffee)
 - [Awesome Things to Read](#awesome-things-to-read)
@@ -18,6 +18,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
   - [Design and UI](#design-and-ui)
   - [Documentation](#documentation)
   - [Encryption](#encryption)
+  - [Food and Cooking](#food-and-cooking)
   - [Fun Stuff That Doesn't Quite Fit Elsewhere](#fun-stuff-that-doesnt-quite-fit-elsewhere)
   - [Git / GitHub / GitLab](#git--github--gitlab)
   - [Linux / Unix / BSD](#linux--unix--bsd)
@@ -28,6 +29,7 @@ Picked from things I have found useful or interesting at my discretion. Articles
   - [Reverse Engineering & Hardware Hacking](#reverse-engineering--hardware-hacking)
   - [Rule #0: Be awesome to one another and party on](#rule-0-be-awesome-to-one-another-and-party-on)
   - [Software Development](#software-development)
+  - [Statistics & Math](#statistics--math)
   - [System Development](#system-development)
   - [Videos](#videos)
   - [Vintage & Historical](#vintage--historical)
@@ -35,12 +37,12 @@ Picked from things I have found useful or interesting at my discretion. Articles
   - [Algorithm References](#algorithm-references)
   - [Data Structures References](#data-structures-references)
   - [Hardware](#hardware)
-  - [Laws](#laws)
+  - [Lists](#lists)
+  - [Organizations](#organizations)
   - [Standards](#standards)
   - [RFC](#rfc)
 - [Places to Find Things](#places-to-find-things)
 - [TODO](#todo)
-
 
 ---
 
