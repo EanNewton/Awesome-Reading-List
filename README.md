@@ -104,6 +104,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [52 Things I learned in 2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1)
 * [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html)
+* [A few things I learned live streaming](https://dantepfer.com/blog/?p=1005)
+* [Amateurs vs Professionals](https://fs.blog/amateurs-professionals/)
+* [Amish Hackers](https://kk.org/thetechnium/amish-hackers-a/)
 * [Antenna Theory](https://www.antenna-theory.com/)
 * [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 * [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
@@ -113,6 +116,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [QArt Codes](https://research.swtch.com/qart)
 * [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
 * [Quit your job](https://palladiummag.com/2022/01/06/quit-your-job/)
+* [Secret military telephone buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
 * [Unusual Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
 
 ## Git / GitHub / GitLab
@@ -162,6 +166,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 * [Windows 8: Show/Hide Administrative Tools](https://web.archive.org/web/20150905204425/http://www.eightforums.com/tutorials/4861-administrative-tools-hide-show-windows-8-a.html)
 * [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
+* [Why Pinball was removed from Windows Vista](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803)
 
 ## Network & Web
 
@@ -174,9 +179,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
 * [Is It DNS?](https://isitdns.com/)
 * [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online.
+* [NVIDIA Cumulus and Sonic ethernet OS's](https://www.nvidia.com/en-us/networking/ethernet-switching/)
 * [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/)
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 * [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
+* [Why are Hyperlinks blue, revisted](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
 
 ## Python
 
@@ -186,6 +193,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Garbage Collection in Python: Things You Need to Know](https://rushter.com/blog/python-garbage-collector/)
 * [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
 * [Keyword-only arguments](https://lukeplant.me.uk/blog/posts/keyword-only-arguments-in-python/) - See also [PEP 3102](https://www.python.org/dev/peps/pep-3102/)
+* [Neural Network from scratch](https://sirupsen.com/napkin/neural-net)
 * [Positional-only arguments](https://www.python.org/dev/peps/pep-0570/#how-to-teach-this)
 * [MyPy: Static Typing for Python](http://mypy-lang.org/)
 * [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
@@ -202,8 +210,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 * [An Ancient Greek Astronomical Calculation Machine Reveals New Secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
 * [Bypasssing early 2000's copy protection](https://blog.paavo.me/masa-copy-protection/)
+* [Dumping Firmware with a 555](https://jrainimo.com/build/2022/01/dumping-firmware-with-a-555/)
 * [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
 * [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
+* [Ghost in the ethernet optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
 * [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
 * [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)
 * [Mechanical Computing Systems Using Only Links and Rotary Joints](https://arxiv.org/pdf/1801.03534.pdf)
@@ -212,6 +222,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Reverse Engineering the M1](https://www.youtube.com/watch?v=espRmO41Bg4)
 * [Scan of the Month: Game Boy Compendium](https://scanofthemonth.com/)
 * [Systems Performance: Enterprise and The Cloud](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+* [Teaching a cheap ethernet switch new tricks](https://blog.benjojo.co.uk/post/dell-switch-hacking)
 * [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
 * [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 
@@ -229,6 +240,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
 * [Bootstrapping a small math library](https://www.johndcook.com/blog/2021/01/05/bootstrapping-math-library/)
 * [Complexity is Killing Us](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
+* [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming?a_aid=viebel&a_bid=d5b546b7)
+* [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming?a_aid=viebel&a_bid=d5b546b7) - The full book
+* [Distinction between 3 data related paradigms](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 * [Fast Checksum Computation](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
 * [Faster Auto-Complete Algorithm with a Pruning Radix Trie](https://seekstorm.com/blog/pruning-radix-trie/)
@@ -242,8 +256,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 * [Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [Practical Reed-Solomon for Programmers](https://berthub.eu/articles/posts/reed-solomon-for-programmers/) - A practical primer on R-S error correction.
+* [Procedural Worlds from tiles](https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html)
 * [Progressive Growing of GANs](https://github.com/tkarras/progressive_growing_of_gans)
 * [Random points on a sphere](https://www.jasondavies.com/maps/random-points/)
+* [Rethinking Errors](http://neugierig.org/software/blog/2022/01/rethinking-errors.html)
 * [Simple Stupid Funnel Algorithm](http://digestingduck.blogspot.com/2010/03/simple-stupid-funnel-algorithm.html)
 * [Some Obscure C Features](https://multun.net/obscure-c-features.html)
 * [Stop Celebrating Incompetence](https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725)
@@ -251,7 +267,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [The Joy of Concurrent Logic Programming](http://www.call-with-current-continuation.org/articles/the-joy-of-concurrent-logic-programming.txt)
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
+* [VS Code vs JetBrains](https://blankly.finance/vscode-vs-jetbrains/)
 * [Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+
 
 ## Statistics & Math
 
@@ -275,12 +293,13 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
 * [A History of modern init systems](https://blog.darknedgy.net/technology/2015/09/05/0/)
 * [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
+* [A Short History of Objective-C](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 * [Booting the IBM 1401](http://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html)
 * [Decades of Computing: Machines built to last](https://www.datagubbe.se/30yearcomp/)
-* [A Short History of Objective-C](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 * [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
 * [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
+* [Software Library: Screensavers](https://archive.org/details/softwarelibrary_screensavers)
 * [Taking this Serially: RS-232 History](https://computer.rip/2021-01-12%20taking%20this%20serially.html)
 * [Why ISO was retired](https://bkhome.org/news/202112/why-iso-was-retired-part-2.html)
 * [WinWorld: Vintage Operating System Downloads](https://winworldpc.com/library/operating-systems)
@@ -324,6 +343,10 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference)
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 * [Trailblazers](https://trailblazerlist.xyz/)
+
+## Organizations
+
+* [Open Compute Project](https://www.opencompute.org/)
 
 ## Standards
 
