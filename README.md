@@ -101,6 +101,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Food and Cooking
 
 * [Healthy Soil is the real key to feeding the world](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/)
+* [One of the most famous Victorian dishes is a lie](https://www.atlasobscura.com/articles/victorian-brown-windsor-soup)
 
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
@@ -112,13 +113,18 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Antenna Theory](https://www.antenna-theory.com/)
 * [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
 * [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
+* [How bad is QWERTY really?](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
+* [How rocket engines are cooled](https://everydayastronaut.com/engine-cooling-methodes/)
 * [Japan's paper culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
+* [Mall Ninjas](https://lonelymachines.org/mall-ninjas/)
 * [Network Protocols in Orbit: Building a Space ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/)
 * [Notes from the end of a very long life](https://www.nytimes.com/2022/01/06/nyregion/ruth-willig-oldest-new-yorkers.html)
 * [QArt Codes](https://research.swtch.com/qart)
 * [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
 * [Quit your job](https://palladiummag.com/2022/01/06/quit-your-job/)
+* [Roguelikes: The misnamed genre](https://zorbathut.livejournal.com/827037.html)
 * [Secret military telephone buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
+* [Terran Republic Interstellar Plotting System](https://github.com/BoatrightTBC/trips)
 * [Unusual Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
 
 ## Git / GitHub / GitLab
@@ -162,6 +168,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Wizardly Tips for Vim](https://github.com/adrianscheff/wizardly-tips-vim)
 * [X11: Disable Cursor](http://noah.org/wiki/cursor_disable_in_X11)
 
+## Mathematics
+
+* [High dimenionsal sphere spilling out of a high dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
+* [Matrix multiplication](http://matrixmultiplication.xyz/)
+
 ## Microsoft
 
 * [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/)
@@ -175,6 +186,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
 * [Breaking out of the Box](https://alistapart.com/article/breaking-out-of-the-box/)
 * [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
+* [DOS on Dope](https://secretgeek.net/dod_intro)
 * [Everything You Wanted to Know About UDP Sockets but were Afraid to Ask](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 * [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
@@ -182,6 +194,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Is It DNS?](https://isitdns.com/)
 * [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online.
 * [NVIDIA Cumulus and Sonic ethernet OS's](https://www.nvidia.com/en-us/networking/ethernet-switching/)
+* [SSH Bastion Hosts: Setting up](https://goteleport.com/blog/ssh-bastion-host/)
+* [SSH Bastion Hosts: Security best practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
+* [The Cyber-Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 * [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/)
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 * [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
@@ -192,6 +207,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
 * [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/)
 * [Flake8: Style Guide Enforcement Checker](https://flake8.pycqa.org/en/latest/index.html)
+* [Folders.py](https://github.com/SinaKhalili/Folders.py)
 * [Garbage Collection in Python: Things You Need to Know](https://rushter.com/blog/python-garbage-collector/)
 * [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
 * [Keyword-only arguments](https://lukeplant.me.uk/blog/posts/keyword-only-arguments-in-python/) - See also [PEP 3102](https://www.python.org/dev/peps/pep-3102/)
@@ -233,6 +249,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/)
 * [On Names](https://emmah.net/names.html)
 
+## Security
+
+* [10 Stories of how we've compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
+* [The curious case of the raspberry pi in the closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
+
 ## Software Development
 
 * [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
@@ -245,6 +266,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming?a_aid=viebel&a_bid=d5b546b7)
 * [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming?a_aid=viebel&a_bid=d5b546b7) - The full book
 * [Distinction between 3 data related paradigms](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
+* [Don't try to sanitize input, Escape output](https://benhoyt.com/writings/dont-sanitize-do-escape/)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 * [Fast Checksum Computation](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
 * [Faster Auto-Complete Algorithm with a Pruning Radix Trie](https://seekstorm.com/blog/pruning-radix-trie/)
@@ -283,6 +305,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 * [Filesystem Links: Everything You Ever Wanted to Know](https://controlaltbackspace.org/filesystem/filesystem-links-everything-you-ever-wanted-to-know/)
 * [Modules, Monoliths, and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
+* [Resources to learn distributed systems](https://pierrezemb.fr/posts/distsys-resources/)
 * [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
 ## Videos
@@ -333,6 +356,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Data Structures References
 
 * [Base32](https://www.crockford.com/base32.html)
+* [Kuramoto Model](https://en.wikipedia.org/wiki/Kuramoto_model)
 * [Lengauer Tarjan Dominator Tree](https://www.boost.org/doc/libs/1_66_0/libs/graph/doc/lengauer_tarjan_dominator.htm)
 * [Trie](https://en.wikipedia.org/wiki/Trie)
 
