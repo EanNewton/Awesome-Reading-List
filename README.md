@@ -53,8 +53,6 @@ I love teaching others and seeing the community grow. Time is limited but donati
 
 [paypal.me/keebweeb](https://paypal.me/keebweeb) 
 
-[https://www.buymeacoffee.com/keebweeb](https://www.buymeacoffee.com/keebweeb) 
-
 Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ---
