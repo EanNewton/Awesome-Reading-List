@@ -86,6 +86,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
 * [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
 * [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs)
+* [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php)
 * [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm)
 * [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
 * [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools)
