@@ -209,6 +209,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Python
 
 * [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
+* [f-strings are more powerful than you might think](https://martinheinz.dev/blog/70)
 * [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/)
 * [Flake8: Style Guide Enforcement Checker](https://flake8.pycqa.org/en/latest/index.html)
 * [Folders.py](https://github.com/SinaKhalili/Folders.py)
