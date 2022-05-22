@@ -346,12 +346,13 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 # Reference Material
 
 
-## Algorithm References
+## Algorithm & Logic References
 
 * [Aho-Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
 * [Berlekamp-Welch](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm)
 * [Bresenham's Line Algorithm](https://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm)
 * [Damerau-Levenshtein](https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance)
+* [De Morgan's Law](https://brilliant.org/wiki/de-morgans-laws/)
 * [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
 * [Euler Method](https://en.wikipedia.org/wiki/Euler_method)
 * [Hirschberg](https://en.wikipedia.org/wiki/Hirschberg%27s_algorithm)
