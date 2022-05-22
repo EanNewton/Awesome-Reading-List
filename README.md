@@ -302,6 +302,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [The Science of Managing Our Digital Stuff](https://mitpress.mit.edu/books/science-managing-our-digital-stuff)
 * [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
 * [VS Code vs JetBrains](https://blankly.finance/vscode-vs-jetbrains/)
+* [Why not TOML?](https://hitchdev.com/strictyaml/why-not/toml/)
 * [Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 
 
