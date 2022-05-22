@@ -208,6 +208,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Python
 
+* [Compiling Python Syntax to x86-64 Assembly For Fun and (zero) Profit](https://benhoyt.com/writings/pyast64/)
 * [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
 * [f-strings are more powerful than you might think](https://martinheinz.dev/blog/70)
 * [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/)
