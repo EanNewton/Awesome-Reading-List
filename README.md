@@ -4,9 +4,11 @@
 
 A collection of articles and awesome things to read on a lunch break. Never stop learning.
 
-"First – I’m very tired of posts that complain about how people are “wrong” about how a given piece of technology works without explaining why it’s helpful to be “right”." --Julia Evans, which is to say, love the tree for its roots, for its knots, for its hidden grain and rings, for the journey it took to become a tree. Do not fault the sapling its greenness but water it so it may feed those yet to be born.
-
 Picked from things I have found useful or interesting at my discretion. Articles are loosely categorized but should not be considered to be defined by their category as they often overlap.
+
+---
+
+"First – I’m very tired of posts that complain about how people are “wrong” about how a given piece of technology works without explaining why it’s helpful to be “right”." --Julia Evans, which is to say, love the tree for its roots, for its knots, for its hidden grain and rings, for the journey it took to become a tree. Do not fault the sapling its greenness but water it so it may feed those yet to be born.
 
 ---
 
