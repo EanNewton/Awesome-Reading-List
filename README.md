@@ -208,6 +208,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ## Python
 
+* [All You Need to Know About Python Asterisks](https://bas.codes/posts/python-asterisks)
 * [Compiling Python Syntax to x86-64 Assembly For Fun and (zero) Profit](https://benhoyt.com/writings/pyast64/)
 * [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
 * [f-strings are more powerful than you might think](https://martinheinz.dev/blog/70)
@@ -285,6 +286,8 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Generate All the Things](https://matklad.github.io//2021/11/07/generate-all-the-things.html) - Generating good data for testing.
 * [Large Scale Terrain Generation from Tectonic Uplift and Fluvial Erosion](https://hal.inria.fr/hal-01262376/document)
 * [Long Division](https://tavianator.com/2022/long_division.html)
+* [Minimalism in Programming](https://pointersgonewild.com/2018/02/18/minimalism-in-programming/)
+* [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
 * [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 * [Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
