@@ -265,6 +265,8 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Security
 
 * [10 Stories of how we've compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
+* [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 3)](https://connormcgarr.github.io/type-confusion-part-3/)
+* [Exploit Development: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG](https://connormcgarr.github.io/hvci/)
 * [The curious case of the raspberry pi in the closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
 
 ## Software Development
