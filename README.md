@@ -267,6 +267,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [10 Stories of how we've compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
 * [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 3)](https://connormcgarr.github.io/type-confusion-part-3/)
 * [Exploit Development: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG](https://connormcgarr.github.io/hvci/)
+* [I'm not a human: Breaking the Google reCAPTCHA](https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf)
+* [Inside ReCaptcha](https://github.com/neuroradiology/InsideReCaptcha)
+* [Pixel Perfect: Fingerprinting Canvas in HTML5](https://hovav.net/ucsd/dist/canvas.pdf)
 * [The curious case of the raspberry pi in the closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
 
 ## Software Development
@@ -280,6 +283,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Complexity is Killing Us](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 * [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming?a_aid=viebel&a_bid=d5b546b7)
 * [Distinction between 3 data related paradigms](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
+* [Don't be scared of functional programming](https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/)
 * [Don't try to sanitize input, Escape output](https://benhoyt.com/writings/dont-sanitize-do-escape/)
 * [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 * [Fast Checksum Computation](https://blogs.igalia.com/dpino/2018/06/14/fast-checksum-computation/)
@@ -421,3 +425,4 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 # TODO
 
 * [Lobste.rs How do you have your keyboard layered?](https://lobste.rs/s/2ps6iq/how_do_you_use_layers_on_your_keyboard)
+* break out large categories into subcategories, e.g. software development
