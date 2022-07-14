@@ -213,6 +213,8 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 ## Python
 
 * [All You Need to Know About Python Asterisks](https://bas.codes/posts/python-asterisks)
+* [Borgs and Singletons](https://bas.codes/posts/python-dict-slots#introducing-the-borg)
+* [Borg Pitfalls](https://bas.codes/posts/python-involuntary-borgs)
 * [Compiling Python Syntax to x86-64 Assembly For Fun and (zero) Profit](https://benhoyt.com/writings/pyast64/)
 * [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
 * [f-strings are more powerful than you might think](https://martinheinz.dev/blog/70)
