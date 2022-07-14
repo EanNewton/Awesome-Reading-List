@@ -236,6 +236,7 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [Python Type Hints: How to type a context manager](https://adamj.eu/tech/2021/07/04/python-type-hints-how-to-type-a-context-manager/)
 * [Python Type Hints: Typeguard](https://adamj.eu/tech/2021/06/09/python-type-hints-how-to-narrow-types-with-typeguard/) - See also [PEP 647](https://www.python.org/dev/peps/pep-0647/)
 * [Python Type Hints: Use Cases for types Module](https://adamj.eu/tech/2021/09/08/python-type-hints-use-cases-for-the-types-module/)
+* [Under the hood weirdness, Part 1](https://twitter.com/reuvenmlerner/status/1531552019101671424)
 
 ## Reverse Engineering & Hardware Hacking
 
