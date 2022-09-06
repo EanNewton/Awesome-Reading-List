@@ -1,65 +1,41 @@
+<div align="center">
+
+<!-- title -->
+
+<!--lint ignore no-dead-urls-->
+
+# Awesome Reading List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml/badge.svg)](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml)
+
+<!-- subtitle -->
+"First – I’m very tired of posts that complain about how people are “wrong” about how a given piece of technology works without explaining why it’s helpful to be “right”." --Julia Evans
 
 
-# Awesome-Reading-List
+<!-- image -->
 
-A collection of articles and awesome things to read on a lunch break. Never stop learning.
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="" />
+</a>
 
-Picked from things I have found useful or interesting at my discretion. Articles are loosely categorized but should not be considered to be defined by their category as they often overlap.
+<!-- description -->
 
----
+A collection of articles and awesome things to read on a lunch break. Never stop learning!
 
-"First – I’m very tired of posts that complain about how people are “wrong” about how a given piece of technology works without explaining why it’s helpful to be “right”." --Julia Evans, which is to say, love the tree for its roots, for its knots, for its hidden grain and rings, for the journey it took to become a tree. Do not fault the sapling its greenness but water it so it may feed those yet to be born.
+</div>
 
----
+<!-- TOC -->
 
-# Table of contents
+## Contents
 
-- [BUY ME A COFFEE](#buy-me-a-coffee)
-- [Awesome Things to Read](#awesome-things-to-read)
-  - [Databases](#databases)
-  - [Design and UI](#design-and-ui)
-  - [Documentation](#documentation)
-  - [Encryption](#encryption)
-  - [Food and Cooking](#food-and-cooking)
-  - [Fun Stuff That Doesn't Quite Fit Elsewhere](#fun-stuff-that-doesnt-quite-fit-elsewhere)
-  - [Git / GitHub / GitLab](#git--github--gitlab)
-  - [Linux / Unix / BSD](#linux--unix--bsd)
-  - [Linux Class](#linux-class)
-  - [Microsoft](#microsoft)
-  - [Network & Web](#network--web)
-  - [Python](#python)
-  - [Reverse Engineering & Hardware Hacking](#reverse-engineering--hardware-hacking)
-  - [Rule #0: Be awesome to one another and party on](#rule-0-be-awesome-to-one-another-and-party-on)
-  - [Software Development](#software-development)
-  - [Statistics & Math](#statistics--math)
-  - [System Development](#system-development)
-  - [Videos](#videos)
-  - [Vintage & Historical](#vintage--historical)
-- [Reference Material](#reference-material)
-  - [Algorithm References](#algorithm-references)
-  - [Data Structures References](#data-structures-references)
-  - [Hardware](#hardware)
-  - [Lists](#lists)
-  - [Organizations](#organizations)
-  - [Standards](#standards)
-  - [RFC](#rfc)
-- [Places to Find Things](#places-to-find-things)
-- [TODO](#todo)
+- [Featured (new releases)](#featured-new-releases)
+- [Section 1](#section-1)
+- [Follow](#follow)
 
----
+<!-- CONTENT -->
 
-# BUY ME A COFFEE
+## Featured (new releases)
 
----
-I love teaching others and seeing the community grow. Time is limited but donations will allow me to to help the community more. How useful was this to you? If it was I would be humbly grateful for your donation.🙏
+- [Apple](https://apple.com) - Apple as a placeholder.
 
-[paypal.me/keebweeb](https://paypal.me/keebweeb) 
-
-Thank you! May you be rich as Crassus and happy as Buddha! :)
-
----
-
-# Awesome Things to Read
 
 ## Databases
 
@@ -209,6 +185,11 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 * [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
 * [Why are Hyperlinks blue, revisted](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
+
+## Places to Find Things
+
+* [arXiv](https://arxiv.org/) - Cornell University's archive of free distribution service and an open-access archive for 2,000,301 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
+* [LibGen](https://libgen.is/)
 
 ## Python
 
@@ -362,7 +343,9 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 
 ---
 
-# Reference Material
+## Reference materials
+
+---
 
 
 ## Algorithm & Logic References
@@ -419,17 +402,18 @@ Thank you! May you be rich as Crassus and happy as Buddha! :)
 * [RFC 2308: Negative Caching of DNS Queries (DNS NCACHE)](https://www.rfc-editor.org/rfc/rfc2308)
 * [RFC 4122: A Universally Unique IDentifier (UUID) URN Namespace](https://datatracker.ietf.org/doc/html/rfc4122)
 
+<!-- END CONTENT -->
 
----
+## Follow
 
-# Places to Find Things
+<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
-* [arXiv](https://arxiv.org/) - Cornell University's archive of free distribution service and an open-access archive for 2,000,301 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
-* [LibGen](https://libgen.is/)
+Who else should we be following!?
 
----
+## Contributing
 
-# TODO
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
-* [Lobste.rs How do you have your keyboard layered?](https://lobste.rs/s/2ps6iq/how_do_you_use_layers_on_your_keyboard)
-* break out large categories into subcategories, e.g. software development
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/EanNewton/Awesome-Reading-List/graphs/contributors)!
