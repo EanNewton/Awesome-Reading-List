@@ -12,8 +12,8 @@
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+<a href="https://github.com/EanNewton/Awesome-Reading-List" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/EanNewton/Awesome-Reading-List/blob/main/image.jpg" />
 </a>
 
 <!-- description -->
