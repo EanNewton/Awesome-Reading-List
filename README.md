@@ -269,7 +269,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 * [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
 * [Ghost in the ethernet optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
 * [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
-* [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale](https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/)
+* [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale](https://web.archive.org/web/20211110191916/https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/) - Here’s how adding a few bits of simple logic in the OS provisioning process can eliminate tons of network and time overhead and prolong the life of your storage.
 * [Mechanical Computing Systems Using Only Links and Rotary Joints](https://arxiv.org/pdf/1801.03534.pdf)
 * [Playstation Architecture: A practical analysis](https://www.copetti.org/writings/consoles/playstation/)
 * [Playstation 2 Architecture](https://www.copetti.org/writings/consoles/playstation-2/)
@@ -299,7 +299,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 ## Software Development
 
 * [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
-* [21 compilers and 3 orders of magnitude in 60 minutes](https://venge.net/graydon/talks/CompilerTalk-2019.pdf) - What compilers look like from the perspective of people who make them for a living.
+* [21 compilers and 3 orders of magnitude in 60 minutes](https://github.com/EanNewton/Awesome-Reading-List/blob/main/media/Hoare%2C%20Graydon%20-%20CompilerTalk-2019.pdf) - What compilers look like from the perspective of people who make them for a living.
 * [Algorithms](https://cp-algorithms.com/index.html) - Provides descriptions of many algorithms and data structures especially popular in field of competitive programming.
 * [An Illustrated guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
 * [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
@@ -364,7 +364,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 ## Vintage & Historical
 
 * [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
-* [A History of modern init systems](https://blog.darknedgy.net/technology/2015/09/05/0/)
+* [A History of modern init systems](https://web.archive.org/web/20220618014428/https://blog.darknedgy.net/technology/2015/09/05/0/) - The subject of process management, supervision and init(8) for Unix-like systems is one plagued by a large degree of ahistoricity and “pop culture” explanations.
 * [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
 * [A Short History of Objective-C](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 * [Always more history](https://www.hillelwayne.com/post/always-more-history/)
