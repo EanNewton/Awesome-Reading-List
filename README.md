@@ -26,93 +26,125 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Databases](#databases)
+- [Design and UI](#design-and-ui)
+- [DevOps](#devops)
+- [Documentation](#documentation)
+- [Encryption](#encryption)
+- [Food and Cooking](#food-and-cooking)
+- [Fun Stuff That Doesn't Quite Fit Elsewhere](#fun-stuff-that-doesnt-quite-fit-elsewhere)
+- [Git / GitHub / GitLab](#git--github--gitlab)
+- [Linux / Unix / BSD](#linux--unix--bsd)
+- [Linux Class](#linux-class)
+- [Mathematics](#mathematics)
+- [Microsoft](#microsoft)
+- [Network & Web](#network--web)
+- [Places to Find Things](#places-to-find-things)
+- [Python](#python)
+- [Reverse Engineering & Hardware Hacking](#reverse-engineering--hardware-hacking)
+- [Rule #0: Be awesome to one another and party on](#rule-0-be-awesome-to-one-another-and-party-on)
+- [Security](#security)
+- [Software Development](#software-development)
+- [Statistics & Math](#statistics--math)
+- [System Development](#system-development)
+- [Videos](#videos)
+- [Vintage & Historical](#vintage--historical)
+- [Reference materials](#reference-materials)
+- [Algorithm & Logic References](#algorithm--logic-references)
+- [Data Structures References](#data-structures-references)
+- [Hardware](#hardware)
+- [Lists](#lists)
+- [Organizations](#organizations)
+- [Standards](#standards)
+- [RFC](#rfc)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
-
-- [Apple](https://apple.com) - Apple as a placeholder.
-
 
 ## Databases
 
-* [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405)
-* [Postgres Hashing](https://www.postgresql.org/docs/current/hash-intro.html)
-* [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/)
-* [The Ultimate SQLite Extension Set](https://antonz.org/sqlean/)
-* [Twitter's Snowflake ID](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake)
-* [UUID's and ULID's](https://sudhir.io/uuids-ulids)
-* [UUID to UTF-8 in Ruby](https://gist.github.com/snikch/6969879)
+* [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405) - Why it’s impossible to write good application-layer code for everyday business logic
+* [Postgres Hashing](https://www.postgresql.org/docs/current/hash-intro.html) - A technical overview of what hash indixes are and how they are implemented.
+* [Re-introducing Hash Indexes in PostgreSQL](https://hakibenita.com/postgresql-hash-index) - There is another type of index you are probably not using, and may have never even heard of. It is wildly unpopular, and until a few PostgreSQL versions ago it was highly discouraged and borderline unusable, but under some circumstances it can out-perform even a B-Tree index.
+* [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) - How a simple design choice resulted in thousands of dollars in server costs per day.
+* [The Ultimate SQLite Extension Set](https://antonz.org/sqlean/) - Something like a standard library in Python or Go, only for SQLite.
+* [Twitter's Snowflake ID](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake) - [Twitter] needed something that could generate tens of thousands of ids per second in a highly available manner. This naturally led us to choose an uncoordinated approach.
+* [UUID's and ULID's](https://sudhir.io/uuids-ulids) - What UUIDs and ULIDs are under the hood, and how to encode and use them.
+* [UUID to UTF-8 in Ruby](https://gist.github.com/snikch/6969879) - Ruby script to Convert a UUID to UTF-8 encoding to visually shorten.
 
 ## Design and UI
 
 * [Fueling the Creation of New Electronic Curbcuts](http://www.accessiblesociety.org/topics/technology/eleccurbcut.htm) - Unusual things happen when products are designed to be accessible to people with disabilities. It wasn't long after sidewalks were redesigned to accommodate wheelchair users that the benefits of curb cuts began to be realized by everyone. 
-* [Privacy By Design: What Needs to be Done, How to do It, and How to Sell It to your Boss](https://medium.com/greater-than-experience-design/privacy-by-design-7b1165d045e0)
+* [Privacy By Design: What Needs to be Done, How to do It, and How to Sell It to your Boss](https://medium.com/greater-than-experience-design/privacy-by-design-7b1165d045e0) - Could you imagine the outrage the public would experience if they found out that the postal service was holding their mail hostage and selling it to whoever was willing to pay? What’s happening with data on the Internet is no different, and it’s time this changes.  
+
+## DevOps
+
+* [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html) - A few lessons in operations that we all (eventually) (have to) learn, often the hard way. Why things are the way they are, or what the lessons mean is left to the reader to interpret, agree, or disagree with.
 
 ## Documentation
 
-* [Content Workflow Using GitHub and Markdown](https://www.portent.com/blog/content/content-with-github-markdown.htm)
-* [Hemingway App](https://hemingwayapp.com/)
-* [heyawhite/tech-writing-tools](https://github.com/heyawhite/tech-writing-tools)
-* [How to Release a New Open Source Project](https://opensource.zalando.com/docs/releasing/index/)
-* [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium)
-* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
-* [Markdown Tutorial](https://www.markdowntutorial.com/) - Learn Markdown
-* [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors)
-* [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs)
-* [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs)
-* [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php)
-* [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm)
+* [Content Workflow Using GitHub and Markdown](https://www.portent.com/blog/content/content-with-github-markdown.htm) - We publish digital content. We write and create for the internet and screens. But our content workflow dates back to the days of desktop publishing.
+* [Hemingway App](https://hemingwayapp.com/) - The app highlights lengthy, complex sentences and common errors.
+* [heyawhite/tech-writing-tools](https://github.com/heyawhite/tech-writing-tools) - This repository contains lists of suggested tools for technical writers. 
+* [How to Release a New Open Source Project](https://opensource.zalando.com/docs/releasing/index/) - This is the process for how Zalando employees release a new open source project.
+* [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read.
+* [Markdown](https://daringfireball.net/projects/markdown/) - John Gruber's original spec for Markdown.
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) - A quick reference and showcase of *Markdown Here's* version of Github-flavored Markdown.
+* [Markdown Tutorial](https://www.markdowntutorial.com/) - Learn Markdown in 10 minutes by doing.
+* [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
+* [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - A list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours.
+* [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools.
+* [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php) - This checklist is meant to be used as a reporting tool to help journalists and researchers when trying to find out who published a website.
+* [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm) - I once had to convert a Word document to a web page. Once.
 * [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
-* [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools)
+* [Writing on Github](https://docs.github.com/en/get-started/writing-on-github) - GitHub Docs official guide to Markdown and editing.
+* [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation.
 
 ## Encryption
 
-* [DRM is not to prevent copyright violations](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2)
-* [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/)
-* [Snake Cipher](https://prgomez.com/snake-cipher/)
+* [CryptoPals](https://cryptopals.com/) - A set of 48 practical programming exercises that Thomas Ptacek and his team at Matasano Security have developed as a kind of teaching tool (and baited hook). This is a different way to learn about crypto than taking a class or reading a book.
+* [DRM is not to prevent copyright violations](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2) - The purpose of DRM is to give content providers leverage against creators of playback devices.
+* [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/) - While the running key cipher can be broken easily, BookPad offers a level of security comparable to that of a one-time-pad. In this article, I try to explain why in layman’s terms.
+* [Snake Cipher](https://prgomez.com/snake-cipher/) - Using this cipher is so much like playing the old “snake” video game, I’ve called it just that: Snake
 
 ## Food and Cooking
 
-* [Healthy Soil is the real key to feeding the world](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/)
-* [One of the most famous Victorian dishes is a lie](https://www.atlasobscura.com/articles/victorian-brown-windsor-soup)
+* [Healthy Soil is the real key to feeding the world](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/) - Agricultural myths hinder recognizing the potential to restore degraded soils to feed the world using fewer agrochemicals.
+* [One of the most famous Victorian dishes is a lie](https://www.atlasobscura.com/articles/victorian-brown-windsor-soup) - Brown Windsor soup was reportedly a favorite of the Queen. The only problem? It may not have existed.
 
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
-* [52 Things I learned in 2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1)
-* [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html)
-* [A few things I learned live streaming](https://dantepfer.com/blog/?p=1005)
-* [Amateurs vs Professionals](https://fs.blog/amateurs-professionals/)
-* [Amish Hackers](https://kk.org/thetechnium/amish-hackers-a/)
-* [Antenna Theory](https://www.antenna-theory.com/)
-* [Awesome Regex](https://github.com/aloisdg/awesome-regex)
-* [Crazy Eddie, the popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/)
-* [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/)
-* [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
-* [How bad is QWERTY really?](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/)
-* [How GPS works](https://ciechanow.ski/gps/)
-* [How rocket engines are cooled](https://everydayastronaut.com/engine-cooling-methodes/)
-* [Japan's paper culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998)
-* [Mall Ninjas](https://lonelymachines.org/mall-ninjas/)
-* [Network Protocols in Orbit: Building a Space ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/)
-* [Notes from the end of a very long life](https://www.nytimes.com/2022/01/06/nyregion/ruth-willig-oldest-new-yorkers.html)
-* [QArt Codes](https://research.swtch.com/qart)
-* [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/)
-* [Quit your job](https://palladiummag.com/2022/01/06/quit-your-job/)
-* [Roguelikes: The misnamed genre](https://zorbathut.livejournal.com/827037.html)
-* [Secret military telephone buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html)
-* [Terran Republic Interstellar Plotting System](https://github.com/BoatrightTBC/trips)
-* [Unusual Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
-* [When SimCity got serious](https://obscuritory.com/sim/when-simcity-got-serious/)
+* [52 Things I learned in 2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1) - For the last few years, I’ve been a fan of Tom Whitwell’s annual list of 52 things he learned during the past year.
+* [52 things I learned in 2021](https://medium.com/magnetic/52-things-i-learned-in-2021-8481c4e0d409) - 17) The battery in the new electric Hummer will weigh almost as much as an original Land Rover. [Saul Griffith]
+18) Most ransomware is designed not to install on computers that have Russian or Ukrainian language keyboards. [Brian Krebs]
+* [A few things I learned live streaming](https://dantepfer.com/blog/?p=1005) - “Thanks” to the pandemic, I’ve spent much more time figuring out how to deal with video and live streaming than I ever thought I would. It’s turned out to be a surprisingly rewarding experience.
+* [Amateurs vs Professionals](https://fs.blog/amateurs-professionals/) - Why is it that some people seem to be hugely successful and do so much, while the vast majority of us struggle to tread water? The answer is complicated and likely multifaceted.
+* [Amish Hackers](https://kk.org/thetechnium/amish-hackers-a/) - Amish lives are anything but anti-technological ... I have found them to be ingenious hackers and tinkers, the ultimate makers and do-it-yourselfers and surprisingly pro technology.
+* [Crazy Eddie, the popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/) - On September 13, 1984, as stocks wavered through a bear market, a regional electronics chain held a hyped initial public offering.
+* [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) - Steven Gerding, Dragon’s software development lead, [speaks] about the special challenges software development has for SpaceX’s many missions.
+* [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/) - To help you satisfy your need for in-depth technical, and perhaps more than a bit nerdy, knowledge about all things digital file formats.
+* [How bad is QWERTY really?](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/) - One man's journey to deal with RSI.
+* [How GPS works](https://ciechanow.ski/gps/) - Interactive website detailing how GPS actually works.
+* [How rocket engines are cooled](https://everydayastronaut.com/engine-cooling-methodes/) - Gases inside an engines combustion chamber can reach ~3,500 K – which is about half as hot as the surface of the Sun – certainly above the melting point of most materials. Engines need to reach this temperature in order to function correctly, but how can they survive this?
+* [Japan's paper culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998) - Why paper is so important in Japan.
+* [Mall Ninjas](https://lonelymachines.org/mall-ninjas/) - It all started back at the end of the halcyon summer of 2001, and his posts have created a certain urban legend that many refer to as the Mall Ninja.
+* [Network Protocols in Orbit: Building a Space ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/) - There are requirements that make software engineers sweat. Massive distribution to thousands of nodes. High reliability and availability. Multiple distinct platforms. Rapid network growth.
+* [Notes from the end of a very long life](https://www.nytimes.com/2022/01/06/nyregion/ruth-willig-oldest-new-yorkers.html) - With the death of Ruth Willig at 98, a Times series on a set of the oldest New Yorkers — chronicled over seven years in 21 articles — offers their lessons on living with loss.
+* [QArt Codes](https://research.swtch.com/qart) - Embedding images into QR codes.
+* [QR Codes in Japan](https://blog.cliffano.com/2009/05/18/qr-code-usage-in-japan/) - Photos and samples of different creative QR codes found around Japan.
+* [Roguelikes: The misnamed genre](https://zorbathut.livejournal.com/827037.html) - Roguelikes aren’t about dungeons. They’re not about text-based graphics, or random artifacts, or permadeath.
+* [Secret military telephone buttons](https://computer.rip/2022-01-01-secret-military-telephone-buttons.html) - The military has four extra telephone buttons that they don't tell us about.
+* [Terran Republic Interstellar Plotting System](https://github.com/BoatrightTBC/trips) - TRIPS (the Terran Interstellar Plotter System) is intended to be a flexible stellar cartography system designed for the needs of SF fans and writers.
+* [Unusual Wikipedia Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles) - These articles are verifiable, valuable contributions to the encyclopedia, but are a bit odd, whimsical, or something one would not expect to find in Encyclopædia Britannica.
+* [When SimCity got serious](https://obscuritory.com/sim/when-simcity-got-serious/) - Maxis didn’t want to make professional simulation games. But for two brief, strange years, they did.
 
 ## Git / GitHub / GitLab
 
 * [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 * [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
 * [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
+
 
 ## Linux / Unix / BSD
 
@@ -174,7 +206,9 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 * [Everything You Wanted to Know About UDP Sockets but were Afraid to Ask](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
 * [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
+* [Hot to build HTML forms right](https://austingil.com/how-to-build-html-forms-right-semantics/) - A five part series on how to make actually usable and well designed web forms.
 * [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
+* [HTTP://HTTP://HTTP://@HTTP://HTTP://?HTTP://#HTTP://](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/) - is a legitamete URL and here's why.
 * [Is It DNS?](https://isitdns.com/)
 * [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online.
 * [NVIDIA Cumulus and Sonic ethernet OS's](https://www.nvidia.com/en-us/networking/ethernet-switching/)
@@ -185,6 +219,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 * [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 * [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
 * [Why are Hyperlinks blue, revisted](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
+* [You can access a user's camera with just HTML](https://austingil.com/html-capture-attribute/) - About the `capture` attribute.
 
 ## Places to Find Things
 
@@ -208,6 +243,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 * [Keyword-only arguments](https://lukeplant.me.uk/blog/posts/keyword-only-arguments-in-python/) - See also [PEP 3102](https://www.python.org/dev/peps/pep-3102/)
 * [Neural Network from scratch](https://sirupsen.com/napkin/neural-net)
 * [Positional-only arguments](https://www.python.org/dev/peps/pep-0570/#how-to-teach-this)
+* [Python Type Hints are Turing Complete](https://arxiv.org/pdf/2208.14755.pdf) - Using Grigore's method to explain why Mypy sometimes enters an infinite loop, and why that is not a bug.
 * [MyPy: Static Typing for Python](http://mypy-lang.org/)
 * [Numpy SIMD optimizations](https://numpy.org/doc/stable/reference/simd/simd-optimizations.html)
 * [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
@@ -224,6 +260,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 ## Reverse Engineering & Hardware Hacking
 
 * [An Ancient Greek Astronomical Calculation Machine Reveals New Secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
+* [Antenna Theory](https://www.antenna-theory.com/) - This website will strive to make antennas understandable, without unnecessary complexity.
 * [Bypasssing early 2000's copy protection](https://blog.paavo.me/masa-copy-protection/)
 * [Dumping Firmware with a 555](https://jrainimo.com/build/2022/01/dumping-firmware-with-a-555/)
 * [I'm not a human: Breaking the Google reCAPTCHA](https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf)
@@ -263,6 +300,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 ## Software Development
 
 * [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
+* [21 compilers and 3 orders of magnitude in 60 minutes](https://venge.net/graydon/talks/CompilerTalk-2019.pdf) - What compilers look like from the perspective of people who make them for a living.
 * [Algorithms](https://cp-algorithms.com/index.html) - Provides descriptions of many algorithms and data structures especially popular in field of competitive programming.
 * [An Illustrated guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
 * [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
@@ -284,7 +322,8 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 * [Long Division](https://tavianator.com/2022/long_division.html)
 * [Minimalism in Programming](https://pointersgonewild.com/2018/02/18/minimalism-in-programming/)
 * [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
-* [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
+* [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) - You are getting time wrong and here's the how and why.
+* [Parallel curves of cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html) - Finding a better approach to matching parallel curves.
 * [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 * [Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [Practical Reed-Solomon for Programmers](https://berthub.eu/articles/posts/reed-solomon-for-programmers/) - A practical primer on R-S error correction.
@@ -383,8 +422,9 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 ## Lists
 
 * [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference)
+* [Awesome Regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 * [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
-* [Trailblazers](https://trailblazerlist.xyz/)
+* [Trailblazers](https://trailblazerlist.xyz/) - A list of startups attempting to solve meaningful problems.
 
 ## Organizations
 
