@@ -116,8 +116,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
 * [52 Things I learned in 2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1) - For the last few years, I’ve been a fan of Tom Whitwell’s annual list of 52 things he learned during the past year.
-* [52 things I learned in 2021](https://medium.com/magnetic/52-things-i-learned-in-2021-8481c4e0d409) - 17) The battery in the new electric Hummer will weigh almost as much as an original Land Rover. [Saul Griffith]
-18) Most ransomware is designed not to install on computers that have Russian or Ukrainian language keyboards. [Brian Krebs]
+* [52 things I learned in 2021](https://medium.com/magnetic/52-things-i-learned-in-2021-8481c4e0d409) - 17) The battery in the new electric Hummer will weigh almost as much as an original Land Rover. [Saul Griffith] 18) Most ransomware is designed not to install on computers that have Russian or Ukrainian language keyboards. [Brian Krebs]
 * [A few things I learned live streaming](https://dantepfer.com/blog/?p=1005) - “Thanks” to the pandemic, I’ve spent much more time figuring out how to deal with video and live streaming than I ever thought I would. It’s turned out to be a surprisingly rewarding experience.
 * [Amateurs vs Professionals](https://fs.blog/amateurs-professionals/) - Why is it that some people seem to be hugely successful and do so much, while the vast majority of us struggle to tread water? The answer is complicated and likely multifaceted.
 * [Amish Hackers](https://kk.org/thetechnium/amish-hackers-a/) - Amish lives are anything but anti-technological ... I have found them to be ingenious hackers and tinkers, the ultimate makers and do-it-yourselfers and surprisingly pro technology.
