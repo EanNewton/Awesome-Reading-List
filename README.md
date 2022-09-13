@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-<!--lint ignore no-dead-urls-->
+<!--lint ignore no-dead-urls match-punctuation-->
 
 # Awesome Reading List 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml/badge.svg)](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml) [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
