@@ -27,6 +27,8 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 <!-- TOC -->
 
 ## Contents
+<!-- Silence error for indentation -->
+<!--lint ignore awesome-toc-->
 - [main()](#main)
 	- [Databases](#databases)
 	- [Design and UI](#design-and-ui)
@@ -40,6 +42,7 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [Linux Class](#linux-class)
 	- [Mathematics](#mathematics)
 	- [Microsoft](#microsoft)
+<!--lint ignore double-link-->
 	- [Network](#network)
 	- [Places to Find Things](#places-to-find-things)
 	- [Python](#python)
@@ -50,6 +53,7 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [System Development](#system-development)
 	- [Videos](#videos)
 	- [Vintage & Historical](#vintage--historical)
+<!--lint ignore double-link-->
 	- [Web](#web)
 - [Reference materials](#reference-materials)
 <!--lint ignore awesome-toc-->
