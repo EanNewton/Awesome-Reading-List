@@ -2,7 +2,8 @@
 
 <!-- title -->
 
-<!--lint ignore no-dead-urls match-punctuation-->
+<!--lint disable match-punctuation-->
+<!--lint ignore no-dead-urls-->
 
 # Awesome Reading List 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml/badge.svg)](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml) [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -450,6 +451,7 @@ independent developers.
 - [RFC 2308: Negative Caching of DNS Queries (DNS NCACHE)](https://www.rfc-editor.org/rfc/rfc2308)
 - [RFC 4122: A Universally Unique IDentifier (UUID) URN Namespace](https://datatracker.ietf.org/doc/html/rfc4122)
 
+<!--lint enable match-punctuation-->
 <!-- END CONTENT -->
 
 ## Follow
@@ -465,3 +467,4 @@ Who else should we be following!?
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/EanNewton/Awesome-Reading-List/graphs/contributors)!
+
