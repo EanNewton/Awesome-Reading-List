@@ -40,25 +40,25 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 - [Linux Class](#linux-class)
 - [Mathematics](#mathematics)
 - [Microsoft](#microsoft)
-- [Network & Web](#network--web)
+- [Network](#network)
 - [Places to Find Things](#places-to-find-things)
 - [Python](#python)
 - [Reverse Engineering & Hardware Hacking](#reverse-engineering--hardware-hacking)
 - [Rule #0: Be awesome to one another and party on](#rule-0-be-awesome-to-one-another-and-party-on)
 - [Security](#security)
 - [Software Development](#software-development)
-- [Statistics & Math](#statistics--math)
 - [System Development](#system-development)
 - [Videos](#videos)
 - [Vintage & Historical](#vintage--historical)
+- [Web](#web)
 - [Reference materials](#reference-materials)
-- [Algorithm & Logic References](#algorithm--logic-references)
-- [Data Structures References](#data-structures-references)
-- [Hardware](#hardware)
-- [Lists](#lists)
-- [Organizations](#organizations)
-- [Standards](#standards)
-- [RFC](#rfc)
+	- [Algorithm & Logic References](#algorithm--logic-references)
+	- [Data Structures References](#data-structures-references)
+	- [Hardware](#hardware)
+	- [Lists](#lists)
+	- [Organizations](#organizations)
+	- [Standards](#standards)
+	- [RFC](#rfc)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -195,6 +195,7 @@ independent developers.
 
 - [High dimenionsal sphere spilling out of a high dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/) - Make a square, split each side into two halves, producing four cells. Put a circle into each cell such that it fills it completely. There is a small gap right in the middle of the square. Put a circle there again such that it touches the other four circles. The central circle is obviously inside the square, right? Yes, but only if the dimension you are in is D ≤ 9.
 - [Matrix multiplication](http://matrixmultiplication.xyz/) - Online matrix calculator app.
+- [The Flaw of Averages](https://hbr.org/2002/11/the-flaw-of-averages)
 
 ## Microsoft
 
@@ -204,31 +205,24 @@ independent developers.
 - [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
 - [Why Pinball was removed from Windows Vista](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803)
 
-## Network & Web
+## Network
 
-<!--lint ignore no-repeat-punctuation-->
-- [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
-- [Breaking out of the Box](https://alistapart.com/article/breaking-out-of-the-box/)
+See also [Web](#web).
+
 - [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 - [DOS on Dope](https://secretgeek.net/dod_intro)
 - [Everything You Wanted to Know About UDP Sockets but were Afraid to Ask](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 - [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
-- [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
-- [Hot to build HTML forms right](https://austingil.com/how-to-build-html-forms-right-semantics/) - A five part series on how to make actually usable and well designed web forms.
 - [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
-- [HTTP://HTTP://HTTP://@HTTP://HTTP://?HTTP://#HTTP://](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/) - Is a legitimate URL and here's why.
-- [Is It DNS?](https://isitdns.com/)
+- [Is It DNS?](https://isitdns.com/) - Quickly check if your problem is caused by DNS or not.
 - [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online.
-- [My Blog is Hilariously Overengineered to the Point People Think it's a Static Site](https://xeiaso.net/talks/how-my-website-works) - Xe Iaso explains how he fully automated his stupid fast blog website.
 - [NVIDIA Cumulus and Sonic ethernet OS's](https://www.nvidia.com/en-us/networking/ethernet-switching/)
 - [SSH Bastion Hosts: Setting up](https://goteleport.com/blog/ssh-bastion-host/)
 - [SSH Bastion Hosts: Security best practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
-- [The Cyber-Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
+- [The Cyber-Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018.
 - [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/)
 - [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
-- [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
-- [Why are Hyperlinks blue, revisted](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
-- [You can access a user's camera with just HTML](https://austingil.com/html-capture-attribute/) - About the `capture` attribute.
+
 
 ## Places to Find Things
 
@@ -352,11 +346,6 @@ independent developers.
 - [Why not TOML?](https://hitchdev.com/strictyaml/why-not/toml/)
 - [Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 
-
-## Statistics & Math
-
-- [The Flaw of Averages](https://hbr.org/2002/11/the-flaw-of-averages)
-
 ## System Development
 
 - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
@@ -389,6 +378,23 @@ independent developers.
 - [Why do interviewers ask linked list?](https://www.hillelwayne.com/post/linked-lists/)
 - [Why ISO was retired](https://bkhome.org/news/202112/why-iso-was-retired-part-2.html)
 - [WinWorld: Vintage Operating System Downloads](https://winworldpc.com/library/operating-systems)
+
+
+## Web
+
+See also [Network](#network).
+
+<!--lint ignore no-repeat-punctuation-->
+- [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
+- [Breaking out of the Box](https://alistapart.com/article/breaking-out-of-the-box/) - CSS is about styling boxes. In fact, the whole web is made of boxes, from the browser viewport to elements on a page. But every once in a while a new feature comes along that makes us rethink our design approach.
+- [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
+- [Hot to build HTML forms right](https://austingil.com/how-to-build-html-forms-right-semantics/) - A five part series on how to make actually usable and well designed web forms.
+- [HTTP://HTTP://HTTP://@HTTP://HTTP://?HTTP://#HTTP://](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/) - Is a legitimate URL and here's why.
+- [My Blog is Hilariously Overengineered to the Point People Think it's a Static Site](https://xeiaso.net/talks/how-my-website-works) - Xe Iaso explains how he fully automated his stupid fast blog website.
+- [What's in a font? Website Typography Best Practices](https://kevq.uk/whats-in-a-font-researching-website-typography/)
+- [Why are Hyperlinks blue, revisted](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/)
+- [You can access a user's camera with just HTML](https://austingil.com/html-capture-attribute/) - About the `capture` attribute.
+
 
 ---
 
