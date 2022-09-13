@@ -20,6 +20,8 @@
 
 A collection of articles and awesome things to read on a lunch break. Never stop learning!
 
+Where possible I have uploaded backups of some of the pdf's in the media folder. Likewise, if a link is dead please submit an issue or PR for it.
+
 </div>
 
 <!-- TOC -->
