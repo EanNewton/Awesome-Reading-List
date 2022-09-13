@@ -41,6 +41,7 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [Linux Class](#linux-class)
 	- [Mathematics](#mathematics)
 	- [Microsoft](#microsoft)
+<!--lint ignore double-link-->
 	- [Network](#network)
 	- [Places to Find Things](#places-to-find-things)
 	- [Python](#python)
@@ -51,6 +52,7 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [System Development](#system-development)
 	- [Videos](#videos)
 	- [Vintage & Historical](#vintage--historical)
+<!--lint ignore double-link-->
 	- [Web](#web)
 - [Reference materials](#reference-materials)
 	- [Algorithm & Logic References](#algorithm--logic-references)
