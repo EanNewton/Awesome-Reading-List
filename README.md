@@ -100,7 +100,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 - [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php) - This checklist is meant to be used as a reporting tool to help journalists and researchers when trying to find out who published a website.
 - [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm) - I once had to convert a Word document to a web page. Once.
 - [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
-- [Writing on Github](https://docs.github.com/en/get-started/writing-on-github) - GitHub Docs official guide to Markdown and editing.
+- [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github) - GitHub Docs official guide to Markdown and editing.
 - [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation.
 
 ## Encryption
