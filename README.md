@@ -66,12 +66,12 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 
 ## Databases
 
-- [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405) - Why it’s impossible to write good application-layer code for everyday business logic
-- [Postgres Hashing](https://www.postgresql.org/docs/current/hash-intro.html) - A technical overview of what hash indixes are and how they are implemented.
+- [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405) - Why it’s impossible to write good application-layer code for everyday business logic.
+- [Postgres Hashing](https://www.postgresql.org/docs/current/hash-intro.html) - A technical overview of what hash indexes are and how they are implemented.
 - [Re-introducing Hash Indexes in PostgreSQL](https://hakibenita.com/postgresql-hash-index) - There is another type of index you are probably not using, and may have never even heard of. It is wildly unpopular, and until a few PostgreSQL versions ago it was highly discouraged and borderline unusable, but under some circumstances it can out-perform even a B-Tree index.
 - [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) - How a simple design choice resulted in thousands of dollars in server costs per day.
 - [The Ultimate SQLite Extension Set](https://antonz.org/sqlean/) - Something like a standard library in Python or Go, only for SQLite.
-- [Twitter's Snowflake ID](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake) - [Twitter] needed something that could generate tens of thousands of ids per second in a highly available manner. This naturally led us to choose an uncoordinated approach.
+- [Twitter's Snowflake ID](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake) - Twitter needed something that could generate tens of thousands of ids per second in a highly available manner. This naturally led us to choose an uncoordinated approach.
 - [UUID's and ULID's](https://sudhir.io/uuids-ulids) - What UUIDs and ULIDs are under the hood, and how to encode and use them.
 - [UUID to UTF-8 in Ruby](https://gist.github.com/snikch/6969879) - Ruby script to Convert a UUID to UTF-8 encoding to visually shorten.
 
@@ -92,9 +92,9 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 - [How to Release a New Open Source Project](https://opensource.zalando.com/docs/releasing/index/) - This is the process for how Zalando employees release a new open source project.
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read.
 - [Markdown](https://daringfireball.net/projects/markdown/) - John Gruber's original spec for Markdown.
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) - A quick reference and showcase of *Markdown Here's* version of Github-flavored Markdown.
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) - A quick reference and showcase of *Markdown Here's* version of GitHub-flavored Markdown.
 - [Markdown Tutorial](https://www.markdowntutorial.com/) - Learn Markdown in 10 minutes by doing.
-- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
+- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web and more.
 - [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - A list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours.
 - [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools.
 - [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php) - This checklist is meant to be used as a reporting tool to help journalists and researchers when trying to find out who published a website.
@@ -108,7 +108,7 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 - [CryptoPals](https://cryptopals.com/) - A set of 48 practical programming exercises that Thomas Ptacek and his team at Matasano Security have developed as a kind of teaching tool (and baited hook). This is a different way to learn about crypto than taking a class or reading a book.
 - [DRM is not to prevent copyright violations](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2) - The purpose of DRM is to give content providers leverage against creators of playback devices.
 - [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/) - While the running key cipher can be broken easily, BookPad offers a level of security comparable to that of a one-time-pad. In this article, I try to explain why in layman’s terms.
-- [Snake Cipher](https://prgomez.com/snake-cipher/) - Using this cipher is so much like playing the old “snake” video game, I’ve called it just that: Snake
+- [Snake Cipher](https://prgomez.com/snake-cipher/) - Using this cipher is so much like playing the old “snake” video game, I’ve called it just that: Snake.
 
 ## Food and Cooking
 
@@ -118,12 +118,12 @@ A collection of articles and awesome things to read on a lunch break. Never stop
 ## Fun Stuff That Doesn't Quite Fit Elsewhere
 
 - [52 Things I learned in 2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1) - For the last few years, I’ve been a fan of Tom Whitwell’s annual list of 52 things he learned during the past year.
-- [52 things I learned in 2021](https://medium.com/magnetic/52-things-i-learned-in-2021-8481c4e0d409) - 17) The battery in the new electric Hummer will weigh almost as much as an original Land Rover. [Saul Griffith] 18) Most ransomware is designed not to install on computers that have Russian or Ukrainian language keyboards. [Brian Krebs]
+- [52 things I learned in 2021](https://medium.com/magnetic/52-things-i-learned-in-2021-8481c4e0d409) - 17) The battery in the new electric Hummer will weigh almost as much as an original Land Rover. 18) Most ransomware is designed not to install on computers that have Russian or Ukrainian language keyboards.
 - [A few things I learned live streaming](https://dantepfer.com/blog/?p=1005) - “Thanks” to the pandemic, I’ve spent much more time figuring out how to deal with video and live streaming than I ever thought I would. It’s turned out to be a surprisingly rewarding experience.
 - [Amateurs vs Professionals](https://fs.blog/amateurs-professionals/) - Why is it that some people seem to be hugely successful and do so much, while the vast majority of us struggle to tread water? The answer is complicated and likely multifaceted.
-- [Amish Hackers](https://kk.org/thetechnium/amish-hackers-a/) - Amish lives are anything but anti-technological ... I have found them to be ingenious hackers and tinkers, the ultimate makers and do-it-yourselfers and surprisingly pro technology.
+- [Amish Hackers](https://kk.org/thetechnium/amish-hackers-a/) - Amish lives are anything but anti-technological. I have found them to be ingenious hackers and tinkers, the ultimate makers and do-it-yourselfers and surprisingly pro technology.
 - [Crazy Eddie, the popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/) - On September 13, 1984, as stocks wavered through a bear market, a regional electronics chain held a hyped initial public offering.
-- [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) - Steven Gerding, Dragon’s software development lead, [speaks] about the special challenges software development has for SpaceX’s many missions.
+- [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) - Steven Gerding, Dragon’s software development lead, speaks about the special challenges software development has for SpaceX’s many missions.
 - [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/) - To help you satisfy your need for in-depth technical, and perhaps more than a bit nerdy, knowledge about all things digital file formats.
 - [How bad is QWERTY really?](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/) - One man's journey to deal with RSI.
 - [How GPS works](https://ciechanow.ski/gps/) - Interactive website detailing how GPS actually works.
@@ -154,16 +154,17 @@ scripts in Unix-like systems. These solutions range from the legacy and still-in
 and SystemV schemes, to recent and promising schemes from Ubuntu, Apple, Sun and
 independent developers.
 - [casync - A Tool for Distributing File System Images](http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html) - It combines the idea of the rsync algorithm with the idea of git-style content-addressable file systems, and creates a new system for efficiently storing and delivering file system images, optimized for high-frequency update cycles over the Internet. 
-- [Create a user called '0day' and get root privs!](https://www.theregister.com/2017/07/05/linux_systemd_grants_root_to_invalid_user_accounts/) - Curiously, if systemd encounters an invalid name in a unit file, like "0day," it will ignore the parameter and create the requested service...But it will run the unit with root privileges instead of rejecting it or adopting more restrictive permissions.
-- [debootstrap](https://wiki.debian.org/Debootstrap) - debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.
+- [Create a user called '0day' and get root privs!](https://www.theregister.com/2017/07/05/linux_systemd_grants_root_to_invalid_user_accounts/) - Curiously, if systemd encounters an invalid name in a unit file, like "0day," it will ignore the parameter and create the requested service. But it will run the unit with root privileges instead of rejecting it or adopting more restrictive permissions.
+- [debootstrap](https://wiki.debian.org/Debootstrap) - CLI debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.
 - [dm-verity](https://www.kernel.org/doc/html/latest/admin-guide/device-mapper/verity.html) - Device-Mapper’s “verity” target provides transparent integrity checking of block devices using a cryptographic digest provided by the kernel crypto API.
 - [Gentoo is Rice](https://www.shlomifish.org/humour/by-others/funroll-loops/Gentoo-is-Rice.html) - Welcome, this page is dedicated to the Linux Community's greatest ambassadors, Gentoo users. Like the annoying teenager next door with a 90hp import sporting a 6 foot tall bolt-on wing, Gentoo users are proof that society is best served by roving gangs of armed vigilantes, dishing out swift, cold justice with baseball bats to those fucking ricer bastards.
-- [How X Window Managers Work, and How to Write One (Part 1)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/) - Basic Concepts
-- [How X Window Managers Work, and How to Write One (Part 2)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-ii/) - Introduction, Setup & Teardown, Initialization, Event Loop
-- [How X Window Managers Work, and How to Write One (Part 3)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-iii/) - Interaction with Application Windows
+- [How X Window Managers Work, and How to Write One (Part 1)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/) - Basic Concepts.
+- [How X Window Managers Work, and How to Write One (Part 2)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-ii/) - Introduction, Setup & Teardown, Initialization, Event Loop.
+- [How X Window Managers Work, and How to Write One (Part 3)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-iii/) - Interaction with Application Windows.
 - [JACK Audio Connection Kit](https://jackaudio.org/) - Have you ever wanted to take the audio output of one piece of software and send it to another? How about taking the output of that same program and send it to two others, then record the result in the first program? Or maybe you’re a programmer?
+<!--lint ignore awesome-spell-check-->
 - [Making Mac OS X UNIX compliant](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified) - Someone asks, "What goes into making an OS to be Unix compliant certified?" and Terry Lambert, an Apple Kernel developer, answers.
-- [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html) - mkosi stands for Make Operating System Image, and is a tool for precisely that: generating an OS tree or image that can be booted.
+- [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html) - CLI mkosi stands for Make Operating System Image, and is a tool for precisely that: generating an OS tree or image that can be booted.
 - [mkosi - GitHub Repo](https://github.com/systemd/mkosi) - Source code for above.
 - [No easter eggs in cURL](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/) - The maintainer of cURL explains why it contains no easter eggs, and why that is a good thing.
 - [Setting the record straight: containers vs Zones vs Jails vs VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/) - The Design of Solaris Zones, BSD Jails, VMs and containers are very different.
@@ -176,7 +177,7 @@ independent developers.
 
 ## Linux Class
 
-- [chroot](https://wiki.debian.org/chroot) - on Unix-like operating systems is an operation that changes the apparent root directory for the current running process and its children.
+- [chroot](https://wiki.debian.org/chroot) - On Unix-like operating systems chroot is an operation that changes the apparent root directory for the current running process and its children.
 - [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information)
 - [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710)
 - [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/)
@@ -205,6 +206,7 @@ independent developers.
 
 ## Network & Web
 
+<!--lint ignore no-repeat-punctuation-->
 - [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
 - [Breaking out of the Box](https://alistapart.com/article/breaking-out-of-the-box/)
 - [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
@@ -214,7 +216,7 @@ independent developers.
 - [How to Build a Low-Tech Website](https://homebrewserver.club/low-tech-website-howto.html)
 - [Hot to build HTML forms right](https://austingil.com/how-to-build-html-forms-right-semantics/) - A five part series on how to make actually usable and well designed web forms.
 - [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
-- [HTTP://HTTP://HTTP://@HTTP://HTTP://?HTTP://#HTTP://](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/) - is a legitamete URL and here's why.
+- [HTTP://HTTP://HTTP://@HTTP://HTTP://?HTTP://#HTTP://](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/) - Is a legitimate URL and here's why.
 - [Is It DNS?](https://isitdns.com/)
 - [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online.
 - [My Blog is Hilariously Overengineered to the Point People Think it's a Static Site](https://xeiaso.net/talks/how-my-website-works) - Xe Iaso explains how he fully automated his stupid fast blog website.
@@ -255,8 +257,8 @@ independent developers.
 - [Numpy SIMD optimizations](https://numpy.org/doc/stable/reference/simd/simd-optimizations.html)
 - [On Code Isolation in Python](https://rushter.com/blog/python-code-isolation/)
 - [Optimatization Tricks of Tuples vs Lists](https://rushter.com/blog/python-lists-and-tuples/)
-- [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code
-- [PEP 20](https://www.python.org/dev/peps/pep-0020/) - The Zen of Python
+- [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code.
+- [PEP 20](https://www.python.org/dev/peps/pep-0020/) - The Zen of Python.
 - [Python Type Hints: Avoiding the Boolean Trap](https://adamj.eu/tech/2021/07/10/python-type-hints-how-to-avoid-the-boolean-trap/)
 - [Python Type Hints: How to use the overload decorator](https://adamj.eu/tech/2021/05/29/python-type-hints-how-to-use-overload/)
 - [Python Type Hints: How to type a context manager](https://adamj.eu/tech/2021/07/04/python-type-hints-how-to-type-a-context-manager/)
@@ -373,15 +375,15 @@ independent developers.
 
 - [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
 - [A History of modern init systems](https://web.archive.org/web/20220618014428/https://blog.darknedgy.net/technology/2015/09/05/0/) - The subject of process management, supervision and init(8) for Unix-like systems is one plagued by a large degree of ahistoricity and “pop culture” explanations.
-- [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986)
+- [A Rational Design Process. How and Why to Fake It](https://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf) - (1986).
 - [A Short History of Objective-C](https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd)
 - [Always more history](https://www.hillelwayne.com/post/always-more-history/)
 - [Booting the IBM 1401](http://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html)
 - [Decades of Computing: Machines built to last](https://www.datagubbe.se/30yearcomp/)
 - [Don't Touch: The Story of the U-Force](https://thegaminghistorian.com/dont-touch-the-story-of-the-u-force/) - (37 minute video) All about the Nintendo U-Force and why you've never heard of it.
-- [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
+- [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995).
 - [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
-- [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
+- [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993).
 - [Software Library: Screensavers](https://archive.org/details/softwarelibrary_screensavers)
 - [Taking this Serially: RS-232 History](https://computer.rip/2021-01-12%20taking%20this%20serially.html)
 - [Why do interviewers ask linked list?](https://www.hillelwayne.com/post/linked-lists/)
@@ -441,7 +443,7 @@ independent developers.
 
 ## Standards
 
-- [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs)
+- [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs).
 - [PEP 484: Type Hints](https://www.python.org/dev/peps/pep-0484/)
 - [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
 - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
