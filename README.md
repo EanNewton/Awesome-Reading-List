@@ -26,7 +26,7 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 
 <!-- TOC -->
 
-<!--lint disable awesome-toc-->
+<!--lint disable awesome-toc code-block-style-->
 ## Contents
 - [main()](#main)
 	- [Databases](#databases)
@@ -63,7 +63,7 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [Standards](#standards)
 	- [RFC](#rfc)
 - [Follow](#follow)
-<!--lint enable awesome-toc-->
+<!--lint enable awesome-toc code-block-style-->
 
 <!-- CONTENT -->
 
