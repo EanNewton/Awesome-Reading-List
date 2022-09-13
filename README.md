@@ -215,6 +215,7 @@ independent developers.
 * [HTTP://HTTP://HTTP://@HTTP://HTTP://?HTTP://#HTTP://](https://daniel.haxx.se/blog/2022/09/08/http-http-http-http-http-http-http/) - is a legitamete URL and here's why.
 * [Is It DNS?](https://isitdns.com/)
 * [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online.
+* [My Blog is Hilariously Overengineered to the Point People Think it's a Static Site](https://xeiaso.net/talks/how-my-website-works) - Xe Iaso explains how he fully automated his stupid fast blog website.
 * [NVIDIA Cumulus and Sonic ethernet OS's](https://www.nvidia.com/en-us/networking/ethernet-switching/)
 * [SSH Bastion Hosts: Setting up](https://goteleport.com/blog/ssh-bastion-host/)
 * [SSH Bastion Hosts: Security best practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
@@ -375,6 +376,7 @@ independent developers.
 * [Always more history](https://www.hillelwayne.com/post/always-more-history/)
 * [Booting the IBM 1401](http://www.righto.com/2021/02/an-ibm-1401-mainframe-computer-at.html)
 * [Decades of Computing: Machines built to last](https://www.datagubbe.se/30yearcomp/)
+* [Don't Touch: The Story of the U-Force](https://thegaminghistorian.com/dont-touch-the-story-of-the-u-force/) - (37 minute video) All about the Nintendo U-Force and why you've never heard of it.
 * [EXE Magazine interview with Anders Hejlsberg on Delphi](https://www.theopenforce.com/2020/02/anders-hejlsberg-delphi-1995.html) - (1995)
 * [Hercules: IBM S/370 and ESA/390 Emulator](http://www.jaymoseley.com/hercules/)
 * [How To Code](http://jvaltane.kapsi.fi/amiga/howtocode/) - (1993)
