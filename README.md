@@ -26,31 +26,34 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 
 <!-- TOC -->
 
+<!--lint disable awesome-toc code-block-style-->
 ## Contents
-
-- [Databases](#databases)
-- [Design and UI](#design-and-ui)
-- [DevOps](#devops)
-- [Documentation](#documentation)
-- [Encryption](#encryption)
-- [Food and Cooking](#food-and-cooking)
-- [Fun Stuff That Doesn't Quite Fit Elsewhere](#fun-stuff-that-doesnt-quite-fit-elsewhere)
-- [Git / GitHub / GitLab](#git--github--gitlab)
-- [Linux / Unix / BSD](#linux--unix--bsd)
-- [Linux Class](#linux-class)
-- [Mathematics](#mathematics)
-- [Microsoft](#microsoft)
-- [Network](#network)
-- [Places to Find Things](#places-to-find-things)
-- [Python](#python)
-- [Reverse Engineering & Hardware Hacking](#reverse-engineering--hardware-hacking)
-- [Rule #0: Be awesome to one another and party on](#rule-0-be-awesome-to-one-another-and-party-on)
-- [Security](#security)
-- [Software Development](#software-development)
-- [System Development](#system-development)
-- [Videos](#videos)
-- [Vintage & Historical](#vintage--historical)
-- [Web](#web)
+- [main()](#main)
+	- [Databases](#databases)
+	- [Design and UI](#design-and-ui)
+	- [DevOps](#devops)
+	- [Documentation](#documentation)
+	- [Encryption](#encryption)
+	- [Food and Cooking](#food-and-cooking)
+	- [Fun Stuff That Doesn't Quite Fit Elsewhere](#fun-stuff-that-doesnt-quite-fit-elsewhere)
+	- [Git / GitHub / GitLab](#git--github--gitlab)
+	- [Linux / Unix / BSD](#linux--unix--bsd)
+	- [Linux Class](#linux-class)
+	- [Mathematics](#mathematics)
+	- [Microsoft](#microsoft)
+<!--lint ignore double-link-->
+	- [Network](#network)
+	- [Places to Find Things](#places-to-find-things)
+	- [Python](#python)
+	- [Reverse Engineering & Hardware Hacking](#reverse-engineering--hardware-hacking)
+	- [Rule #0: Be awesome to one another and party on](#rule-0-be-awesome-to-one-another-and-party-on)
+	- [Security](#security)
+	- [Software Development](#software-development)
+	- [System Development](#system-development)
+	- [Videos](#videos)
+	- [Vintage & Historical](#vintage--historical)
+<!--lint ignore double-link-->
+	- [Web](#web)
 - [Reference materials](#reference-materials)
 	- [Algorithm & Logic References](#algorithm--logic-references)
 	- [Data Structures References](#data-structures-references)
@@ -60,9 +63,11 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [Standards](#standards)
 	- [RFC](#rfc)
 - [Follow](#follow)
+<!--lint enable awesome-toc code-block-style-->
 
 <!-- CONTENT -->
 
+## main()
 
 ## Databases
 
@@ -207,6 +212,7 @@ independent developers.
 
 ## Network
 
+<!--lint ignore double-link-->
 See also [Web](#web).
 
 - [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
@@ -382,6 +388,7 @@ See also [Web](#web).
 
 ## Web
 
+<!--lint ignore double-link-->
 See also [Network](#network).
 
 <!--lint ignore no-repeat-punctuation-->
