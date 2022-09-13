@@ -20,8 +20,6 @@
 
 A collection of articles and awesome things to read on a lunch break. Never stop learning!
 
-Where possible I have uploaded backups of some of the pdf's in the media folder. Likewise, if a link is dead please submit an issue or PR for it.
-
 </div>
 
 <!-- TOC -->
@@ -142,32 +140,37 @@ Where possible I have uploaded backups of some of the pdf's in the media folder.
 
 ## Git / GitHub / GitLab
 
-* [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-* [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
+* [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
+* [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
 * [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
 
 
 ## Linux / Unix / BSD
 
-* [A Survey of UNIX init schemes](https://arxiv.org/pdf/0706.2748.pdf)
-* [casync - A Tool for Distributing File System Images](http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html)
-* [Create a user called '0day' and get root privs!](https://www.theregister.com/2017/07/05/linux_systemd_grants_root_to_invalid_user_accounts/)
-* [debootstrap](https://wiki.debian.org/Debootstrap)
+* [A Survey of UNIX init schemes](https://arxiv.org/pdf/0706.2748.pdf) - (June 2007) This document describes existing solutions that implement the init process and/or init
+scripts in Unix-like systems. These solutions range from the legacy and still-in-use BSD
+and SystemV schemes, to recent and promising schemes from Ubuntu, Apple, Sun and
+independent developers.
+* [casync - A Tool for Distributing File System Images](http://0pointer.net/blog/casync-a-tool-for-distributing-file-system-images.html) - It combines the idea of the rsync algorithm with the idea of git-style content-addressable file systems, and creates a new system for efficiently storing and delivering file system images, optimized for high-frequency update cycles over the Internet. 
+* [Create a user called '0day' and get root privs!](https://www.theregister.com/2017/07/05/linux_systemd_grants_root_to_invalid_user_accounts/) - Curiously, if systemd encounters an invalid name in a unit file, like "0day," it will ignore the parameter and create the requested service...But it will run the unit with root privileges instead of rejecting it or adopting more restrictive permissions.
+* [debootstrap](https://wiki.debian.org/Debootstrap) - debootstrap is a tool which will install a Debian base system into a subdirectory of another, already installed system.
 * [dm-verity](https://www.kernel.org/doc/html/latest/admin-guide/device-mapper/verity.html) - Device-Mapper’s “verity” target provides transparent integrity checking of block devices using a cryptographic digest provided by the kernel crypto API.
-* [Gentoo is Rice](https://www.shlomifish.org/humour/by-others/funroll-loops/Gentoo-is-Rice.html)
-* [How X Window Managers Work, and How to Write One (Part 1)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
-* [JACK Audio Connection Kit](https://jackaudio.org/)
-* [Making Mac OS X UNIX compliant](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified)
-* [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html)
-* [mkosi - GitHub Repo](https://github.com/systemd/mkosi)
-* [No easter eggs in cURL](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/)
-* [Setting the record straight: containers vs Zones vs Jails vs VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/)
-* [Stop writing shell scripts](https://pythonspeed.com/articles/shell-scripts/)
-* [Technical Reasons to choose FreeBSD over Linux](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html)
-* [The growth of command line options: 1979 - present](https://danluu.com/cli-complexity/)
-* [The important UNIX idea of the Virtual File System](https://utcc.utoronto.ca/~cks/space/blog/unix/VFSImportance)
-* [The real motivation behind systemd](https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html)
-* [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/)
+* [Gentoo is Rice](https://www.shlomifish.org/humour/by-others/funroll-loops/Gentoo-is-Rice.html) - Welcome, this page is dedicated to the Linux Community's greatest ambassadors, Gentoo users. Like the annoying teenager next door with a 90hp import sporting a 6 foot tall bolt-on wing, Gentoo users are proof that society is best served by roving gangs of armed vigilantes, dishing out swift, cold justice with baseball bats to those fucking ricer bastards.
+* [How X Window Managers Work, and How to Write One (Part 1)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/) - Basic Concepts
+* [How X Window Managers Work, and How to Write One (Part 2)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-ii/) - Introduction, Setup & Teardown, Initialization, Event Loop
+* [How X Window Managers Work, and How to Write One (Part 3)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-iii/) - Interaction with Application Windows
+* [JACK Audio Connection Kit](https://jackaudio.org/) - Have you ever wanted to take the audio output of one piece of software and send it to another? How about taking the output of that same program and send it to two others, then record the result in the first program? Or maybe you’re a programmer?
+* [Making Mac OS X UNIX compliant](https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified) - Someone asks, "What goes into making an OS to be Unix compliant certified?" and Terry Lambert, an Apple Kernel developer, answers.
+* [mkosi - A Tool for Generating OS Images](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html) - mkosi stands for Make Operating System Image, and is a tool for precisely that: generating an OS tree or image that can be booted.
+* [mkosi - GitHub Repo](https://github.com/systemd/mkosi) - Source code for above.
+* [No easter eggs in cURL](https://daniel.haxx.se/blog/2021/12/06/no-easter-eggs-in-curl/) - The maintainer of cURL explains why it contains no easter eggs, and why that is a good thing.
+* [Setting the record straight: containers vs Zones vs Jails vs VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/) - The Design of Solaris Zones, BSD Jails, VMs and containers are very different.
+* [Stop writing shell scripts](https://pythonspeed.com/articles/shell-scripts/) -  Unless you are very careful from day one, any shell script above a certain complexity level is almost guaranteed to be buggy… and retrofitting the correctness features is quite difficult.
+* [Technical Reasons to choose FreeBSD over Linux](https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html) - (2020) Survey of technical features in FreeBSD vs Linux operating systems at the time.
+* [The growth of command line options: 1979 - present](https://danluu.com/cli-complexity/) - On ubuntu 17, if you read the manpage for coreutils ls, you don’t get a nice summary of options, but you’ll see that ls has 58 options (including --help and --version).
+* [The important UNIX idea of the Virtual File System](https://utcc.utoronto.ca/~cks/space/blog/unix/VFSImportance) - Then Sun came up with NFS and found themselves with a problem; their kernel needed to support two different filesystems at once, the BSD FFS/UFS for local disks and NFS for networked filesystems.
+* [The real motivation behind systemd](https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html) - (2018) A mix between an OpEd and an inside historical look at systemd.
+* [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/) - A session manager for PipeWire, an alternative to JACK or ALSA.
 
 ## Linux Class
 
