@@ -20,7 +20,7 @@
 
 <!-- description -->
 
-A collection of articles and awesome things to read on a lunch break. Never stop learning!
+A curated and opinionated collection of awesome techy things to read on a lunch break. Never stop learning!
 
 </div>
 
@@ -178,23 +178,23 @@ independent developers.
 ## Linux Class
 
 - [chroot](https://wiki.debian.org/chroot) - On Unix-like operating systems chroot is an operation that changes the apparent root directory for the current running process and its children.
-- [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information)
-- [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710)
-- [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/)
-- [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
-- [Quick Grep](https://github.com/adrianscheff/quick-grep)
-- [rclone: From Basics to Encryption](https://www.andyibanez.com/posts/rclone-basics-encryption/)
-- [Simple awk](https://github.com/adrianscheff/simple-awk)
-- [Special Characters](https://www.howtogeek.com/439199/15-special-characters-you-need-to-know-for-bash/)
-- [Text Processing Recipes](https://github.com/adrianscheff/text-processing-recipes-linux)
-- [Useful Sed](https://github.com/adrianscheff/useful-sed)
-- [Wizardly Tips for Vim](https://github.com/adrianscheff/wizardly-tips-vim)
-- [X11: Disable Cursor](http://noah.org/wiki/cursor_disable_in_X11)
+- [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information) - How to find your hardware specs.
+- [Hard & Soft Links](https://unix.stackexchange.com/questions/340676/use-cases-for-hardlinks/340710#340710) - What are the different types of file links and when should you use them?
+- [How Brace Expansion Works](https://www.howtogeek.com/725657/how-to-use-brace-expansion-in-linuxs-bash-shell/) - What's the deal with those {funky} commands you sometimes see?
+- [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/) - The CLI tool for finding DNS.
+- [Quick Grep](https://github.com/adrianscheff/quick-grep) - Cheatsheet for grep, the CLI tool for searching text.
+- [rclone: From Basics to Encryption](https://www.andyibanez.com/posts/rclone-basics-encryption/) - Your zero-to-hero guide getting started with rclone.
+- [Simple awk](https://github.com/adrianscheff/simple-awk) - A quick reference to the AWK scripting language.
+- [Special Characters in BASH](https://www.howtogeek.com/439199/15-special-characters-you-need-to-know-for-bash/) - Why do you sometimes see characters like ~ or * in commands? What do they mean?
+- [Text Processing Recipes](https://github.com/adrianscheff/text-processing-recipes-linux) - Linux text processing reference & recipes. Featuring: `vim, tr, cat, tac, sort, shuf, seq, pr, paste, fmt, cut, nl, split, csplit, sed, awk, grep` and regex.
+- [Useful Sed](https://github.com/adrianscheff/useful-sed) - Useful sed tips, techniques and tricks for daily usage.
+- [Wizardly Tips for Vim](https://github.com/adrianscheff/wizardly-tips-vim) - A fast way to benefit from vim's power. Ideally you should read a good book and the `:h` section. But if you're in a hurry this should serve you well.
+- [X11: Disable Cursor](https://web.archive.org/web/20210420050749/http://www.noah.org/wiki/cursor_disable_in_X11) - When working with touch-screen interfaces or embedded systems you often don't want or need the mouse cursor. 
 
 ## Mathematics
 
-- [High dimenionsal sphere spilling out of a high dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/)
-- [Matrix multiplication](http://matrixmultiplication.xyz/)
+- [High dimenionsal sphere spilling out of a high dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/) - Make a square, split each side into two halves, producing four cells. Put a circle into each cell such that it fills it completely. There is a small gap right in the middle of the square. Put a circle there again such that it touches the other four circles. The central circle is obviously inside the square, right? Yes, but only if the dimension you are in is D ≤ 9.
+- [Matrix multiplication](http://matrixmultiplication.xyz/) - Online matrix calculator app.
 
 ## Microsoft
 
