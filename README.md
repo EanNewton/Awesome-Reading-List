@@ -20,7 +20,8 @@
 
 <!-- description -->
 
-A curated and opinionated collection of awesome techy things to read on a lunch break. Never stop learning!
+Articles, blog posts, web apps, videos, and other tidbits of STEM related awesomeness that can be read over a lunch break. Curated and opinionated. Never stop learning.
+
 
 </div>
 
