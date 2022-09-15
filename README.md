@@ -20,7 +20,7 @@
 
 <!-- description -->
 
-Articles, blog posts, web apps, videos, and other tidbits of STEM related awesomeness that can be read over a lunch break. Curated and opinionated. Never stop learning.
+Articles, blog posts, web apps, videos, and other tidbits of STEM related awesomeness that can be read over a lunch break. Curated and opinionated, I have and continue to add things over time when I find them particularly useful, unique, or entertaining. Never stop learning.
 
 
 </div>
@@ -29,46 +29,52 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 
 <!--lint disable awesome-toc-->
 ## Contents
-- [main()](#main)
-	- [Databases](#databases)
-	- [Design and UI](#design-and-ui)
-	- [DevOps](#devops)
-	- [Documentation](#documentation)
-	- [Encryption](#encryption)
-	- [Food and Cooking](#food-and-cooking)
-	- [Fun Stuff That Doesn't Quite Fit Elsewhere](#fun-stuff-that-doesnt-quite-fit-elsewhere)
-	- [Git / GitHub / GitLab](#git--github--gitlab)
-	- [Linux / Unix / BSD](#linux--unix--bsd)
-	- [Linux Class](#linux-class)
-	- [Mathematics](#mathematics)
-	- [Microsoft](#microsoft)
-	- [Network](#network)
-	- [Places to Find Things](#places-to-find-things)
-	- [Python](#python)
-	- [Reverse Engineering & Hardware Hacking](#reverse-engineering--hardware-hacking)
-	- [Rule #0: Be awesome to one another and party on](#rule-0-be-awesome-to-one-another-and-party-on)
-	- [Security](#security)
-	- [Software Development](#software-development)
-	- [System Development](#system-development)
-	- [Videos](#videos)
-	- [Vintage & Historical](#vintage--historical)
-	- [Web](#web)
+- [main() {](#main-)
+  - [Databases](#databases)
+  - [Design and UI](#design-and-ui)
+  - [DevOps](#devops)
+  - [Documentation](#documentation)
+  - [Encryption](#encryption)
+  - [Food and Cooking](#food-and-cooking)
+  - [Fun Stuff That Doesn't Quite Fit Elsewhere](#fun-stuff-that-doesnt-quite-fit-elsewhere)
+  - [Git / GitHub / GitLab](#git--github--gitlab)
+  - [Linux / Unix / BSD](#linux--unix--bsd)
+  - [Linux Class](#linux-class)
+  - [Mathematics](#mathematics)
+  - [Microsoft](#microsoft)
+  - [Network](#network)
+  - [Places to Find Things](#places-to-find-things)
+  - [Python](#python)
+  - [Reverse Engineering & Hardware Hacking](#reverse-engineering--hardware-hacking)
+  - [Security](#security)
+  - [Software Development](#software-development)
+  - [System Development](#system-development)
+  - [Videos](#videos)
+  - [Vintage & Historical](#vintage--historical)
+  - [Web](#web)
+- [}](#)
 - [Reference materials](#reference-materials)
-	- [Algorithm & Logic References](#algorithm--logic-references)
-	- [Data Structures References](#data-structures-references)
-	- [Hardware](#hardware)
-	- [Lists](#lists)
-	- [Organizations](#organizations)
-	- [Standards](#standards)
-	- [RFC](#rfc)
+  - [Algorithm & Logic References](#algorithm--logic-references)
+  - [Data Structures References](#data-structures-references)
+  - [Hardware](#hardware)
+  - [Lists](#lists)
+  - [Organizations](#organizations)
+  - [Standards](#standards)
+  - [RFC](#rfc)
 - [Follow](#follow)
 <!--lint enable awesome-toc-->
 
 <!-- CONTENT -->
 
-## main()
+## main() {
 
-## Databases
+This list is loosely organized into categories, not everything fits neatly and I have in cases chosen arbitrarily. Articles within sections are organized alphabetically. The format is:
+
+`- Article Link - A brief description. (time to read, publication date).`
+
+The time to read is based on the median between a reading speed of 183 words per minute (wpm) and 234 wpm.
+
+### Databases
 
 - [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405) - Why it’s impossible to write good application-layer code for everyday business logic. (20 minutes, 2016).
 - [Postgres Hashing](https://www.postgresql.org/docs/current/hash-intro.html) - A technical overview of what hash indexes are and how they are implemented. (5 minutes, 2022).
@@ -79,16 +85,21 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 - [UUID's and ULID's](https://sudhir.io/uuids-ulids) - What UUIDs and ULIDs are under the hood, and how to encode and use them. (15 minutes).
 - [UUID to UTF-8 in Ruby](https://gist.github.com/snikch/6969879) - Ruby script to Convert a UUID to UTF-8 encoding to visually shorten.
 
-## Design and UI
+### Design and UI
 
-- [Fueling the Creation of New Electronic Curbcuts](http://www.accessiblesociety.org/topics/technology/eleccurbcut.htm) - Unusual things happen when products are designed to be accessible to people with disabilities. It wasn't long after sidewalks were redesigned to accommodate wheelchair users that the benefits of curb cuts began to be realized by everyone. 
-- [Privacy By Design: What Needs to be Done, How to do It, and How to Sell It to your Boss](https://medium.com/greater-than-experience-design/privacy-by-design-7b1165d045e0) - Could you imagine the outrage the public would experience if they found out that the postal service was holding their mail hostage and selling it to whoever was willing to pay? What’s happening with data on the Internet is no different, and it’s time this changes.  
+Rule #0: Be awesome to one another and party on.
 
-## DevOps
+- [Collaborate with kindness: basic etiquette for Slack](https://slack.com/intl/en-gb/blog/collaboration/etiquette-tips-in-slack)
+- [Fueling the Creation of New Electronic Curbcuts](http://www.accessiblesociety.org/topics/technology/eleccurbcut.htm) - Unusual things happen when products are designed to be accessible to people with disabilities. (13 minutes, 1999).
+- [On Names](https://emmah.net/names.html)
+- [Privacy By Design: What Needs to be Done, How to do It, and How to Sell It to your Boss](https://medium.com/greater-than-experience-design/privacy-by-design-7b1165d045e0) - Could you imagine the outrage the public would experience if they found out that the postal service was holding their mail hostage and selling it to whoever was willing to pay? (21 minutes, 2018).
+- [Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/)
+
+### DevOps
 
 - [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html) - A few lessons in operations that we all (eventually) (have to) learn, often the hard way. Why things are the way they are, or what the lessons mean is left to the reader to interpret, agree, or disagree with.
 
-## Documentation
+### Documentation
 
 - [Content Workflow Using GitHub and Markdown](https://www.portent.com/blog/content/content-with-github-markdown.htm) - We publish digital content. We write and create for the internet and screens. But our content workflow dates back to the days of desktop publishing.
 - [Hemingway App](https://hemingwayapp.com/) - The app highlights lengthy, complex sentences and common errors.
@@ -107,19 +118,19 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 - [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github) - GitHub Docs official guide to Markdown and editing.
 - [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation.
 
-## Encryption
+### Encryption
 
 - [CryptoPals](https://cryptopals.com/) - A set of 48 practical programming exercises that Thomas Ptacek and his team at Matasano Security have developed as a kind of teaching tool (and baited hook). This is a different way to learn about crypto than taking a class or reading a book.
 - [DRM is not to prevent copyright violations](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2) - The purpose of DRM is to give content providers leverage against creators of playback devices.
 - [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/) - While the running key cipher can be broken easily, BookPad offers a level of security comparable to that of a one-time-pad. In this article, I try to explain why in layman’s terms.
 - [Snake Cipher](https://prgomez.com/snake-cipher/) - Using this cipher is so much like playing the old “snake” video game, I’ve called it just that: Snake.
 
-## Food and Cooking
+### Food and Cooking
 
 - [Healthy Soil is the real key to feeding the world](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/) - Agricultural myths hinder recognizing the potential to restore degraded soils to feed the world using fewer agrochemicals.
 - [One of the most famous Victorian dishes is a lie](https://www.atlasobscura.com/articles/victorian-brown-windsor-soup) - Brown Windsor soup was reportedly a favorite of the Queen. The only problem? It may not have existed.
 
-## Fun Stuff That Doesn't Quite Fit Elsewhere
+### Fun Stuff That Doesn't Quite Fit Elsewhere
 
 - [52 Things I learned in 2021](https://kottke.org/22/01/52-things-i-learned-in-2021-1) - For the last few years, I’ve been a fan of Tom Whitwell’s annual list of 52 things he learned during the past year.
 - [52 things I learned in 2021](https://medium.com/magnetic/52-things-i-learned-in-2021-8481c4e0d409) - 17) The battery in the new electric Hummer will weigh almost as much as an original Land Rover. 18) Most ransomware is designed not to install on computers that have Russian or Ukrainian language keyboards.
@@ -144,14 +155,14 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 - [Unusual Wikipedia Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles) - These articles are verifiable, valuable contributions to the encyclopedia, but are a bit odd, whimsical, or something one would not expect to find in Encyclopædia Britannica.
 - [When SimCity got serious](https://obscuritory.com/sim/when-simcity-got-serious/) - Maxis didn’t want to make professional simulation games. But for two brief, strange years, they did.
 
-## Git / GitHub / GitLab
+### Git / GitHub / GitLab
 
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
 
 
-## Linux / Unix / BSD
+### Linux / Unix / BSD
 
 - [A Survey of UNIX init schemes](https://arxiv.org/pdf/0706.2748.pdf) - (June 2007) This document describes existing solutions that implement the init process and/or init
 scripts in Unix-like systems. These solutions range from the legacy and still-in-use BSD
@@ -179,7 +190,7 @@ independent developers.
 - [The real motivation behind systemd](https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html) - (2018) A mix between an OpEd and an inside historical look at systemd.
 - [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/) - A session manager for PipeWire, an alternative to JACK or ALSA.
 
-## Linux Class
+### Linux Class
 
 - [chroot](https://wiki.debian.org/chroot) - On Unix-like operating systems chroot is an operation that changes the apparent root directory for the current running process and its children.
 - [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information) - How to find your hardware specs.
@@ -195,13 +206,13 @@ independent developers.
 - [Wizardly Tips for Vim](https://github.com/adrianscheff/wizardly-tips-vim) - A fast way to benefit from vim's power. Ideally you should read a good book and the `:h` section. But if you're in a hurry this should serve you well.
 - [X11: Disable Cursor](https://web.archive.org/web/20210420050749/http://www.noah.org/wiki/cursor_disable_in_X11) - When working with touch-screen interfaces or embedded systems you often don't want or need the mouse cursor. 
 
-## Mathematics
+### Mathematics
 
 - [High dimenionsal sphere spilling out of a high dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/) - Make a square, split each side into two halves, producing four cells. Put a circle into each cell such that it fills it completely. There is a small gap right in the middle of the square. Put a circle there again such that it touches the other four circles. The central circle is obviously inside the square, right? Yes, but only if the dimension you are in is D ≤ 9.
 - [Matrix multiplication](http://matrixmultiplication.xyz/) - Online matrix calculator app.
 - [The Flaw of Averages](https://hbr.org/2002/11/the-flaw-of-averages) - Consider the case of the statistician who drowns while fording a river that he calculates is, on average, three feet deep. If he were alive to tell the tale, he would expound on the “flaw of averages,” which states, simply, that plans based on assumptions about average conditions usually go wrong. (5 minutes, 2002)
 
-## Microsoft
+### Microsoft
 
 - [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/) - Step-by-step with pictures, how to export a user's Outlook mailbox. (2021).
 - [Windows 8: Show/Hide Administrative Tools](https://web.archive.org/web/20150905204425/http://www.eightforums.com/tutorials/4861-administrative-tools-hide-show-windows-8-a.html)
@@ -209,7 +220,7 @@ independent developers.
 - [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
 - [Why Pinball was removed from Windows Vista](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803) - Windows XP was the last client version of Windows to include the Pinball game that had been part of Windows since Windows 95. (2 minutes, 2012).
 
-## Network
+### Network
 
 - [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/) - I feel like the term "DNS propagation" is misleading, like you're not actually waiting for DNS records to "propagate", you're waiting for cached records to expire. (10 minutes, 2021).
 - [DOS on Dope](https://secretgeek.net/dod_intro) - An MVC web framework made and running entirely on Batch scripts. (2 minutes, 2010).
@@ -226,13 +237,13 @@ independent developers.
 - [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html) - You can spend a surprising amount of time chasing RFCs and finding out more than you ever thought you'd need to know about something as trivial as "hostnames". (15 minutes, 2021).
 
 
-## Places to Find Things
+### Places to Find Things
 
 - [arXiv](https://arxiv.org/) - Cornell University's archive of free distribution service and an open-access archive for 2,000,301 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
 - [Library Genesis](https://libgen.is/) - A shadow library website for scholarly journal articles, academic and general-interest books.
 - [Library Thing MDS](https://www.librarything.com/mds) - Find books by selecting narrowing topics of interest.
 
-## Python
+### Python
 
 - [All You Need to Know About Python Asterisks](https://bas.codes/posts/python-asterisks) - Use the `*` for more than just multiplication. (5 minutes, 2022).
 - [Borgs and Singletons](https://bas.codes/posts/python-dict-slots#introducing-the-borg) - Is there a use case where we want all instances to share the same storage? Singletons in Python. (7 minutes, 2022).
@@ -264,7 +275,7 @@ independent developers.
 - [Python Type Hints: Use Cases for types Module](https://adamj.eu/tech/2021/09/08/python-type-hints-use-cases-for-the-types-module/)
 - [Under the hood weirdness, Part 1](https://twitter.com/reuvenmlerner/status/1531552019101671424)
 
-## Reverse Engineering & Hardware Hacking
+### Reverse Engineering & Hardware Hacking
 
 - [An Ancient Greek Astronomical Calculation Machine Reveals New Secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
 - [Antenna Theory](https://www.antenna-theory.com/) - This website will strive to make antennas understandable, without unnecessary complexity.
@@ -289,13 +300,8 @@ independent developers.
 - [The Structure of a Smartphone](https://medium.com/telecom-expert/structure-of-a-smartphone-383575de3eaf)
 - [What is AT&T doing at 1111340002?](https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c)
 
-## Rule #0: Be awesome to one another and party on
 
-- [Collaborate with kindness: basic etiquette for Slack](https://slack.com/intl/en-gb/blog/collaboration/etiquette-tips-in-slack)
-- [Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/)
-- [On Names](https://emmah.net/names.html)
-
-## Security
+### Security
 
 - [10 Stories of how we've compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
 - [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 3)](https://connormcgarr.github.io/type-confusion-part-3/)
@@ -304,7 +310,7 @@ independent developers.
 - [Outline of forgery](https://en.wikipedia.org/wiki/Outline_of_forgery)
 - [The curious case of the raspberry pi in the closet](https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html)
 
-## Software Development
+### Software Development
 
 - [1001 Representations of Syntax with Binding](https://jesper.sikanda.be/posts/1001-syntax-representations.html)
 - [21 compilers and 3 orders of magnitude in 60 minutes](https://github.com/EanNewton/Awesome-Reading-List/blob/main/media/Hoare%2C%20Graydon%20-%20CompilerTalk-2019.pdf) - What compilers look like from the perspective of people who make them for a living.
@@ -350,7 +356,7 @@ independent developers.
 - [Why not TOML?](https://hitchdev.com/strictyaml/why-not/toml/)
 - [Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
 
-## System Development
+### System Development
 
 - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
 - [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
@@ -359,12 +365,12 @@ independent developers.
 - [Resources to learn distributed systems](https://pierrezemb.fr/posts/distsys-resources/)
 - [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
-## Videos
+### Videos
 
 - ["Uptime 15,364 Days" - The Computers of Voyager](https://www.youtube.com/watch?v=H62hZJVqs2o)
 - [Stanford - Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-## Vintage & Historical
+### Vintage & Historical
 
 - [10 Forgotten Image Formats](https://tedium.co/2021/11/10/10-forgotten-image-formats/)
 - [A History of modern init systems](https://web.archive.org/web/20220618014428/https://blog.darknedgy.net/technology/2015/09/05/0/) - The subject of process management, supervision and init(8) for Unix-like systems is one plagued by a large degree of ahistoricity and “pop culture” explanations.
@@ -384,7 +390,7 @@ independent developers.
 - [WinWorld: Vintage Operating System Downloads](https://winworldpc.com/library/operating-systems)
 
 
-## Web
+### Web
 
 <!--lint ignore no-repeat-punctuation-->
 - [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
@@ -398,14 +404,14 @@ independent developers.
 - [You can access a user's camera with just HTML](https://austingil.com/html-capture-attribute/) - About the `capture` attribute.
 
 
+## }
+
 ---
 
 ## Reference materials
 
----
 
-
-## Algorithm & Logic References
+### Algorithm & Logic References
 
 - [Aho-Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
 - [Berlekamp-Welch](https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Welch_algorithm)
@@ -426,18 +432,18 @@ independent developers.
 - [Runge-Kutta Method](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) - See Also: [Visualizing the Runge-Kutta Method](https://www.haroldserrano.com/blog/visualizing-the-runge-kutta-method)
 - [Stochastic Rounding](https://en.wikipedia.org/wiki/Rounding#Stochastic_rounding)
 
-## Data Structures References
+### Data Structures References
 
 - [Base32](https://www.crockford.com/base32.html)
 - [Kuramoto Model](https://en.wikipedia.org/wiki/Kuramoto_model)
 - [Lengauer Tarjan Dominator Tree](https://www.boost.org/doc/libs/1_66_0/libs/graph/doc/lengauer_tarjan_dominator.htm)
 - [Trie](https://en.wikipedia.org/wiki/Trie)
 
-## Hardware
+### Hardware
 
 - [The Pinouts Book](https://pinouts.org/)
 
-## Lists
+### Lists
 
 - [Awesome Guidelines](https://awesome-guidelines.com/) - A set of style guides, practices, and methods for each aspect of a program written in that language.
 - [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference)
@@ -445,18 +451,18 @@ independent developers.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
 - [Trailblazers](https://trailblazerlist.xyz/) - A list of startups attempting to solve meaningful problems.
 
-## Organizations
+### Organizations
 
 - [Open Compute Project](https://www.opencompute.org/)
 
-## Standards
+### Standards
 
 - [PEP 0](https://www.python.org/dev/peps/) - Index of Python Enhancement Proposals (PEPs).
 - [PEP 484: Type Hints](https://www.python.org/dev/peps/pep-0484/)
 - [The Base16, Base32, and Base64 Data Encodings](https://datatracker.ietf.org/doc/html/rfc4648)
 - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-02.html)
 
-## RFC
+### RFC
 
 - [RFC 2308: Negative Caching of DNS Queries (DNS NCACHE)](https://www.rfc-editor.org/rfc/rfc2308)
 - [RFC 4122: A Universally Unique IDentifier (UUID) URN Namespace](https://datatracker.ietf.org/doc/html/rfc4122)
