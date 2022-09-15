@@ -41,7 +41,6 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [Linux Class](#linux-class)
 	- [Mathematics](#mathematics)
 	- [Microsoft](#microsoft)
-<!--lint ignore double-link-->
 	- [Network](#network)
 	- [Places to Find Things](#places-to-find-things)
 	- [Python](#python)
@@ -52,7 +51,6 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [System Development](#system-development)
 	- [Videos](#videos)
 	- [Vintage & Historical](#vintage--historical)
-<!--lint ignore double-link-->
 	- [Web](#web)
 - [Reference materials](#reference-materials)
 	- [Algorithm & Logic References](#algorithm--logic-references)
@@ -200,20 +198,17 @@ independent developers.
 
 - [High dimenionsal sphere spilling out of a high dimensional cube](https://stanislavfort.github.io/blog/sphere-spilling-out/) - Make a square, split each side into two halves, producing four cells. Put a circle into each cell such that it fills it completely. There is a small gap right in the middle of the square. Put a circle there again such that it touches the other four circles. The central circle is obviously inside the square, right? Yes, but only if the dimension you are in is D ≤ 9.
 - [Matrix multiplication](http://matrixmultiplication.xyz/) - Online matrix calculator app.
-- [The Flaw of Averages](https://hbr.org/2002/11/the-flaw-of-averages)
+- [The Flaw of Averages](https://hbr.org/2002/11/the-flaw-of-averages) - Consider the case of the statistician who drowns while fording a river that he calculates is, on average, three feet deep. If he were alive to tell the tale, he would expound on the “flaw of averages,” which states, simply, that plans based on assumptions about average conditions usually go wrong. (5 minutes, 2002)
 
 ## Microsoft
 
-- [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/)
-- [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
+- [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/) - Step-by-step with pictures, how to export a user's Outlook mailbox. (2021).
 - [Windows 8: Show/Hide Administrative Tools](https://web.archive.org/web/20150905204425/http://www.eightforums.com/tutorials/4861-administrative-tools-hide-show-windows-8-a.html)
+- [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 - [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
-- [Why Pinball was removed from Windows Vista](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803)
+- [Why Pinball was removed from Windows Vista](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803) - Windows XP was the last client version of Windows to include the Pinball game that had been part of Windows since Windows 95. (2 minutes, 2012).
 
 ## Network
-
-<!--lint ignore double-link-->
-See also [Web](#web).
 
 - [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
 - [DOS on Dope](https://secretgeek.net/dod_intro)
@@ -387,9 +382,6 @@ See also [Web](#web).
 
 
 ## Web
-
-<!--lint ignore double-link-->
-See also [Network](#network).
 
 <!--lint ignore no-repeat-punctuation-->
 - [A Reality Where CSS and JavaScript Don't Exist..?](https://kevq.uk/reality-without-css-javascript)
