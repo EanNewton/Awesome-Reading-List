@@ -26,7 +26,7 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 
 <!-- TOC -->
 
-<!--lint disable awesome-toc code-block-style-->
+<!--lint disable awesome-toc-->
 ## Contents
 - [main()](#main)
 	- [Databases](#databases)
@@ -61,7 +61,7 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 	- [Standards](#standards)
 	- [RFC](#rfc)
 - [Follow](#follow)
-<!--lint enable awesome-toc code-block-style-->
+<!--lint enable awesome-toc-->
 
 <!-- CONTENT -->
 
@@ -69,13 +69,13 @@ A curated and opinionated collection of awesome techy things to read on a lunch 
 
 ## Databases
 
-- [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405) - Why it’s impossible to write good application-layer code for everyday business logic.
-- [Postgres Hashing](https://www.postgresql.org/docs/current/hash-intro.html) - A technical overview of what hash indexes are and how they are implemented.
-- [Re-introducing Hash Indexes in PostgreSQL](https://hakibenita.com/postgresql-hash-index) - There is another type of index you are probably not using, and may have never even heard of. It is wildly unpopular, and until a few PostgreSQL versions ago it was highly discouraged and borderline unusable, but under some circumstances it can out-perform even a B-Tree index.
-- [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) - How a simple design choice resulted in thousands of dollars in server costs per day.
-- [The Ultimate SQLite Extension Set](https://antonz.org/sqlean/) - Something like a standard library in Python or Go, only for SQLite.
-- [Twitter's Snowflake ID](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake) - Twitter needed something that could generate tens of thousands of ids per second in a highly available manner. This naturally led us to choose an uncoordinated approach.
-- [UUID's and ULID's](https://sudhir.io/uuids-ulids) - What UUIDs and ULIDs are under the hood, and how to encode and use them.
+- [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405) - Why it’s impossible to write good application-layer code for everyday business logic. (20 minutes, 2016).
+- [Postgres Hashing](https://www.postgresql.org/docs/current/hash-intro.html) - A technical overview of what hash indexes are and how they are implemented. (5 minutes, 2022).
+- [Re-introducing Hash Indexes in PostgreSQL](https://hakibenita.com/postgresql-hash-index) - There is another type of index you are probably not using, and may have never even heard of. It is wildly unpopular, and until a few PostgreSQL versions ago it was highly discouraged and borderline unusable, but under some circumstances it can out-perform even a B-Tree index. (15 minutes, 2021).
+- [Spending $5k to Learn How Database Indixes Work](https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/) - How a simple design choice resulted in thousands of dollars in server costs per day. (4 minutes, 2021).
+- [The Ultimate SQLite Extension Set](https://antonz.org/sqlean/) - Something like a standard library in Python or Go, only for SQLite. (3 minutes, 2021).
+- [Twitter's Snowflake ID](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake) - Twitter needed something that could generate tens of thousands of ids per second in a highly available manner. This naturally led us to choose an uncoordinated approach. (3 minutes, 2010).
+- [UUID's and ULID's](https://sudhir.io/uuids-ulids) - What UUIDs and ULIDs are under the hood, and how to encode and use them. (15 minutes).
 - [UUID to UTF-8 in Ruby](https://gist.github.com/snikch/6969879) - Ruby script to Convert a UUID to UTF-8 encoding to visually shorten.
 
 ## Design and UI
@@ -210,25 +210,26 @@ independent developers.
 
 ## Network
 
-- [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/)
-- [DOS on Dope](https://secretgeek.net/dod_intro)
-- [Everything You Wanted to Know About UDP Sockets but were Afraid to Ask](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
-- [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/)
-- [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/)
-- [Is It DNS?](https://isitdns.com/) - Quickly check if your problem is caused by DNS or not.
-- [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online.
-- [NVIDIA Cumulus and Sonic ethernet OS's](https://www.nvidia.com/en-us/networking/ethernet-switching/)
-- [SSH Bastion Hosts: Setting up](https://goteleport.com/blog/ssh-bastion-host/)
-- [SSH Bastion Hosts: Security best practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/)
-- [The Cyber-Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018.
-- [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/)
-- [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
+- [DNS does not propagate](https://jvns.ca/blog/2021/12/06/dns-doesn-t-propagate/) - I feel like the term "DNS propagation" is misleading, like you're not actually waiting for DNS records to "propagate", you're waiting for cached records to expire. (10 minutes, 2021).
+- [DOS on Dope](https://secretgeek.net/dod_intro) - An MVC web framework made and running entirely on Batch scripts. (2 minutes, 2010).
+- [Everything You Wanted to Know About UDP Sockets but were Afraid to Ask](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/) - Although UDP is simple in principle, there is a lot of domain knowledge needed to run things at scale. In this blog post we'll cover the basics: all you need to know about UDP servers to get started. (8 minutes, 2021).
+- [Fun with IP Address Parsing](https://blog.dave.tf/post/ip-addr-parsing/) - In my quest to write a fast IPv4+6 parser, I wrote a slow-but-I-think-correct parser, to use as a base of comparison. In doing so, I discovered more cursed IP address representations that I was previously unaware of. Let’s explore together! (5 minutes, 2021).
+- [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/) - So here are a few tools I use to tell if a problem I’m having is caused by DNS, as well as a few DNS debuggging stories from my life. (8 minutes, 2021).
+- [Is It DNS?](https://isitdns.com/) - Quickly check if your problem is caused by DNS or not. (2022).
+- [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online. (2022).
+- [NVIDIA Cumulus and Sonic ethernet OS's](https://www.nvidia.com/en-us/networking/ethernet-switching/) - Open source network operating systems distributed by NVIDIA. (2022).
+- [SSH Bastion Hosts: Setting up](https://goteleport.com/blog/ssh-bastion-host/) - What is an SSH bastion and how is this different from an SSH jump server or an SSH proxy? (7 minutes, 2022).
+- [SSH Bastion Hosts: Security best practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/) - Although it is relatively easy to deploy a bastion host in your infrastructure, securing a bastion host requires careful consideration from design to deployment. (10 minutes, 2022).
+- [The Cyber-Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018. (70 minutes, 2021).
+- [The Monstrosity Email has Become](https://ploum.net/the-monstrosity-email-has-become/) - The first and obvious problem with email is that it has been developed 40 years ago as a receiver-only protocol. (10 minutes, 2021).
+- [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html) - You can spend a surprising amount of time chasing RFCs and finding out more than you ever thought you'd need to know about something as trivial as "hostnames". (15 minutes, 2021).
 
 
 ## Places to Find Things
 
 - [arXiv](https://arxiv.org/) - Cornell University's archive of free distribution service and an open-access archive for 2,000,301 scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics.
-- [LibGen](https://libgen.is/)
+- [Library Genesis](https://libgen.is/) - A shadow library website for scholarly journal articles, academic and general-interest books.
+- [Library Thing MDS](https://www.librarything.com/mds) - Find books by selecting narrowing topics of interest.
 
 ## Python
 
