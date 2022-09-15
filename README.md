@@ -234,21 +234,20 @@ independent developers.
 
 ## Python
 
-- [All You Need to Know About Python Asterisks](https://bas.codes/posts/python-asterisks)
-- [Borgs and Singletons](https://bas.codes/posts/python-dict-slots#introducing-the-borg)
-- [Borg Pitfalls](https://bas.codes/posts/python-involuntary-borgs)
-- [Compiling Python Syntax to x86-64 Assembly For Fun and (zero) Profit](https://benhoyt.com/writings/pyast64/)
-- [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb)
-- [f-strings are more powerful than you might think](https://martinheinz.dev/blog/70)
-- [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/)
-- [Flake8: Style Guide Enforcement Checker](https://flake8.pycqa.org/en/latest/index.html)
-- [Folders.py](https://github.com/SinaKhalili/Folders.py)
-- [Garbage Collection in Python: Things You Need to Know](https://rushter.com/blog/python-garbage-collector/)
-- [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/)
-- [How vectorization speeds up your Python code](https://pythonspeed.com/articles/vectorization-python/)
-- [Keyword-only arguments](https://lukeplant.me.uk/blog/posts/keyword-only-arguments-in-python/) - See also [PEP 3102](https://www.python.org/dev/peps/pep-3102/)
-- [Neural Network from scratch](https://sirupsen.com/napkin/neural-net)
-- [Positional-only arguments](https://www.python.org/dev/peps/pep-0570/#how-to-teach-this)
+- [All You Need to Know About Python Asterisks](https://bas.codes/posts/python-asterisks) - Use the `*` for more than just multiplication. (5 minutes, 2022).
+- [Borgs and Singletons](https://bas.codes/posts/python-dict-slots#introducing-the-borg) - Is there a use case where we want all instances to share the same storage? Singletons in Python. (7 minutes, 2022).
+- [Borg Pitfalls](https://bas.codes/posts/python-involuntary-borgs) - Python, in general, is a pass-by-reference language. What does that mean, and what do you need to look out for? (5 minutes, 2022).
+- [Compiling Python Syntax to x86-64 Assembly For Fun and (zero) Profit](https://benhoyt.com/writings/pyast64/) - Using Python’s built-in AST module to parse a subset of Python syntax and turn it into an x86-64 assembly program. (8 minutes, 2017).
+- [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb) - Official Python wiki reference source for using `gdb`.
+- [f-strings are more powerful than you might think](https://martinheinz.dev/blog/70) - Let's take a tour of some awesome f-string features that you'll want to use in your everyday coding. (5 minutes, 2022).
+- [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/) - When working on NLP problems, sometimes you need to obtain a large corpus of text. (3 minutes, 2019).
+- [Flake8: Style Guide Enforcement Checker](https://flake8.pycqa.org/en/latest/index.html) - Quickstart guide to using Flake8 to enforce code styling. 
+- [Folders.py](https://github.com/SinaKhalili/Folders.py) - A programming language made in Python where the source code is the directory structure. (2021).
+- [Garbage Collection in Python: Things You Need to Know](https://rushter.com/blog/python-garbage-collector/) - Understanding how garbage collection works can help you write better and faster Python programs. (10 minutes, 2020).
+- [How to Patch Python Bytecode](https://rushter.com/blog/python-bytecode-patch/) - In standard Python, when executing a script, the raw source code is compiled into platform-independent bytecode which subsequently runs on Python's stack-based virtual machine. (3 minutes, 2017).
+- [How vectorization speeds up your Python code](https://pythonspeed.com/articles/vectorization-python/) - What “vectorization” means, and when it applies. (10 minutes, 2022).
+- [Keyword-only arguments](https://lukeplant.me.uk/blog/posts/keyword-only-arguments-in-python/) - To understand keyword-only arguments, we first have to clear up a common misunderstanding about Python positional and keyword arguments. (3 minutes, 2020).
+- [Neural Network from scratch](https://sirupsen.com/napkin/neural-net) - Building a simple neural network to explore the core concepts. (30 minutes, 2022).
 - [Python Type Hints are Turing Complete](https://arxiv.org/pdf/2208.14755.pdf) - Using Grigore's method to explain why Mypy sometimes enters an infinite loop, and why that is not a bug.
 - [MyPy: Static Typing for Python](http://mypy-lang.org/)
 - [Numpy SIMD optimizations](https://numpy.org/doc/stable/reference/simd/simd-optimizations.html)
@@ -256,6 +255,8 @@ independent developers.
 - [Optimatization Tricks of Tuples vs Lists](https://rushter.com/blog/python-lists-and-tuples/)
 - [PEP 8](https://www.python.org/dev/peps/pep-0008/) - Style Guide for Python Code.
 - [PEP 20](https://www.python.org/dev/peps/pep-0020/) - The Zen of Python.
+- [PEP 3102](https://www.python.org/dev/peps/pep-3102/)
+- [PEP 570: Positional-only arguments](https://www.python.org/dev/peps/pep-0570/#how-to-teach-this)
 - [Python Type Hints: Avoiding the Boolean Trap](https://adamj.eu/tech/2021/07/10/python-type-hints-how-to-avoid-the-boolean-trap/)
 - [Python Type Hints: How to use the overload decorator](https://adamj.eu/tech/2021/05/29/python-type-hints-how-to-use-overload/)
 - [Python Type Hints: How to type a context manager](https://adamj.eu/tech/2021/07/04/python-type-hints-how-to-type-a-context-manager/)
