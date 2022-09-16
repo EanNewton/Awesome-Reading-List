@@ -6,7 +6,8 @@
 <!--lint ignore no-dead-urls-->
 
 # Awesome Reading List 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml/badge.svg)](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml) [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![GitHub last commit](https://img.shields.io/github/last-commit/EanNewton/Awesome-Reading-List) [![lint](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml/badge.svg)](https://github.com/EanNewton/Awesome-Reading-List/actions/workflows/lint.yaml) [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 <!-- subtitle -->
 "First – I’m very tired of posts that complain about how people are “wrong” about how a given piece of technology works without explaining why it’s helpful to be “right”." --Julia Evans
@@ -72,7 +73,7 @@ This list is loosely organized into categories, not everything fits neatly and I
 
 `- Article Link - A brief description. (time to read, publication date).`
 
-The time to read is based on the median between a reading speed of 183 words per minute (wpm) and 234 wpm.
+The time to read is based on the median between a reading speed of 183 words per minute (wpm) and 234 wpm from [The Read Time](https://thereadtime.com/).
 
 ### Databases
 
@@ -89,46 +90,45 @@ The time to read is based on the median between a reading speed of 183 words per
 
 Rule #0: Be awesome to one another and party on.
 
-- [Collaborate with kindness: basic etiquette for Slack](https://slack.com/intl/en-gb/blog/collaboration/etiquette-tips-in-slack)
+- [Collaborate with kindness: basic etiquette for Slack](https://slack.com/intl/en-gb/blog/collaboration/etiquette-tips-in-slack) - Reduce notifications and minimize distractions with these best practices for channels and direct messages. (6 minutes, 2022).
 - [Fueling the Creation of New Electronic Curbcuts](http://www.accessiblesociety.org/topics/technology/eleccurbcut.htm) - Unusual things happen when products are designed to be accessible to people with disabilities. (13 minutes, 1999).
-- [On Names](https://emmah.net/names.html)
+- [On Names](https://emmah.net/names.html) - You need to fix how your software and systems refer to people, because names change. (1 minute).
 - [Privacy By Design: What Needs to be Done, How to do It, and How to Sell It to your Boss](https://medium.com/greater-than-experience-design/privacy-by-design-7b1165d045e0) - Could you imagine the outrage the public would experience if they found out that the postal service was holding their mail hostage and selling it to whoever was willing to pay? (21 minutes, 2018).
-- [Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/)
+- [Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/) - Covers issues touching on content, images, forms, databases, IA, privacy, and AI—just enough to get you thinking. (12 minutes, 2019).
 
 ### DevOps
 
-- [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html) - A few lessons in operations that we all (eventually) (have to) learn, often the hard way. Why things are the way they are, or what the lessons mean is left to the reader to interpret, agree, or disagree with.
+- [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html) - A few lessons in operations that we all (eventually) (have to) learn, often the hard way. Why things are the way they are, or what the lessons mean is left to the reader to interpret, agree, or disagree with. (6 minutes, 2020).
 
 ### Documentation
 
-- [Content Workflow Using GitHub and Markdown](https://www.portent.com/blog/content/content-with-github-markdown.htm) - We publish digital content. We write and create for the internet and screens. But our content workflow dates back to the days of desktop publishing.
+- [Content Workflow Using GitHub and Markdown](https://www.portent.com/blog/content/content-with-github-markdown.htm) - We publish digital content. We write and create for the internet and screens. But our content workflow dates back to the days of desktop publishing. (25 minutes, 2018).
 - [Hemingway App](https://hemingwayapp.com/) - The app highlights lengthy, complex sentences and common errors.
-- [heyawhite/tech-writing-tools](https://github.com/heyawhite/tech-writing-tools) - This repository contains lists of suggested tools for technical writers. 
-- [How to Release a New Open Source Project](https://opensource.zalando.com/docs/releasing/index/) - This is the process for how Zalando employees release a new open source project.
-- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read.
-- [Markdown](https://daringfireball.net/projects/markdown/) - John Gruber's original spec for Markdown.
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) - A quick reference and showcase of *Markdown Here's* version of GitHub-flavored Markdown.
+- [heyawhite/tech-writing-tools](https://github.com/heyawhite/tech-writing-tools) - This repository contains lists of suggested tools for technical writers. (2022).
+- [How to Release a New Open Source Project](https://opensource.zalando.com/docs/releasing/index/) - This is the process for how Zalando employees release a new open source project. (5 minutes).
+- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - Various templates & tips on writing high-quality documentation that people want to read. (2021).
+- [Markdown](https://daringfireball.net/projects/markdown/) - John Gruber's original spec for Markdown. (5 minutes, 2004).
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) - A quick reference and showcase of *Markdown Here's* version of GitHub-flavored Markdown. (7 minutes, 2017).
 - [Markdown Tutorial](https://www.markdowntutorial.com/) - Learn Markdown in 10 minutes by doing.
-- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web and more.
-- [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - A list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours.
-- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools.
-- [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php) - This checklist is meant to be used as a reporting tool to help journalists and researchers when trying to find out who published a website.
-- [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm) - I once had to convert a Word document to a web page. Once.
-- [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
-- [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github) - GitHub Docs official guide to Markdown and editing.
-- [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation.
+- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web and more. (2022).
+- [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - A list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. (2022).
+- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools. (2022).
+- [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php) - This checklist is meant to be used as a reporting tool to help journalists and researchers when trying to find out who published a website. (5 minutes, 2022).
+- [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm) - I once had to convert a Word document to a web page. Once. (4 minutes, 2016).
+- [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github) - GitHub Docs official guide to Markdown and editing. 
+- [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation. (2018).
 
 ### Encryption
 
 - [CryptoPals](https://cryptopals.com/) - A set of 48 practical programming exercises that Thomas Ptacek and his team at Matasano Security have developed as a kind of teaching tool (and baited hook). This is a different way to learn about crypto than taking a class or reading a book.
-- [DRM is not to prevent copyright violations](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2) - The purpose of DRM is to give content providers leverage against creators of playback devices.
-- [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/) - While the running key cipher can be broken easily, BookPad offers a level of security comparable to that of a one-time-pad. In this article, I try to explain why in layman’s terms.
-- [Snake Cipher](https://prgomez.com/snake-cipher/) - Using this cipher is so much like playing the old “snake” video game, I’ve called it just that: Snake.
+- [DRM is not to prevent copyright violations](https://web.archive.org/web/20140906214521/https://plus.google.com/+IanHickson/posts/iPmatxBYuj2) - The purpose of DRM is to give content providers leverage against creators of playback devices. (5 minutes, 2013).
+- [Extracting Randomness from Text](https://prgomez.com/randomness-from-text/) - While the running key cipher can be broken easily, BookPad offers a level of security comparable to that of a one-time-pad. In this article, I try to explain why in layman’s terms. (20 minutes, 2016).
+- [Snake Cipher](https://prgomez.com/snake-cipher/) - Using this cipher is so much like playing the old “snake” video game, I’ve called it just that: Snake. (10 minutes, 2016).
 
 ### Food and Cooking
 
-- [Healthy Soil is the real key to feeding the world](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/) - Agricultural myths hinder recognizing the potential to restore degraded soils to feed the world using fewer agrochemicals.
-- [One of the most famous Victorian dishes is a lie](https://www.atlasobscura.com/articles/victorian-brown-windsor-soup) - Brown Windsor soup was reportedly a favorite of the Queen. The only problem? It may not have existed.
+- [Healthy Soil is the real key to feeding the world](https://worldsensorium.com/healthy-soil-is-the-real-key-to-feeding-the-world/) - Agricultural myths hinder recognizing the potential to restore degraded soils to feed the world using fewer agrochemicals. (5 minutes, 2022).
+- [One of the most famous Victorian dishes is a lie](https://www.atlasobscura.com/articles/victorian-brown-windsor-soup) - Brown Windsor soup was reportedly a favorite of the Queen. The only problem? It may not have existed. (6 minutes, 2022).
 
 ### Fun Stuff That Doesn't Quite Fit Elsewhere
 
@@ -191,6 +191,8 @@ independent developers.
 - [WirePlumber: The New PipeWire Manager](https://fedoramagazine.org/wireplumber-the-new-pipewire-session-manager/) - A session manager for PipeWire, an alternative to JACK or ALSA.
 
 ### Linux Class
+
+More focused on learning practical *nix skills than the above section.
 
 - [chroot](https://wiki.debian.org/chroot) - On Unix-like operating systems chroot is an operation that changes the apparent root directory for the current running process and its children.
 - [Get Hardware Info](https://opensource.com/article/19/9/linux-commands-hardware-information) - How to find your hardware specs.
@@ -454,6 +456,7 @@ independent developers.
 ### Organizations
 
 - [Open Compute Project](https://www.opencompute.org/)
+- [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
 
 ### Standards
 
