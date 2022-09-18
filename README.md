@@ -99,6 +99,7 @@ Rule #0: Be awesome to one another and party on.
 ### DevOps
 
 - [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html) - A few lessons in operations that we all (eventually) (have to) learn, often the hard way. Why things are the way they are, or what the lessons mean is left to the reader to interpret, agree, or disagree with. (6 minutes, 2020).
+- [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 
 ### Documentation
 
@@ -143,6 +144,7 @@ Rule #0: Be awesome to one another and party on.
 - [How bad is QWERTY really?](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/) - One man's journey to deal with RSI.
 - [How GPS works](https://ciechanow.ski/gps/) - Interactive website detailing how GPS actually works.
 - [How rocket engines are cooled](https://everydayastronaut.com/engine-cooling-methodes/) - Gases inside an engines combustion chamber can reach ~3,500 K – which is about half as hot as the surface of the Sun – certainly above the melting point of most materials. Engines need to reach this temperature in order to function correctly, but how can they survive this?
+- [The first Intel fab](https://thechipletter.substack.com/p/the-first-intel-fab) - A little history of Intel's early years. (3 minutes).
 - [Japan's paper culture](https://www.jetpens.com/blog/Japan-s-Paper-Culture/pt/998) - Why paper is so important in Japan.
 - [Mall Ninjas](https://lonelymachines.org/mall-ninjas/) - It all started back at the end of the halcyon summer of 2001, and his posts have created a certain urban legend that many refer to as the Mall Ninja.
 - [Network Protocols in Orbit: Building a Space ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/) - There are requirements that make software engineers sweat. Massive distribution to thousands of nodes. High reliability and availability. Multiple distinct platforms. Rapid network growth.
@@ -158,12 +160,14 @@ Rule #0: Be awesome to one another and party on.
 ### Git / GitHub / GitLab
 
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
-- [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
+- [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
+- [Oh Shit, Git!?!](https://ohshitgit.com/) - Git is hard: So here are some bad situations I've gotten myself into, and how I eventually got myself out of them in plain english. (3 minutes, 2022).
 
 
 ### Linux / Unix / BSD
 
+- [A cozy nest for your scripts](https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/) - Take a peek at your ~/bin. How many scripts there have names like process or run or deploy? How many of them have you forgotten ever writing? (5 minutes, 2022).
 - [A Survey of UNIX init schemes](https://arxiv.org/pdf/0706.2748.pdf) - (June 2007) This document describes existing solutions that implement the init process and/or init
 scripts in Unix-like systems. These solutions range from the legacy and still-in-use BSD
 and SystemV schemes, to recent and promising schemes from Ubuntu, Apple, Sun and
@@ -282,6 +286,7 @@ More focused on learning practical *nix skills than the above section.
 - [An Ancient Greek Astronomical Calculation Machine Reveals New Secrets](https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/)
 - [Antenna Theory](https://www.antenna-theory.com/) - This website will strive to make antennas understandable, without unnecessary complexity.
 - [Bypasssing early 2000's copy protection](https://blog.paavo.me/masa-copy-protection/)
+- [Crazy Thin Deep-Insert ATM Skimmers](https://krebsonsecurity.com/2022/09/say-hello-to-crazy-thin-deep-insert-atm-skimmers/) - Here’s a look at some of the more sophisticated deep insert skimmer technology that fraud investigators have recently found in the wild. (5 minutes, 2022).
 - [Dumping Firmware with a 555](https://jrainimo.com/build/2022/01/dumping-firmware-with-a-555/)
 - [I'm not a human: Breaking the Google reCAPTCHA](https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA-wp.pdf)
 - [Inside ReCaptcha](https://github.com/neuroradiology/InsideReCaptcha)
@@ -289,7 +294,7 @@ More focused on learning practical *nix skills than the above section.
 - [Fixing a Tiny Corner of the Supply Chain](https://www.bunniestudios.com/blog/?p=6274)
 - [Game Hacking](https://gamehacking.academy/GameHackingAcademy.pdf) - Free educational PDF, from "what is a computer?" to crafting game hacks.
 - [Ghost in the ethernet optic](https://blog.benjojo.co.uk/post/smart-sfp-linux-inside)
-- [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU.
+- [How to Make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/) - A simple step by step picture guide to making your own CPU. (4 minutes, 2021).
 - [Make It Go Faster! How We Sped Up OS Provisioning On Bare Metal at Scale](https://web.archive.org/web/20211110191916/https://metal.equinix.com/blog/make-it-go-faster-how-we-sped-up-os-provisioning-on-bare-metal-at-scale/) - Here’s how adding a few bits of simple logic in the OS provisioning process can eliminate tons of network and time overhead and prolong the life of your storage.
 - [Mechanical Computing Systems Using Only Links and Rotary Joints](https://arxiv.org/pdf/1801.03534.pdf)
 - [Playstation Architecture: A practical analysis](https://www.copetti.org/writings/consoles/playstation/)
@@ -338,6 +343,7 @@ More focused on learning practical *nix skills than the above section.
 - [Minimalism in Programming](https://pointersgonewild.com/2018/02/18/minimalism-in-programming/)
 - [Minimalism in Programming Language Design](https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/)
 - [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time) - You are getting time wrong and here's the how and why.
+- [NaN boxing or how to make the world dynamic](https://piotrduperas.com/posts/nan-boxing) - Adding dynamic typing to C. (20 minutes, 2020).
 - [Parallel curves of cubic Béziers](https://raphlinus.github.io/curves/2022/09/09/parallel-beziers.html) - Finding a better approach to matching parallel curves.
 - [Practical Data Oriented Design](https://media.handmade-seattle.com/practical-data-oriented-design/)
 - [Practical Introduction to Functional Programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
@@ -451,6 +457,7 @@ More focused on learning practical *nix skills than the above section.
 - [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference)
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Tools and resources aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 - [Trailblazers](https://trailblazerlist.xyz/) - A list of startups attempting to solve meaningful problems.
 
 ### Organizations
