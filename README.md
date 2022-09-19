@@ -69,7 +69,7 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 
 ## main() {
 
-This list is loosely organized into categories, not everything fits neatly and I have in cases chosen arbitrarily. Articles within sections are organized alphabetically. 
+This list is loosely organized into categories, not everything fits neatly and I have in cases chosen arbitrarily. Articles within sections are organized alphabetically. All links to other lists can be found under Reference Materials.
 
 The format for an entry is:
 
@@ -103,7 +103,6 @@ Rule #0: Be awesome to one another and party on.
 ### DevOps / SRE
 
 - [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html) - A few lessons in operations that we all (eventually) (have to) learn, often the hard way. Why things are the way they are, or what the lessons mean is left to the reader to interpret, agree, or disagree with. (6 minutes, 2020).
-- [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 - [How complex systems fail](https://how.complexsystems.fail/) - The seminal treatise by Richard Cook. Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety. (8 minutes).
 - [The hows and whys of effective production-readiness reviews](https://www.infoq.com/articles/incidents-prr-psychological-safety/) - How to build production readiness reviews (PRR) with emphasis on context and psychological safety. (19 minutes, 2022).
 
@@ -117,13 +116,11 @@ Rule #0: Be awesome to one another and party on.
 - [Markdown](https://daringfireball.net/projects/markdown/) - John Gruber's original spec for Markdown. (5 minutes, 2004).
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) - A quick reference and showcase of *Markdown Here's* version of GitHub-flavored Markdown. (7 minutes, 2017).
 - [Markdown Tutorial](https://www.markdowntutorial.com/) - Learn Markdown in 10 minutes by doing.
-- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web and more. (2022).
 - [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - A list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. (2022).
-- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools. (2022).
 - [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php) - This checklist is meant to be used as a reporting tool to help journalists and researchers when trying to find out who published a website. (5 minutes, 2022).
 - [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm) - I once had to convert a Word document to a web page. Once. (4 minutes, 2016).
 - [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github) - GitHub Docs official guide to Markdown and editing. 
-- [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation. (2018).
+
 
 ### Encryption
 
@@ -165,9 +162,8 @@ Rule #0: Be awesome to one another and party on.
 
 ### Git / GitHub / GitLab
 
-- [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
+- [Configuring issue templates for your respository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) - You can customize the templates that are available for contributors to use when they open new issues in your repository.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
-- [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
 - [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) - The `git rebase` command has a reputation for being magical Git voodoo that beginners should stay away from.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) - Git is hard: So here are some bad situations I've gotten myself into, and how I eventually got myself out of them in plain english. (3 minutes, 2022).
 
@@ -331,7 +327,6 @@ More focused on learning practical *nix skills than the above section.
 - [Algorithms](https://cp-algorithms.com/index.html) - Provides descriptions of many algorithms and data structures especially popular in field of competitive programming.
 - [An Illustrated guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
 - [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
-- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
 - [Bootstrapping a small math library](https://www.johndcook.com/blog/2021/01/05/bootstrapping-math-library/)
 - [Complexity is Killing Us](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 - [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming?a_aid=viebel&a_bid=d5b546b7)
@@ -377,7 +372,7 @@ More focused on learning practical *nix skills than the above section.
 - [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 - [Filesystem Links: Everything You Ever Wanted to Know](https://controlaltbackspace.org/filesystem/filesystem-links-everything-you-ever-wanted-to-know/)
 - [Modules, Monoliths, and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
-- [Resources to learn distributed systems](https://pierrezemb.fr/posts/distsys-resources/)
+- [Resources to learn distributed systems](https://pierrezemb.fr/posts/distsys-resources/) - A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. (9 minutes, 2022).
 - [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
 ### Videos
@@ -460,10 +455,18 @@ More focused on learning practical *nix skills than the above section.
 
 ### Lists
 
+- [Awesome Docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools. (2022).
+- [Awesome Documentation Tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation. (2018).
+- [Awesome Github Profile Readmes](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [Awesome Guidelines](https://awesome-guidelines.com/) - A set of style guides, practices, and methods for each aspect of a program written in that language.
+- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
+- [Awesome Markdown Editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web and more. (2022).
+- [Awesome Project Boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
 - [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference)
+- [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
-- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+- [Dan Craswell's Distributed Systems Reading List](https://dancres.github.io/Pages/) - All about distributed systems.
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful. (2022).
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Tools and resources aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 - [Trailblazers](https://trailblazerlist.xyz/) - A list of startups attempting to solve meaningful problems.
 
