@@ -33,7 +33,7 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 - [main() {](#main-)
   - [Databases](#databases)
   - [Design and UI](#design-and-ui)
-  - [DevOps](#devops)
+  - [DevOps / SRE](#devops--sre)
   - [Documentation](#documentation)
   - [Encryption](#encryption)
   - [Food and Cooking](#food-and-cooking)
@@ -69,11 +69,15 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 
 ## main() {
 
-This list is loosely organized into categories, not everything fits neatly and I have in cases chosen arbitrarily. Articles within sections are organized alphabetically. The format is:
+This list is loosely organized into categories, not everything fits neatly and I have in cases chosen arbitrarily. Articles within sections are organized alphabetically. 
+
+The format for an entry is:
 
 `- Article Link - A brief description. (time to read, publication date).`
 
 The time to read is based on the median between a reading speed of 183 words per minute (wpm) and 234 wpm from [The Read Time](https://thereadtime.com/).
+
+Contributions are welcomed, please read the guidelines for doing so.
 
 ### Databases
 
@@ -96,10 +100,12 @@ Rule #0: Be awesome to one another and party on.
 - [Privacy By Design: What Needs to be Done, How to do It, and How to Sell It to your Boss](https://medium.com/greater-than-experience-design/privacy-by-design-7b1165d045e0) - Could you imagine the outrage the public would experience if they found out that the postal service was holding their mail hostage and selling it to whoever was willing to pay? (21 minutes, 2018).
 - [Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/) - Covers issues touching on content, images, forms, databases, IA, privacy, and AI—just enough to get you thinking. (12 minutes, 2019).
 
-### DevOps
+### DevOps / SRE
 
 - [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html) - A few lessons in operations that we all (eventually) (have to) learn, often the hard way. Why things are the way they are, or what the lessons mean is left to the reader to interpret, agree, or disagree with. (6 minutes, 2020).
 - [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
+- [How complex systems fail](https://how.complexsystems.fail/) - The seminal treatise by Richard Cook. Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety. (8 minutes).
+- [The hows and whys of effective production-readiness reviews](https://www.infoq.com/articles/incidents-prr-psychological-safety/) - How to build production readiness reviews (PRR) with emphasis on context and psychological safety. (19 minutes, 2022).
 
 ### Documentation
 
@@ -162,6 +168,7 @@ Rule #0: Be awesome to one another and party on.
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
 - [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
+- [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) - The `git rebase` command has a reputation for being magical Git voodoo that beginners should stay away from.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) - Git is hard: So here are some bad situations I've gotten myself into, and how I eventually got myself out of them in plain english. (3 minutes, 2022).
 
 
