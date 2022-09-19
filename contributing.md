@@ -8,7 +8,7 @@ ALWAYS create a new branch with your proposed changes. Thank you!
 
 ## Adding an new Item
 
-- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/issues/new) to start as discussion about any new sections.
+- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/EanNewton/Awesome-Reading-List/issues/new) to start as discussion about any new sections.
 - Add a new item to the appropiate alphabetic placement on the list within its category.
 - If you are requesting a new category, discuss why and give examples for what it would contain.
 - If a duplicate item exists, discuss why the new item should replace it.
