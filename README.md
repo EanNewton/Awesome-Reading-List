@@ -142,6 +142,7 @@ Rule #0: Be awesome to one another and party on.
 - [Amateurs vs Professionals](https://fs.blog/amateurs-professionals/) - Why is it that some people seem to be hugely successful and do so much, while the vast majority of us struggle to tread water? The answer is complicated and likely multifaceted.
 - [Amish Hackers](https://kk.org/thetechnium/amish-hackers-a/) - Amish lives are anything but anti-technological. I have found them to be ingenious hackers and tinkers, the ultimate makers and do-it-yourselfers and surprisingly pro technology.
 - [Crazy Eddie, the popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/) - On September 13, 1984, as stocks wavered through a bear market, a regional electronics chain held a hyped initial public offering.
+- [DARPA shows off 1.8 gigapixel surveillance drone](https://www.extremetech.com/extreme/146909-darpa-shows-off-1-8-gigapixel-surveillance-drone-can-spot-a-terrorist-from-20000-feet) - These 1.8 gigapixels are provided via 368 smaller sensors, which DARPA/BAE says are just 5-megapixel smartphone camera sensors. (3 minutes, 2013).
 - [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) - Steven Gerding, Dragon’s software development lead, speaks about the special challenges software development has for SpaceX’s many missions.
 - [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/) - To help you satisfy your need for in-depth technical, and perhaps more than a bit nerdy, knowledge about all things digital file formats.
 - [How bad is QWERTY really?](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/) - One man's journey to deal with RSI.
@@ -227,6 +228,8 @@ More focused on learning practical *nix skills than the above section.
 - [Windows 8: Show/Hide Administrative Tools](https://web.archive.org/web/20150905204425/http://www.eightforums.com/tutorials/4861-administrative-tools-hide-show-windows-8-a.html)
 - [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 - [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
+- [Robocopy: Documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - The official Microsoft docs for all `robocopy` options.
+- [Robocopy: Pros and Cons to the /j option](https://superuser.com/questions/1114311/are-there-any-pros-cons-to-the-j-robocopy-option-unbuffered-copying) - Robocopy has a `/j` option for unbuffere I/O. What (if any) downsides are there? Any reason this isn't enabled by default? (1 minute, 2016).
 - [Why Pinball was removed from Windows Vista](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803) - Windows XP was the last client version of Windows to include the Pinball game that had been part of Windows since Windows 95. (2 minutes, 2012).
 
 ### Network
@@ -259,6 +262,7 @@ More focused on learning practical *nix skills than the above section.
 - [Borg Pitfalls](https://bas.codes/posts/python-involuntary-borgs) - Python, in general, is a pass-by-reference language. What does that mean, and what do you need to look out for? (5 minutes, 2022).
 - [Compiling Python Syntax to x86-64 Assembly For Fun and (zero) Profit](https://benhoyt.com/writings/pyast64/) - Using Python’s built-in AST module to parse a subset of Python syntax and turn it into an x86-64 assembly program. (8 minutes, 2017).
 - [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb) - Official Python wiki reference source for using `gdb`.
+- [Don't Let dicts Spoil Your Code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/) - What’s wrong with dicts? Dicts are opaque. Dicts are mutable. (7 minutes, 2021).
 - [f-strings are more powerful than you might think](https://martinheinz.dev/blog/70) - Let's take a tour of some awesome f-string features that you'll want to use in your everyday coding. (5 minutes, 2022).
 - [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/) - When working on NLP problems, sometimes you need to obtain a large corpus of text. (3 minutes, 2019).
 - [Flake8: Style Guide Enforcement Checker](https://flake8.pycqa.org/en/latest/index.html) - Quickstart guide to using Flake8 to enforce code styling. 
@@ -467,11 +471,13 @@ More focused on learning practical *nix skills than the above section.
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 - [Dan Craswell's Distributed Systems Reading List](https://dancres.github.io/Pages/) - All about distributed systems.
 - [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful. (2022).
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. 
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Tools and resources aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 - [Trailblazers](https://trailblazerlist.xyz/) - A list of startups attempting to solve meaningful problems.
 
 ### Organizations
 
+- [Electronic Frontier Foundation](eff.org/) - The leading nonprofit defending digital privacy, free speech, and innovation.
 - [Open Compute Project](https://www.opencompute.org/)
 - [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
 
