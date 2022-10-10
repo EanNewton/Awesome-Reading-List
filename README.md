@@ -33,7 +33,7 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 - [main() {](#main-)
   - [Databases](#databases)
   - [Design and UI](#design-and-ui)
-  - [DevOps](#devops)
+  - [DevOps / SRE](#devops--sre)
   - [Documentation](#documentation)
   - [Encryption](#encryption)
   - [Food and Cooking](#food-and-cooking)
@@ -69,11 +69,15 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 
 ## main() {
 
-This list is loosely organized into categories, not everything fits neatly and I have in cases chosen arbitrarily. Articles within sections are organized alphabetically. The format is:
+This list is loosely organized into categories, not everything fits neatly and I have in cases chosen arbitrarily. Articles within sections are organized alphabetically. All links to other lists can be found under Reference Materials.
+
+The format for an entry is:
 
 `- Article Link - A brief description. (time to read, publication date).`
 
 The time to read is based on the median between a reading speed of 183 words per minute (wpm) and 234 wpm from [The Read Time](https://thereadtime.com/).
+
+Contributions are welcomed, please read the guidelines for doing so.
 
 ### Databases
 
@@ -96,10 +100,11 @@ Rule #0: Be awesome to one another and party on.
 - [Privacy By Design: What Needs to be Done, How to do It, and How to Sell It to your Boss](https://medium.com/greater-than-experience-design/privacy-by-design-7b1165d045e0) - Could you imagine the outrage the public would experience if they found out that the postal service was holding their mail hostage and selling it to whoever was willing to pay? (21 minutes, 2018).
 - [Trans-inclusive Design](https://alistapart.com/article/trans-inclusive-design/) - Covers issues touching on content, images, forms, databases, IA, privacy, and AI—just enough to get you thinking. (12 minutes, 2019).
 
-### DevOps
+### DevOps / SRE
 
 - [A Few Ops Lessons](https://www.netmeister.org/blog/ops-lessons.html) - A few lessons in operations that we all (eventually) (have to) learn, often the hard way. Why things are the way they are, or what the lessons mean is left to the reader to interpret, agree, or disagree with. (6 minutes, 2020).
-- [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
+- [How complex systems fail](https://how.complexsystems.fail/) - The seminal treatise by Richard Cook. Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety. (8 minutes).
+- [The hows and whys of effective production-readiness reviews](https://www.infoq.com/articles/incidents-prr-psychological-safety/) - How to build production readiness reviews (PRR) with emphasis on context and psychological safety. (19 minutes, 2022).
 
 ### Documentation
 
@@ -111,13 +116,11 @@ Rule #0: Be awesome to one another and party on.
 - [Markdown](https://daringfireball.net/projects/markdown/) - John Gruber's original spec for Markdown. (5 minutes, 2004).
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) - A quick reference and showcase of *Markdown Here's* version of GitHub-flavored Markdown. (7 minutes, 2017).
 - [Markdown Tutorial](https://www.markdowntutorial.com/) - Learn Markdown in 10 minutes by doing.
-- [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web and more. (2022).
 - [PharkMillups/beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - A list of docs and other developer resources that myself and others find particularly useful, well-written, and otherwise "beautiful." May they serve to inspire you when writing and designing yours. (2022).
-- [testthedocs/awesome-docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools. (2022).
 - [Whos behind this website? A checklist for journalists](https://www.cjr.org/tow_center/whos-behind-this-website-a-checklist.php) - This checklist is meant to be used as a reporting tool to help journalists and researchers when trying to find out who published a website. (5 minutes, 2022).
 - [Why I Use Markdown, & You Should Too](https://www.portent.com/blog/content/use-markdown-now.htm) - I once had to convert a Word document to a web page. Once. (4 minutes, 2016).
 - [Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github) - GitHub Docs official guide to Markdown and editing. 
-- [unicodeveloper/awesome-documentation-tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation. (2018).
+
 
 ### Encryption
 
@@ -139,6 +142,7 @@ Rule #0: Be awesome to one another and party on.
 - [Amateurs vs Professionals](https://fs.blog/amateurs-professionals/) - Why is it that some people seem to be hugely successful and do so much, while the vast majority of us struggle to tread water? The answer is complicated and likely multifaceted.
 - [Amish Hackers](https://kk.org/thetechnium/amish-hackers-a/) - Amish lives are anything but anti-technological. I have found them to be ingenious hackers and tinkers, the ultimate makers and do-it-yourselfers and surprisingly pro technology.
 - [Crazy Eddie, the popular electronics chain that scammed America](https://thehustle.co/the-popular-electronics-chain-that-scammed-america/) - On September 13, 1984, as stocks wavered through a bear market, a regional electronics chain held a hyped initial public offering.
+- [DARPA shows off 1.8 gigapixel surveillance drone](https://www.extremetech.com/extreme/146909-darpa-shows-off-1-8-gigapixel-surveillance-drone-can-spot-a-terrorist-from-20000-feet) - These 1.8 gigapixels are provided via 368 smaller sensors, which DARPA/BAE says are just 5-megapixel smartphone camera sensors. (3 minutes, 2013).
 - [Exploring the software that flies SpaceX](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) - Steven Gerding, Dragon’s software development lead, speaks about the special challenges software development has for SpaceX’s many missions.
 - [Fun with File Formats](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/) - To help you satisfy your need for in-depth technical, and perhaps more than a bit nerdy, knowledge about all things digital file formats.
 - [How bad is QWERTY really?](https://www.erichgrunewald.com/posts/how-bad-is-qwerty-really-a-review-of-the-literature-such-as-it-is/) - One man's journey to deal with RSI.
@@ -159,9 +163,9 @@ Rule #0: Be awesome to one another and party on.
 
 ### Git / GitHub / GitLab
 
-- [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
+- [Configuring issue templates for your respository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository) - You can customize the templates that are available for contributors to use when they open new issues in your repository.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Pretty print your projects' most used languages.
-- [melvin0008/awesome-projects-boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
+- [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing) - The `git rebase` command has a reputation for being magical Git voodoo that beginners should stay away from.
 - [Oh Shit, Git!?!](https://ohshitgit.com/) - Git is hard: So here are some bad situations I've gotten myself into, and how I eventually got myself out of them in plain english. (3 minutes, 2022).
 
 
@@ -224,6 +228,8 @@ More focused on learning practical *nix skills than the above section.
 - [Windows 8: Show/Hide Administrative Tools](https://web.archive.org/web/20150905204425/http://www.eightforums.com/tutorials/4861-administrative-tools-hide-show-windows-8-a.html)
 - [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 - [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
+- [Robocopy: Documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - The official Microsoft docs for all `robocopy` options.
+- [Robocopy: Pros and Cons to the /j option](https://superuser.com/questions/1114311/are-there-any-pros-cons-to-the-j-robocopy-option-unbuffered-copying) - Robocopy has a `/j` option for unbuffere I/O. What (if any) downsides are there? Any reason this isn't enabled by default? (1 minute, 2016).
 - [Why Pinball was removed from Windows Vista](https://devblogs.microsoft.com/oldnewthing/20121218-00/?p=5803) - Windows XP was the last client version of Windows to include the Pinball game that had been part of Windows since Windows 95. (2 minutes, 2012).
 
 ### Network
@@ -235,6 +241,7 @@ More focused on learning practical *nix skills than the above section.
 - [How to Tell if a Problem is Caused by DNS](https://jvns.ca/blog/2021/11/04/how-do-you-tell-if-a-problem-is-caused-by-dns/) - So here are a few tools I use to tell if a problem I’m having is caused by DNS, as well as a few DNS debuggging stories from my life. (8 minutes, 2021).
 - [Is It DNS?](https://isitdns.com/) - Quickly check if your problem is caused by DNS or not. (2022).
 - [Mess with DNS](https://messwithdns.net/) - Gives you a subdomain and DNS server to play with it online. (2022).
+- [No, its not always DNS](https://thesoloadmin.com/no-its-not-always-dns/) - In today's environment of always-on, always-available Internet connectivity, network troubleshooting has become somewhat of a lost art. (10 minutes, 2022).
 - [NVIDIA Cumulus and Sonic ethernet OS's](https://www.nvidia.com/en-us/networking/ethernet-switching/) - Open source network operating systems distributed by NVIDIA. (2022).
 - [SSH Bastion Hosts: Setting up](https://goteleport.com/blog/ssh-bastion-host/) - What is an SSH bastion and how is this different from an SSH jump server or an SSH proxy? (7 minutes, 2022).
 - [SSH Bastion Hosts: Security best practices](https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/) - Although it is relatively easy to deploy a bastion host in your infrastructure, securing a bastion host requires careful consideration from design to deployment. (10 minutes, 2022).
@@ -256,6 +263,7 @@ More focused on learning practical *nix skills than the above section.
 - [Borg Pitfalls](https://bas.codes/posts/python-involuntary-borgs) - Python, in general, is a pass-by-reference language. What does that mean, and what do you need to look out for? (5 minutes, 2022).
 - [Compiling Python Syntax to x86-64 Assembly For Fun and (zero) Profit](https://benhoyt.com/writings/pyast64/) - Using Python’s built-in AST module to parse a subset of Python syntax and turn it into an x86-64 assembly program. (8 minutes, 2017).
 - [Debugging with GDB](https://wiki.python.org/moin/DebuggingWithGdb) - Official Python wiki reference source for using `gdb`.
+- [Don't Let dicts Spoil Your Code](https://roman.pt/posts/dont-let-dicts-spoil-your-code/) - What’s wrong with dicts? Dicts are opaque. Dicts are mutable. (7 minutes, 2021).
 - [f-strings are more powerful than you might think](https://martinheinz.dev/blog/70) - Let's take a tour of some awesome f-string features that you'll want to use in your everyday coding. (5 minutes, 2022).
 - [Extracting Text from HTML in Python: A very fast approach](https://rushter.com/blog/python-fast-html-parser/) - When working on NLP problems, sometimes you need to obtain a large corpus of text. (3 minutes, 2019).
 - [Flake8: Style Guide Enforcement Checker](https://flake8.pycqa.org/en/latest/index.html) - Quickstart guide to using Flake8 to enforce code styling. 
@@ -324,7 +332,6 @@ More focused on learning practical *nix skills than the above section.
 - [Algorithms](https://cp-algorithms.com/index.html) - Provides descriptions of many algorithms and data structures especially popular in field of competitive programming.
 - [An Illustrated guide to Elliptic Curve Cryptography Validation](https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/)
 - [Anatomy of a Great Library API](https://brandur.org/nanoglyphs/019-api-libraries)
-- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
 - [Bootstrapping a small math library](https://www.johndcook.com/blog/2021/01/05/bootstrapping-math-library/)
 - [Complexity is Killing Us](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 - [Data Oriented Programming](https://www.manning.com/books/data-oriented-programming?a_aid=viebel&a_bid=d5b546b7)
@@ -370,7 +377,7 @@ More focused on learning practical *nix skills than the above section.
 - [Designing Better File Organization Around Tags, Not Hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies)
 - [Filesystem Links: Everything You Ever Wanted to Know](https://controlaltbackspace.org/filesystem/filesystem-links-everything-you-ever-wanted-to-know/)
 - [Modules, Monoliths, and Microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
-- [Resources to learn distributed systems](https://pierrezemb.fr/posts/distsys-resources/)
+- [Resources to learn distributed systems](https://pierrezemb.fr/posts/distsys-resources/) - A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. (9 minutes, 2022).
 - [Welcome to Operating Systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) - A free online operating systems book. Centered around: virtualization, concurrency, and persistence.
 
 ### Videos
@@ -453,15 +460,25 @@ More focused on learning practical *nix skills than the above section.
 
 ### Lists
 
+- [Awesome Docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools. (2022).
+- [Awesome Documentation Tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation. (2018).
+- [Awesome GitHub Profile Readmes](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
 - [Awesome Guidelines](https://awesome-guidelines.com/) - A set of style guides, practices, and methods for each aspect of a program written in that language.
+- [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
+- [Awesome Markdown Editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web and more. (2022).
+- [Awesome Project Boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates) - Curated list of boilerplates and templates to enhance productivity. Boilerplates for mobile and web apps.
 - [Awesome Self-Reference](https://github.com/aztek/awesome-self-reference)
+- [Awesome SRE](https://github.com/dastergon/awesome-sre) - A curated list of awesome Site Reliability and Production Engineering resources.
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex) - A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
-- [Hacker Laws](https://github.com/dwmkerr/hacker-laws)
+- [Dan Craswell's Distributed Systems Reading List](https://dancres.github.io/Pages/) - All about distributed systems.
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Laws, Theories, Principles and Patterns that developers will find useful. (2022).
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. 
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Tools and resources aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 - [Trailblazers](https://trailblazerlist.xyz/) - A list of startups attempting to solve meaningful problems.
 
 ### Organizations
 
+- [Electronic Frontier Foundation](eff.org/) - The leading nonprofit defending digital privacy, free speech, and innovation.
 - [Open Compute Project](https://www.opencompute.org/)
 - [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
 
