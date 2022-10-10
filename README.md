@@ -478,7 +478,7 @@ More focused on learning practical *nix skills than the above section.
 
 ### Organizations
 
-- [Electronic Frontier Foundation](eff.org/) - The leading nonprofit defending digital privacy, free speech, and innovation.
+- [Electronic Frontier Foundation](https://www.eff.org/) - The leading nonprofit defending digital privacy, free speech, and innovation.
 - [Open Compute Project](https://www.opencompute.org/)
 - [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
 
