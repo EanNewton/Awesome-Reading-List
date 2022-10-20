@@ -225,6 +225,7 @@ More focused on learning practical *nix skills than the above section.
 ### Microsoft
 
 - [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/) - Step-by-step with pictures, how to export a user's Outlook mailbox. (2021).
+- [Fantastic Rootkits and Where to Find Them](https://www.cyberark.com/resources/threat-research-blog/fantastic-rootkits-and-where-to-find-them-part-1) - 
 - [Windows 8: Show/Hide Administrative Tools](https://web.archive.org/web/20150905204425/http://www.eightforums.com/tutorials/4861-administrative-tools-hide-show-windows-8-a.html)
 - [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 - [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
@@ -462,11 +463,7 @@ More focused on learning practical *nix skills than the above section.
 
 - [Awesome Docs](https://github.com/testthedocs/awesome-docs) - A curated list of awesome documentation tools. (2022).
 - [Awesome Documentation Tools](https://github.com/unicodeveloper/awesome-documentation-tools) - Curated list of documentation tools in different languages. API, Architecture, Library and X Documentation. (2018).
-<<<<<<< HEAD
 - [Awesome GitHub Profile Readmes](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
-=======
-- [Awesome Github Profile Readmes](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
->>>>>>> main
 - [Awesome Guidelines](https://awesome-guidelines.com/) - A set of style guides, practices, and methods for each aspect of a program written in that language.
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood) - Everything you know is a lie.
 - [Awesome Markdown Editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors and (pre)viewers for Linux, Apple macOS, Microsoft Windows, the World Wide Web and more. (2022).
@@ -482,7 +479,7 @@ More focused on learning practical *nix skills than the above section.
 
 ### Organizations
 
-- [Electronic Frontier Foundation](eff.org/) - The leading nonprofit defending digital privacy, free speech, and innovation.
+- [Electronic Frontier Foundation](https://www.eff.org/) - The leading nonprofit defending digital privacy, free speech, and innovation.
 - [Open Compute Project](https://www.opencompute.org/)
 - [Write the Docs](https://www.writethedocs.org/) - Write the Docs is a global community of people who care about documentation.
 

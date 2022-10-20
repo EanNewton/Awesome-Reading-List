@@ -225,6 +225,7 @@ More focused on learning practical *nix skills than the above section.
 ### Microsoft
 
 - [How to Download Outlook Emails](https://www.kerneldatarecovery.com/blog/how-to-download-emails-from-microsoft-outlook/) - Step-by-step with pictures, how to export a user's Outlook mailbox. (2021).
+- [Fantastic Rootkits and Where to Find Them](https://www.cyberark.com/resources/threat-research-blog/fantastic-rootkits-and-where-to-find-them-part-1) - In this first part, we will focus on some implementation examples of basic rootkit functionality and the basics of kernel driver development. (20 minutes, 2022).
 - [Windows 8: Show/Hide Administrative Tools](https://web.archive.org/web/20150905204425/http://www.eightforums.com/tutorials/4861-administrative-tools-hide-show-windows-8-a.html)
 - [Windows 10 Hotkeys](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10)
 - [Windows 10: System Requirements](https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715)
