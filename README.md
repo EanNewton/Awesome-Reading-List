@@ -79,6 +79,11 @@ The time to read is based on the median between a reading speed of 183 words per
 
 Contributions are welcomed, please read the guidelines for doing so.
 
+### What's New?
+
+- [C Isn't A Programming Language Anymore](https://faultlore.com/blah/c-isnt-a-language/) - I wouldn’t [mind] if C was actually a programming language. Unfortunately, it’s not, and it hasn’t been for a long time. (20 minutes, 2022).
+- [93% of Paint Splatters are Valid Perl Programs](https://www.mcmillen.dev/sigbovik/) - In this paper, we aim to answer a long-standing open problem in the programming languages community: is it possible to smear paint on the wall without creating valid Perl? (2 minutes, 2019).
+
 ### Databases
 
 - [Data Denormalization is Broken](https://lironshapira.medium.com/data-denormalization-is-broken-7b697352f405) - Why it’s impossible to write good application-layer code for everyday business logic. (20 minutes, 2016).
