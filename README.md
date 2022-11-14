@@ -65,8 +65,18 @@ Articles, blog posts, web apps, videos, and other tidbits of STEM related awesom
 - [Follow](#follow)
 <!--lint enable awesome-toc-->
 
-<!-- CONTENT -->
 
+# BUY ME A COFFEE
+
+
+I love teaching others and seeing the community grow. Time is limited but donations will allow me to to help the community more. How useful was this to you? If it  was I would be humbly grateful for your donation.🙏
+
+[PayPal](https://www.paypal.com/donate/?hosted_button_id=BJ234WR6EKBDG) - to help me help you better.
+
+Thank you! May you be rich as Crassus and happy as Buddha! :)
+
+<!-- CONTENT -->
+---
 ## main() {
 
 This list is loosely organized into categories, not everything fits neatly and I have in cases chosen arbitrarily. Articles within sections are organized alphabetically. All links to other lists can be found under Reference Materials.
